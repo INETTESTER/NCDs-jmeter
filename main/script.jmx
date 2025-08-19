@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.2">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Test Plan" enabled="true">
+      <boolProp name="TestPlan.functional_mode">false</boolProp>
+      <boolProp name="TestPlan.tearDown_on_shutdown">false</boolProp>
+      <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
+      <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+    </TestPlan>
+    <hashTree>
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group" enabled="true">
+        <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
+        <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
+          <stringProp name="LoopController.loops">1</stringProp>
+          <boolProp name="LoopController.continue_forever">false</boolProp>
+        </elementProp>
+        <stringProp name="ThreadGroup.num_threads">${__P(user,1)}</stringProp>
+        <stringProp name="ThreadGroup.ramp_time">${__P(rampup,1)}</stringProp>
+        <boolProp name="ThreadGroup.delayedStart">false</boolProp>
+        <boolProp name="ThreadGroup.scheduler">false</boolProp>
+        <stringProp name="ThreadGroup.duration"></stringProp>
+        <stringProp name="ThreadGroup.delay"></stringProp>
+        <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
+      </ThreadGroup>
+      <hashTree>
+        <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
+          <collectionProp name="HeaderManager.headers">
+            <elementProp name="" elementType="Header">
+              <stringProp name="Header.name">Cookie</stringProp>
+              <stringProp name="Header.value">auth_service=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiIwNzEwMEY5RDY5OTdEIiwiZXhwIjoxNzU2NDQxNTY3LCJpYXQiOjE3NTUyMzE5NjcsImlzcyI6Im5jZHMtcHJldmVudGlvbiIsInN1YiI6IjBlMjUxMTUwLTFhNzktNDU4My04ZjA5LTRhNzczODAyNDZjNSJ9.NIlHewV7K4H6nxL2_J1kuJ3yVoMO0xOpALq3Z2HSTpo</stringProp>
+            </elementProp>
+            <elementProp name="" elementType="Header">
+              <stringProp name="Header.name">Content-Type</stringProp>
+              <stringProp name="Header.value">application/json</stringProp>
+            </elementProp>
+          </collectionProp>
+        </HeaderManager>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="ดึงข้อมูลการส่งตัวภายในระบบ NCDs" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v2/refer/ncd</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="ดึงข้อมูลทะเบียนบุคคลทั้งหน่วยบริการ" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v1/patients</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="ดึงข้อมูล Visit ทั้งหน่วยบริการ" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v2/visit</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="ดึงข้อมูลการนัดหมายอบรมในหน่วยบริการ" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v2/trainings</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="ดึงข้อมูลผลประเมินสุขภาพ" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments">
+              <elementProp name="type" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
+                <stringProp name="Argument.name">type</stringProp>
+                <stringProp name="Argument.value">assessment</stringProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v2/visit/:patient_id/health-result</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="เพิ่มทะเบียนบุคคลด้วย Excel" enabled="false">
+          <elementProp name="HTTPsampler.Files" elementType="HTTPFileArgs">
+            <collectionProp name="HTTPFileArgs.files">
+              <elementProp name="C:\Users\Administrator\Desktop\NCDs\ncds_person_template (9).xlsx" elementType="HTTPFileArg">
+                <stringProp name="File.mimetype">application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</stringProp>
+                <stringProp name="File.path">C:\Users\Administrator\Desktop\NCDs\ncds_person_template (9).xlsx</stringProp>
+                <stringProp name="File.paramname">file</stringProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v1/patients/excel</stringProp>
+          <stringProp name="HTTPSampler.method">POST</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Dropdown รายชื่อทะเบียนบุคคลในหน่วยบริการ" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments">
+              <elementProp name="search" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
+                <stringProp name="Argument.name">search</stringProp>
+                <stringProp name="Argument.value">%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%99%E0%B9%89%E0%B8%B2%20%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A</stringProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.contentEncoding">๊utf-8</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v1/options/patient-list</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="สร้าง Visit" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+            <collectionProp name="Arguments.arguments">
+              <elementProp name="" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                <stringProp name="Argument.value">{&#xd;
+  &quot;patient_id&quot;: &quot;be900336-0445-4733-b503-8f275608e3f3&quot;&#xd;
+}</stringProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v1/visit</stringProp>
+          <stringProp name="HTTPSampler.method">POST</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="ดึงข้อมูล Visit รายบุคคล" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v1/visit/9cc9f2dc-e4d7-47e9-88b5-fadfda852d2d</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="สร้างแบบประเมินสุขภาพ" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+            <collectionProp name="Arguments.arguments">
+              <elementProp name="" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                <stringProp name="Argument.value">{&#xd;
+        &quot;vn&quot;: &quot;VN000553&quot;,&#xd;
+        &quot;patient_id&quot;: &quot;be900336-0445-4733-b503-8f275608e3f3&quot;,&#xd;
+        &quot;answer&quot;: [&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;weight&quot;, &quot;value&quot;: 25, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;height&quot;, &quot;value&quot;: 155, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;waist&quot;, &quot;value&quot;: 23, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;temperature&quot;, &quot;value&quot;: 36, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;heart_rate&quot;, &quot;value&quot;: 90, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;breath_rate&quot;, &quot;value&quot;: 22, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;sbp&quot;, &quot;value&quot;: 99, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;dbp&quot;, &quot;value&quot;: 88, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;hba1c&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;is_diabetes&quot;, &quot;value&quot;: 1, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;family_diabetes&quot;, &quot;value&quot;: 1, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;is_fasting&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cvd&quot;, &quot;key_name&quot;: &quot;blood_sugar&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;carbohydrate&quot;, &quot;key_name&quot;: &quot;carbohydrate_1&quot;, &quot;value&quot;: 1, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;carbohydrate&quot;, &quot;key_name&quot;: &quot;carbohydrate_2&quot;, &quot;value&quot;: 40, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;mental&quot;, &quot;key_name&quot;: &quot;mental_1&quot;, &quot;value&quot;: 0, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;mental&quot;, &quot;key_name&quot;: &quot;mental_2&quot;, &quot;value&quot;: 0, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;cigarette&quot;, &quot;key_name&quot;: &quot;cigarette_1&quot;, &quot;value&quot;: 0, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cigarette&quot;, &quot;key_name&quot;: &quot;cigarette_2&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cigarette&quot;, &quot;key_name&quot;: &quot;cigarette_3&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;cigarette&quot;, &quot;key_name&quot;: &quot;cigarette_4&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;alcohol&quot;, &quot;key_name&quot;: &quot;alcohol_1&quot;, &quot;value&quot;: 0, &quot;point&quot;: 1 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;alcohol&quot;, &quot;key_name&quot;: &quot;alcohol_2&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;alcohol&quot;, &quot;key_name&quot;: &quot;alcohol_3&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;alcohol&quot;, &quot;key_name&quot;: &quot;alcohol_4&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;alcohol&quot;, &quot;key_name&quot;: &quot;alcohol_5&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;alcohol&quot;, &quot;key_name&quot;: &quot;alcohol_6&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;alcohol&quot;, &quot;key_name&quot;: &quot;alcohol_7&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_awareness&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_awareness_1&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_awareness&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_awareness_2&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_awareness&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_awareness_3&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_awareness&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_awareness_4&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_awareness&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_awareness_5&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_awareness&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_awareness_6&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_heath_access&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_heath_access_1&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_heath_access&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_heath_access_2&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_self_care&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_self_care_1&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_self_care&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_self_care_2&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_communication&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_communication_1&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_media&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_media_1&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_media&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_media_2&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_media&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_media_3&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_knowledge_decision&quot;, &quot;key_name&quot;: &quot;kidney_knowledge_decision_1&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_behavior_diet&quot;, &quot;key_name&quot;: &quot;kidney_behavior_diet_1&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_behavior_diet&quot;, &quot;key_name&quot;: &quot;kidney_behavio_diet_2&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_behavior_diet&quot;, &quot;key_name&quot;: &quot;kidney_behavior_diet_3&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_behavior_diet&quot;, &quot;key_name&quot;: &quot;kidney_behavior_diet_4&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_behavior_diet&quot;, &quot;key_name&quot;: &quot;kidney_behavior_diet_5&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_behavior_exercise&quot;, &quot;key_name&quot;: &quot;kidney_behavior_exercise_1&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_behavior_smoke_alcohol&quot;, &quot;key_name&quot;: &quot;kidney_behavior_smoke_alcohol_1&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_behavior_smoke_alcohol&quot;, &quot;key_name&quot;: &quot;kidney_behavior_smoke_alcohol_2&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_behavior_medication&quot;, &quot;key_name&quot;: &quot;kidney_behavior_medication_1&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_behavior_medication&quot;, &quot;key_name&quot;: &quot;kidney_behavior_medication_2&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 },&#xd;
+            { &quot;assessment_topic&quot;: &quot;kidney_behavior_medication&quot;, &quot;key_name&quot;: &quot;kidney_behavior_medication_3&quot;, &quot;value&quot;: null, &quot;point&quot;: 0 }&#xd;
+        ]&#xd;
+    }</stringProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v1/assessments</stringProp>
+          <stringProp name="HTTPSampler.method">POST</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Dashboard แสดงภาพรวมสุขภาพแต่ละแบบประเมิน" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v2/assessments/f288b731-08a5-43c7-8db5-0fc26bb3622a/dashboard</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="สร้างนัดหมายการอบรม" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+            <collectionProp name="Arguments.arguments">
+              <elementProp name="" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                <stringProp name="Argument.value">{&#xd;
+    &quot;patient_id&quot;: &quot;ad2c9578-2cdc-49e3-80b0-98b133ca86f0&quot;,&#xd;
+    &quot;appointment_type&quot;: &quot;recurring&quot;,&#xd;
+    &quot;recurring&quot;: {&#xd;
+        &quot;start_time&quot;: &quot;15:00&quot;,&#xd;
+        &quot;end_time&quot;: &quot;17:00&quot;,&#xd;
+        &quot;dates&quot;: [&#xd;
+            &quot;2025-08-28T00:00:00Z&quot;,&#xd;
+            &quot;2025-09-01T00:00:00Z&quot;,&#xd;
+            &quot;2025-09-07T00:00:00Z&quot;,&#xd;
+            &quot;2025-09-14T00:00:00Z&quot;,&#xd;
+            &quot;2025-09-21T00:00:00Z&quot;,&#xd;
+            &quot;2025-09-28T00:00:00Z&quot;,&#xd;
+            &quot;2025-10-04T00:00:00Z&quot;,&#xd;
+            &quot;2025-10-11T00:00:00Z&quot;,&#xd;
+            &quot;2025-10-18T00:00:00Z&quot;,&#xd;
+            &quot;2025-10-25T00:00:00Z&quot;,&#xd;
+            &quot;2025-11-02T00:00:00Z&quot;,&#xd;
+            &quot;2025-11-09T00:00:00Z&quot;&#xd;
+        ]&#xd;
+    },&#xd;
+    &quot;custom&quot;: []&#xd;
+}</stringProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v1/trainings</stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="สร้างเอกสารการส่งตัว" enabled="true">
+          <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+            <collectionProp name="Arguments.arguments">
+              <elementProp name="" elementType="HTTPArgument">
+                <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                <stringProp name="Argument.value">{&#xd;
+    &quot;vn&quot;: &quot;VN001072&quot;,&#xd;
+    &quot;refer_type&quot;: &quot;ncd&quot;,&#xd;
+    &quot;refer_date&quot;: &quot;2025-05-15T00:00:00.000Z&quot;,&#xd;
+    &quot;refer_expire_date&quot;: &quot;2025-06-15T00:00:00.000Z&quot;,&#xd;
+    &quot;hcode_origin&quot;: &quot;99998&quot;,&#xd;
+    &quot;hcode_destination&quot;: &quot;99998&quot;,&#xd;
+    &quot;opd_or_ipd&quot;: &quot;OPD&quot;,&#xd;
+    &quot;emergency&quot;: &quot;5&quot;,&#xd;
+    &quot;medical_coverage&quot;: {&#xd;
+        &quot;maininscl&quot;: &quot;NOCOVERAGE&quot;,&#xd;
+        &quot;ref_name&quot;: &quot;&quot;,&#xd;
+        &quot;hcode_main&quot;: &quot;&quot;,&#xd;
+        &quot;hcode_sub&quot;: &quot;&quot;,&#xd;
+        &quot;no&quot;: &quot;&quot;,&#xd;
+        &quot;hcode_payment&quot;: &quot;&quot;&#xd;
+    },&#xd;
+    &quot;patient&quot;: {&#xd;
+        &quot;profile&quot;: {&#xd;
+            &quot;patient_id&quot;: &quot;ad2c9578-2cdc-49e3-80b0-98b133ca86f0&quot;,&#xd;
+            &quot;hn&quot;: &quot;256805000050&quot;,&#xd;
+            &quot;cid&quot;: &quot;SNKJbFoKYlE4rnKmPbD/vYv9IHcI/JiEpYCA1EE=&quot;,&#xd;
+            &quot;title_name&quot;: &quot;นางสาว&quot;,&#xd;
+            &quot;first_name&quot;: &quot;ชัญญา&quot;,&#xd;
+            &quot;middle_name&quot;: &quot;&quot;,&#xd;
+            &quot;last_name&quot;: &quot;ทดสอบ&quot;,&#xd;
+            &quot;gender&quot;: &quot;female&quot;,&#xd;
+            &quot;birthdate&quot;: &quot;1990-04-18T00:00:00Z&quot;,&#xd;
+            &quot;mobile_no&quot;: &quot;&quot;&#xd;
+        }&#xd;
+    },&#xd;
+    &quot;initial_diagnosis_free_text&quot;: &quot;fat&quot;,&#xd;
+    &quot;reason_refer&quot;: &quot;ทดสอบแก้ไขคำตอบอบรม7&quot;,&#xd;
+    &quot;disease_type&quot;: [&#xd;
+        &quot;bmi&quot;&#xd;
+    ],&#xd;
+    &quot;doctor_cid&quot;: &quot;ccccc&quot;&#xd;
+}</stringProp>
+                <stringProp name="Argument.metadata">=</stringProp>
+              </elementProp>
+            </collectionProp>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">ncds-prevention.buddy-care.org</stringProp>
+          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">/service/api/v1/refer</stringProp>
+          <stringProp name="HTTPSampler.method">POST</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request" enabled="false">
+          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <boolProp name="HTTPSampler.BROWSER_COMPATIBLE_MULTIPART">false</boolProp>
+          <boolProp name="HTTPSampler.image_parser">false</boolProp>
+          <boolProp name="HTTPSampler.concurrentDwn">false</boolProp>
+          <stringProp name="HTTPSampler.concurrentPool">6</stringProp>
+          <boolProp name="HTTPSampler.md5">false</boolProp>
+          <intProp name="HTTPSampler.ipSourceType">0</intProp>
+        </HTTPSamplerProxy>
+        <hashTree/>
+        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
+          <boolProp name="ResultCollector.error_logging">false</boolProp>
+          <objProp>
+            <name>saveConfig</name>
+            <value class="SampleSaveConfiguration">
+              <time>true</time>
+              <latency>true</latency>
+              <timestamp>true</timestamp>
+              <success>true</success>
+              <label>true</label>
+              <code>true</code>
+              <message>true</message>
+              <threadName>true</threadName>
+              <dataType>true</dataType>
+              <encoding>false</encoding>
+              <assertions>true</assertions>
+              <subresults>true</subresults>
+              <responseData>false</responseData>
+              <samplerData>false</samplerData>
+              <xml>false</xml>
+              <fieldNames>true</fieldNames>
+              <responseHeaders>false</responseHeaders>
+              <requestHeaders>false</requestHeaders>
+              <responseDataOnError>false</responseDataOnError>
+              <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+              <assertionsResultsToSave>0</assertionsResultsToSave>
+              <bytes>true</bytes>
+              <sentBytes>true</sentBytes>
+              <url>true</url>
+              <threadCounts>true</threadCounts>
+              <idleTime>true</idleTime>
+              <connectTime>true</connectTime>
+            </value>
+          </objProp>
+          <stringProp name="filename"></stringProp>
+        </ResultCollector>
+        <hashTree/>
+      </hashTree>
+    </hashTree>
+  </hashTree>
+</jmeterTestPlan>
