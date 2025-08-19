@@ -1,0 +1,34 @@
+{
+  "ดึงข้อมูลผลประเมินสุขภาพ" : {
+    "transaction" : "ดึงข้อมูลผลประเมินสุขภาพ",
+    "sampleCount" : 1500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2595.7446666666674,
+    "medianResTime" : 2883.5,
+    "minResTime" : 25.0,
+    "maxResTime" : 4783.0,
+    "pct1ResTime" : 4199.300000000001,
+    "pct2ResTime" : 4333.95,
+    "pct3ResTime" : 4621.98,
+    "throughput" : 308.3881578947368,
+    "receivedKBytesPerSec" : 214.7273013466283,
+    "sentKBytesPerSec" : 148.773193359375
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2595.7446666666674,
+    "medianResTime" : 2883.5,
+    "minResTime" : 25.0,
+    "maxResTime" : 4783.0,
+    "pct1ResTime" : 4199.300000000001,
+    "pct2ResTime" : 4333.95,
+    "pct3ResTime" : 4621.98,
+    "throughput" : 308.3881578947368,
+    "receivedKBytesPerSec" : 214.7273013466283,
+    "sentKBytesPerSec" : 148.773193359375
+  }
+}

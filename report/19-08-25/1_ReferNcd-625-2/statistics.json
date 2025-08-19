@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 625,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1034.1295999999995,
+    "medianResTime" : 580.0,
+    "minResTime" : 43.0,
+    "maxResTime" : 2524.0,
+    "pct1ResTime" : 2311.6,
+    "pct2ResTime" : 2361.1,
+    "pct3ResTime" : 2461.4,
+    "throughput" : 244.33150899139952,
+    "receivedKBytesPerSec" : 1413.0187463350276,
+    "sentKBytesPerSec" : 108.80387509773261
+  },
+  "ดึงข้อมูลการส่งตัวภายในระบบ NCDs" : {
+    "transaction" : "ดึงข้อมูลการส่งตัวภายในระบบ NCDs",
+    "sampleCount" : 625,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1034.1295999999995,
+    "medianResTime" : 580.0,
+    "minResTime" : 43.0,
+    "maxResTime" : 2524.0,
+    "pct1ResTime" : 2311.6,
+    "pct2ResTime" : 2361.1,
+    "pct3ResTime" : 2461.4,
+    "throughput" : 244.33150899139952,
+    "receivedKBytesPerSec" : 1413.0187463350276,
+    "sentKBytesPerSec" : 108.80387509773261
+  }
+}

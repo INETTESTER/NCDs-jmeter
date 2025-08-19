@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 829.9960000000004,
+    "medianResTime" : 783.5,
+    "minResTime" : 30.0,
+    "maxResTime" : 2279.0,
+    "pct1ResTime" : 1961.3000000000002,
+    "pct2ResTime" : 2120.95,
+    "pct3ResTime" : 2230.87,
+    "throughput" : 210.79258010118042,
+    "receivedKBytesPerSec" : 749.0958974494098,
+    "sentKBytesPerSec" : 93.66271869730186
+  },
+  "ดึงข้อมูลทะเบียนบุคคลทั้งหน่วยบริการ" : {
+    "transaction" : "ดึงข้อมูลทะเบียนบุคคลทั้งหน่วยบริการ",
+    "sampleCount" : 500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 829.9960000000004,
+    "medianResTime" : 783.5,
+    "minResTime" : 30.0,
+    "maxResTime" : 2279.0,
+    "pct1ResTime" : 1961.3000000000002,
+    "pct2ResTime" : 2120.95,
+    "pct3ResTime" : 2230.87,
+    "throughput" : 210.79258010118042,
+    "receivedKBytesPerSec" : 749.0958974494098,
+    "sentKBytesPerSec" : 93.66271869730186
+  }
+}
