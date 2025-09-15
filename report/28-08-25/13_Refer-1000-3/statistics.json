@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2245.8599999999997,
+    "medianResTime" : 2359.0,
+    "minResTime" : 43.0,
+    "maxResTime" : 3794.0,
+    "pct1ResTime" : 3308.0,
+    "pct2ResTime" : 3484.7999999999997,
+    "pct3ResTime" : 3702.99,
+    "throughput" : 259.67281225655677,
+    "receivedKBytesPerSec" : 171.42462996624255,
+    "sentKBytesPerSec" : 417.910932225396
+  },
+  "สร้างเอกสารการส่งตัว" : {
+    "transaction" : "สร้างเอกสารการส่งตัว",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2245.8599999999997,
+    "medianResTime" : 2359.0,
+    "minResTime" : 43.0,
+    "maxResTime" : 3794.0,
+    "pct1ResTime" : 3308.0,
+    "pct2ResTime" : 3484.7999999999997,
+    "pct3ResTime" : 3702.99,
+    "throughput" : 259.67281225655677,
+    "receivedKBytesPerSec" : 171.42462996624255,
+    "sentKBytesPerSec" : 417.910932225396
+  }
+}

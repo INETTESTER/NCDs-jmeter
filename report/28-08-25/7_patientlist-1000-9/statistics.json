@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1586.9329999999995,
+    "medianResTime" : 1772.5,
+    "minResTime" : 23.0,
+    "maxResTime" : 3286.0,
+    "pct1ResTime" : 2714.6,
+    "pct2ResTime" : 2888.7,
+    "pct3ResTime" : 3161.0,
+    "throughput" : 299.94001199760044,
+    "receivedKBytesPerSec" : 252.48856478704258,
+    "sentKBytesPerSec" : 184.82631598680263
+  },
+  "Dropdown รายชื่อทะเบียนบุคคลในหน่วยบริการ" : {
+    "transaction" : "Dropdown รายชื่อทะเบียนบุคคลในหน่วยบริการ",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1586.9329999999995,
+    "medianResTime" : 1772.5,
+    "minResTime" : 23.0,
+    "maxResTime" : 3286.0,
+    "pct1ResTime" : 2714.6,
+    "pct2ResTime" : 2888.7,
+    "pct3ResTime" : 3161.0,
+    "throughput" : 299.94001199760044,
+    "receivedKBytesPerSec" : 252.48856478704258,
+    "sentKBytesPerSec" : 184.82631598680263
+  }
+}

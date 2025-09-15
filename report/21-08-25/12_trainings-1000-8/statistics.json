@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 12,
+    "errorPct" : 1.2,
+    "meanResTime" : 23687.45299999996,
+    "medianResTime" : 24966.0,
+    "minResTime" : 6983.0,
+    "maxResTime" : 32833.0,
+    "pct1ResTime" : 28286.0,
+    "pct2ResTime" : 30019.0,
+    "pct3ResTime" : 32633.91,
+    "throughput" : 30.252609287551053,
+    "receivedKBytesPerSec" : 26.580698835274543,
+    "sentKBytesPerSec" : 33.88847659204357
+  },
+  "สร้างนัดหมายการอบรม" : {
+    "transaction" : "สร้างนัดหมายการอบรม",
+    "sampleCount" : 1000,
+    "errorCount" : 12,
+    "errorPct" : 1.2,
+    "meanResTime" : 23687.45299999996,
+    "medianResTime" : 24966.0,
+    "minResTime" : 6983.0,
+    "maxResTime" : 32833.0,
+    "pct1ResTime" : 28286.0,
+    "pct2ResTime" : 30019.0,
+    "pct3ResTime" : 32633.91,
+    "throughput" : 30.252609287551053,
+    "receivedKBytesPerSec" : 26.580698835274543,
+    "sentKBytesPerSec" : 33.88847659204357
+  }
+}

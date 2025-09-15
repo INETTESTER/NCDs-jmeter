@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1756369956083,31,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-788,text,false,,4174,0,719,719,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,31
+1756369955780,344,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-557,text,false,,4174,0,741,741,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,344
+1756369956126,131,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-757,text,false,,4174,0,771,771,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,131
+1756369955779,517,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-581,text,false,,4174,0,806,806,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,517
+1756369956071,225,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-665,text,false,,4174,0,806,806,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,225
+1756369955786,618,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-590,text,false,,4174,0,810,810,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,617
+1756369956133,193,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-635,text,false,,4174,0,839,839,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,193
+1756369955769,901,สร้าง Visit,201,Created,Thread Group 1-575,text,true,,703,533,854,854,https://ncds-prevention.buddy-care.org/service/api/v1/visit,896,0,580
+1756369955605,1065,สร้าง Visit,201,Created,Thread Group 1-405,text,true,,703,533,854,854,https://ncds-prevention.buddy-care.org/service/api/v1/visit,1059,0,718
+1756369955785,897,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-591,text,false,,4174,0,856,856,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,897
+1756369955773,979,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-580,text,false,,4174,0,866,866,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,979
+1756369955785,1031,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-555,text,false,,4174,0,872,872,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1031
+1756369956861,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-651,text,false,,4174,0,877,877,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956874,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-1000,text,false,,4174,0,878,878,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956874,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-738,text,false,,4174,0,878,878,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369956875,12,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-859,text,false,,4174,0,878,878,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,12
+1756369956897,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-987,text,false,,4174,0,879,879,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956898,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-992,text,false,,4174,0,879,879,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369956898,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-721,text,false,,4174,0,877,877,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369956896,12,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-723,text,false,,4174,0,876,876,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,12
+1756369955781,1130,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-547,text,false,,4174,0,875,875,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1130
+1756369956909,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-995,text,false,,4174,0,875,875,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956912,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-993,text,false,,4174,0,874,874,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369956912,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-792,text,false,,4174,0,874,874,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369956910,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-785,text,false,,4174,0,873,873,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369956891,31,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-994,text,false,,4174,0,872,872,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,31
+1756369956912,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-784,text,false,,4174,0,872,872,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369956925,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-986,text,false,,4174,0,872,872,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369956924,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-802,text,false,,4174,0,872,872,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369955783,1152,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-588,text,false,,4174,0,871,871,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1152
+1756369956926,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-762,text,false,,4174,0,871,871,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369956925,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-985,text,false,,4174,0,869,869,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369956924,13,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-787,text,false,,4174,0,869,869,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,13
+1756369955783,1154,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-589,text,false,,4174,0,869,869,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1153
+1756369956877,64,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-730,text,false,,4174,0,868,868,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,64
+1756369955783,1162,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-553,text,false,,4174,0,868,868,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1162
+1756369956937,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-979,text,false,,4174,0,867,867,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956939,7,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-761,text,false,,4174,0,867,867,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,7
+1756369956939,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-800,text,false,,4174,0,865,865,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369956940,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-978,text,false,,4174,0,865,865,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956883,75,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-728,text,false,,4174,0,865,865,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,75
+1756369956962,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-976,text,false,,4174,0,866,866,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369956960,14,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-969,text,false,,4174,0,865,865,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,14
+1756369956960,15,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-801,text,false,,4174,0,864,864,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,15
+1756369956967,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-770,text,false,,4174,0,865,865,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369956977,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-803,text,false,,4174,0,865,865,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956976,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-961,text,false,,4174,0,865,865,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369956967,19,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-970,text,false,,4174,0,863,863,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,19
+1756369956982,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-968,text,false,,4174,0,864,864,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956986,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-808,text,false,,4174,0,863,863,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956979,17,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-771,text,false,,4174,0,862,862,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,17
+1756369956988,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-962,text,false,,4174,0,862,862,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369956987,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-963,text,false,,4174,0,861,861,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369956988,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-810,text,false,,4174,0,860,860,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956996,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-747,text,false,,4174,0,860,860,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369956996,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-960,text,false,,4174,0,861,861,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956998,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-720,text,false,,4174,0,860,860,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956999,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-955,text,false,,4174,0,860,860,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957003,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-954,text,false,,4174,0,859,859,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957001,12,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-763,text,false,,4174,0,859,859,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,12
+1756369957007,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-952,text,false,,4174,0,860,860,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957014,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-953,text,false,,4174,0,859,859,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957009,14,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-739,text,false,,4174,0,859,859,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,14
+1756369957014,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-769,text,false,,4174,0,857,857,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369957017,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-946,text,false,,4174,0,856,856,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957019,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-833,text,false,,4174,0,855,855,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957026,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-768,text,false,,4174,0,856,856,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957029,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-944,text,false,,4174,0,856,856,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957030,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-947,text,false,,4174,0,856,856,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957030,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-835,text,false,,4174,0,854,854,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957033,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-945,text,false,,4174,0,854,854,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957035,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-713,text,false,,4174,0,853,853,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957037,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-736,text,false,,4174,0,852,852,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957038,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-832,text,false,,4174,0,851,851,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957042,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-826,text,false,,4174,0,852,852,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957041,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-858,text,false,,4174,0,851,851,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369957050,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-824,text,false,,4174,0,851,851,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957051,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-675,text,false,,4174,0,851,851,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957046,15,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-705,text,false,,4174,0,850,850,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,15
+1756369957056,13,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-873,text,false,,4174,0,849,849,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,13
+1756369957060,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-856,text,false,,4174,0,849,849,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957057,12,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-825,text,false,,4174,0,848,848,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369955526,1550,สร้าง Visit,201,Created,Thread Group 1-179,text,true,,703,533,851,851,https://ncds-prevention.buddy-care.org/service/api/v1/visit,1550,0,867
+1756369957063,16,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-937,text,false,,4174,0,850,850,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,16
+1756369957070,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-649,text,false,,4174,0,849,849,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369957075,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-869,text,false,,4174,0,848,848,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957076,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-870,text,false,,4174,0,847,847,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957079,16,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-709,text,false,,4174,0,846,846,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,16
+1756369957097,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-949,text,false,,4174,0,846,846,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957099,7,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-951,text,false,,4174,0,845,845,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,7
+1756369957100,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-940,text,false,,4174,0,847,847,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957098,13,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-956,text,false,,4174,0,847,847,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,13
+1756369957100,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-942,text,false,,4174,0,845,845,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369957099,14,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-950,text,false,,4174,0,845,845,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,14
+1756369957100,28,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-941,text,false,,4174,0,843,843,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,27
+1756369957109,19,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-811,text,false,,4174,0,843,843,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,19
+1756369957099,29,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-943,text,false,,4174,0,843,843,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,29
+1756369957121,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-932,text,false,,4174,0,841,841,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957130,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-823,text,false,,4174,0,855,855,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957131,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-927,text,false,,4174,0,854,854,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957131,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-926,text,false,,4174,0,853,853,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957133,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-744,text,false,,4174,0,856,856,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369955741,1403,สร้าง Visit,201,Created,Thread Group 1-519,text,true,,703,533,855,855,https://ncds-prevention.buddy-care.org/service/api/v1/visit,1403,0,539
+1756369957140,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-925,text,false,,4174,0,854,854,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957140,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-882,text,false,,4174,0,853,853,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369957142,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-919,text,false,,4174,0,852,852,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957143,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-917,text,false,,4174,0,852,852,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957143,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-916,text,false,,4174,0,851,851,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369956132,1023,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-634,text,false,,4174,0,851,851,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1023
+1756369957143,13,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-918,text,false,,4174,0,850,850,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,13
+1756369957152,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-888,text,false,,4174,0,852,852,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957155,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-889,text,false,,4174,0,851,851,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957157,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-910,text,false,,4174,0,850,850,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957155,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-911,text,false,,4174,0,849,849,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957157,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-831,text,false,,4174,0,848,848,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957160,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-890,text,false,,4174,0,849,849,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957159,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-909,text,false,,4174,0,850,850,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369957160,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-783,text,false,,4174,0,850,850,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957163,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-891,text,false,,4174,0,848,848,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369957167,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-896,text,false,,4174,0,847,847,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957168,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-898,text,false,,4174,0,846,846,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957169,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-897,text,false,,4174,0,846,846,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957171,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-908,text,false,,4174,0,845,845,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369956128,1055,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-775,text,false,,4174,0,845,845,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1055
+1756369957178,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-904,text,false,,4174,0,844,844,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369956126,1061,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-748,text,false,,4174,0,844,844,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1061
+1756369957180,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-828,text,false,,4174,0,842,842,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957180,10,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-905,text,false,,4174,0,841,841,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,10
+1756369957182,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-789,text,false,,4174,0,841,841,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957179,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-640,text,false,,4174,0,840,840,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957170,22,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-899,text,false,,4174,0,839,839,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,21
+1756369956130,1062,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-625,text,false,,4174,0,838,838,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1062
+1756369957181,12,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-666,text,false,,4174,0,838,838,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,12
+1756369957192,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-822,text,false,,4174,0,841,841,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957192,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-907,text,false,,4174,0,840,840,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957193,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-711,text,false,,4174,0,840,840,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957192,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-938,text,false,,4174,0,839,839,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957193,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-804,text,false,,4174,0,837,837,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957194,12,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-860,text,false,,4174,0,836,836,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,12
+1756369957195,12,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-799,text,false,,4174,0,835,835,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,12
+1756369955777,1432,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-583,text,false,,4174,0,834,834,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1431
+1756369957195,15,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-914,text,false,,4174,0,834,834,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,15
+1756369957199,12,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-912,text,false,,4174,0,833,833,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,12
+1756369957206,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-725,text,false,,4174,0,831,831,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957194,21,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-906,text,false,,4174,0,830,830,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,21
+1756369957194,22,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-939,text,false,,4174,0,829,829,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,22
+1756369957208,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-718,text,false,,4174,0,828,828,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957200,18,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-913,text,false,,4174,0,828,828,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,18
+1756369957212,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-847,text,false,,4174,0,830,830,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369956073,1150,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-862,text,false,,4174,0,830,830,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1150
+1756369957217,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-815,text,false,,4174,0,829,829,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957218,8,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-743,text,false,,4174,0,828,828,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,8
+1756369957219,9,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-923,text,false,,4174,0,827,827,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,9
+1756369957220,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-880,text,false,,4174,0,826,826,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369957219,13,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-883,text,false,,4174,0,825,825,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,13
+1756369957220,13,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-920,text,false,,4174,0,824,824,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,13
+1756369957221,12,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-922,text,false,,4174,0,824,824,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,12
+1756369957218,15,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-921,text,false,,4174,0,824,824,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,15
+1756369957222,12,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-928,text,false,,4174,0,824,824,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,12
+1756369957221,14,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-881,text,false,,4174,0,825,825,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,14
+1756369956084,1154,สร้าง Visit,201,Created,Thread Group 1-735,text,true,,703,533,827,827,https://ncds-prevention.buddy-care.org/service/api/v1/visit,1154,0,132
+1756369956127,1111,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-863,text,false,,4174,0,828,828,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1111
+1756369957234,11,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-929,text,false,,4174,0,844,844,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,11
+1756369957233,12,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-875,text,false,,4174,0,844,844,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,12
+1756369956082,1167,สร้าง Visit,201,Created,Thread Group 1-733,text,true,,703,533,843,843,https://ncds-prevention.buddy-care.org/service/api/v1/visit,1167,0,130
+1756369957235,15,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-874,text,false,,4174,0,842,842,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,15
+1756369957235,15,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-782,text,false,,4174,0,842,842,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,15
+1756369957236,32,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-877,text,false,,4174,0,834,834,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,32
+1756369957237,35,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-885,text,false,,4174,0,833,833,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,34
+1756369957237,35,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-657,text,false,,4174,0,832,832,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,35
+1756369957240,33,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-894,text,false,,4174,0,831,831,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,33
+1756369957238,35,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-878,text,false,,4174,0,830,830,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,35
+1756369957239,35,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-892,text,false,,4174,0,829,829,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,34
+1756369957240,36,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-895,text,false,,4174,0,827,827,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,36
+1756369955777,1504,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-545,text,false,,4174,0,826,826,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1504
+1756369957240,46,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-809,text,false,,4174,0,825,825,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,46
+1756369956081,1209,สร้าง Visit,201,Created,Thread Group 1-672,text,true,,703,533,824,824,https://ncds-prevention.buddy-care.org/service/api/v1/visit,1209,0,111
+1756369956080,1213,สร้าง Visit,201,Created,Thread Group 1-659,text,true,,703,533,823,823,https://ncds-prevention.buddy-care.org/service/api/v1/visit,1213,0,112
+1756369956128,1171,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-633,text,false,,4174,0,822,822,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1171
+1756369957242,58,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-884,text,false,,4174,0,821,821,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,58
+1756369956101,1205,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-658,text,false,,4174,0,820,820,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1205
+1756369956128,1179,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-871,text,false,,4174,0,819,819,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1179
+1756369956129,1184,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-756,text,false,,4174,0,818,818,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1184
+1756369957242,75,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-887,text,false,,4174,0,817,817,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,75
+1756369957243,79,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-840,text,false,,4174,0,816,816,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,79
+1756369957243,81,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-893,text,false,,4174,0,815,815,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,81
+1756369957243,84,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-902,text,false,,4174,0,814,814,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,84
+1756369957244,85,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-839,text,false,,4174,0,813,813,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,85
+1756369957242,80,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-886,text,false,,4174,0,812,812,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,80
+1756369957244,85,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-845,text,false,,4174,0,812,812,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,85
+1756369955777,1555,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-582,text,false,,4174,0,810,810,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,1555
+1756369957243,89,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-903,text,false,,4174,0,810,810,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,89
+1756369957243,91,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-901,text,false,,4174,0,808,808,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,90
+1756369957245,89,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-758,text,false,,4174,0,807,807,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,89
+1756369957243,95,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-726,text,false,,4174,0,806,806,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,95
+1756369957246,91,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-936,text,false,,4174,0,806,806,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,91
+1756369957244,97,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-836,text,false,,4174,0,804,804,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,97
+1756369957246,95,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-842,text,false,,4174,0,804,804,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,95
+1756369957243,96,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-900,text,false,,4174,0,802,802,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,96
+1756369957247,98,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-843,text,false,,4174,0,801,801,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,98
+1756369957251,110,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-848,text,false,,4174,0,800,800,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,110
+1756369957250,115,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-930,text,false,,4174,0,799,799,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,115
+1756369957254,115,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-841,text,false,,4174,0,798,798,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,115
+1756369957266,133,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-745,text,false,,4174,0,797,797,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,133
+1756369957259,140,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-717,text,false,,4174,0,797,797,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,140
+1756369957267,137,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-722,text,false,,4174,0,795,795,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,137
+1756369957267,138,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-779,text,false,,4174,0,794,794,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,138
+1756369957267,141,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-786,text,false,,4174,0,793,793,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,141
+1756369957266,144,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-746,text,false,,4174,0,792,792,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,143
+1756369957267,144,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-712,text,false,,4174,0,791,791,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,144
+1756369957267,145,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-715,text,false,,4174,0,790,790,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,145
+1756369957242,174,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-879,text,false,,4174,0,789,789,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,174
+1756369957266,150,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-760,text,false,,4174,0,789,789,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,150
+1756369957250,166,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-866,text,false,,4174,0,788,788,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,166
+1756369957234,184,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-773,text,false,,4174,0,786,786,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,184
+1756369957235,184,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-876,text,false,,4174,0,785,785,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,184
+1756369957241,182,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-931,text,false,,4174,0,784,784,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,182
+1756369957200,229,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-915,text,false,,4174,0,783,783,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,229
+1756369957105,327,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-818,text,false,,4174,0,782,782,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,327
+1756369957122,309,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-716,text,false,,4174,0,781,781,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,309
+1756369957102,329,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-935,text,false,,4174,0,780,780,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,329
+1756369957104,331,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-816,text,false,,4174,0,779,779,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,331
+1756369957193,242,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-772,text,false,,4174,0,778,778,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,242
+1756369957101,337,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-934,text,false,,4174,0,777,777,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,337
+1756369957057,387,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-924,text,false,,4174,0,776,776,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,387
+1756369957110,334,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-851,text,false,,4174,0,776,776,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,334
+1756369956957,492,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-971,text,false,,4174,0,774,774,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,492
+1756369956950,504,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-737,text,false,,4174,0,773,773,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,504
+1756369957110,347,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-849,text,false,,4174,0,772,772,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,347
+1756369956946,511,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-977,text,false,,4174,0,771,771,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,511
+1756369957112,352,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-933,text,false,,4174,0,770,770,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,352
+1756369957261,203,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-857,text,false,,4174,0,770,770,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,203
+1756369957266,199,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-984,text,false,,4174,0,768,768,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,199
+1756369957264,203,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-834,text,false,,4174,0,767,767,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,203
+1756369957245,223,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-821,text,false,,4174,0,766,766,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,223
+1756369957263,211,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-643,text,false,,4174,0,765,765,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,211
+1756369957259,221,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-820,text,false,,4174,0,764,764,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,221
+1756369957257,226,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-850,text,false,,4174,0,763,763,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,226
+1756369957258,234,สร้าง Visit,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-814,text,false,,4174,0,762,762,https://ncds-prevention.buddy-care.org/service/api/v1/visit,0,0,234
+1756369955816,2207,สร้าง Visit,201,Created,Thread Group 1-561,text,true,,703,533,761,761,https://ncds-prevention.buddy-care.org/service/api/v1/visit,2207,0,696
+1756369955545,2515,สร้าง Visit,201,Created,Thread Group 1-285,text,true,,703,533,760,760,https://ncds-prevention.buddy-care.org/service/api/v1/visit,2515,0,821
+1756369955414,2927,สร้าง Visit,201,Created,Thread Group 1-45,text,true,,703,533,759,759,https://ncds-prevention.buddy-care.org/service/api/v1/visit,2927,0,927
+1756369955797,2552,สร้าง Visit,201,Created,Thread Group 1-606,text,true,,703,533,758,758,https://ncds-prevention.buddy-care.org/service/api/v1/visit,2552,0,517
+1756369955411,2945,สร้าง Visit,201,Created,Thread Group 1-105,text,true,,703,533,757,757,https://ncds-prevention.buddy-care.org/service/api/v1/visit,2945,0,991
+1756369955498,2858,สร้าง Visit,201,Created,Thread Group 1-156,text,true,,703,533,757,757,https://ncds-prevention.buddy-care.org/service/api/v1/visit,2858,0,994
+1756369955608,2753,สร้าง Visit,201,Created,Thread Group 1-407,text,true,,703,533,755,755,https://ncds-prevention.buddy-care.org/service/api/v1/visit,2753,0,754
+1756369955860,2589,สร้าง Visit,201,Created,Thread Group 1-587,text,true,,703,533,754,754,https://ncds-prevention.buddy-care.org/service/api/v1/visit,2589,0,529
+1756369955681,16764,สร้าง Visit,201,Created,Thread Group 1-485,text,true,,703,533,753,753,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16764,0,608
+1756369955761,16691,สร้าง Visit,201,Created,Thread Group 1-565,text,true,,703,533,752,752,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16691,0,544
+1756369955630,16824,สร้าง Visit,201,Created,Thread Group 1-429,text,true,,703,533,751,751,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16824,0,709
+1756369955841,16615,สร้าง Visit,201,Created,Thread Group 1-647,text,true,,703,533,750,750,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16615,0,512
+1756369956083,16374,สร้าง Visit,201,Created,Thread Group 1-750,text,true,,703,533,749,749,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16374,0,109
+1756369955765,16776,สร้าง Visit,201,Created,Thread Group 1-538,text,true,,703,533,748,748,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16776,0,1319
+1756369955674,16867,สร้าง Visit,201,Created,Thread Group 1-474,text,true,,703,533,748,748,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16867,0,1416
+1756369955750,16792,สร้าง Visit,201,Created,Thread Group 1-506,text,true,,703,533,746,746,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16792,0,1337
+1756369955567,16976,สร้าง Visit,201,Created,Thread Group 1-283,text,true,,703,533,745,745,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16976,0,1531
+1756369955856,16688,สร้าง Visit,201,Created,Thread Group 1-662,text,true,,703,533,745,745,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16688,0,1237
+1756369956578,15966,สร้าง Visit,201,Created,Thread Group 1-664,text,true,,703,533,744,744,https://ncds-prevention.buddy-care.org/service/api/v1/visit,15966,0,1348
+1756369955566,16979,สร้าง Visit,201,Created,Thread Group 1-267,text,true,,703,533,742,742,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16979,0,2356
+1756369955740,16805,สร้าง Visit,201,Created,Thread Group 1-518,text,true,,703,533,742,742,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16805,0,1354
+1756369955588,16957,สร้าง Visit,201,Created,Thread Group 1-381,text,true,,703,533,741,741,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16957,0,1498
+1756369955831,16714,สร้าง Visit,201,Created,Thread Group 1-638,text,true,,703,533,741,741,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16714,0,1261
+1756369955665,16881,สร้าง Visit,201,Created,Thread Group 1-453,text,true,,703,533,739,739,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16881,0,1424
+1756369955533,17014,สร้าง Visit,201,Created,Thread Group 1-274,text,true,,703,533,738,738,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17014,0,2392
+1756369955589,16959,สร้าง Visit,201,Created,Thread Group 1-353,text,true,,703,533,737,737,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16959,0,1508
+1756369956648,15900,สร้าง Visit,201,Created,Thread Group 1-674,text,true,,703,533,736,736,https://ncds-prevention.buddy-care.org/service/api/v1/visit,15900,0,1274
+1756369956651,15903,สร้าง Visit,201,Created,Thread Group 1-852,text,true,,703,533,735,735,https://ncds-prevention.buddy-care.org/service/api/v1/visit,15903,0,1271
+1756369956509,16046,สร้าง Visit,201,Created,Thread Group 1-766,text,true,,703,533,734,734,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16046,0,1416
+1756369955763,16795,สร้าง Visit,201,Created,Thread Group 1-558,text,true,,703,533,733,733,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16795,0,1326
+1756369955571,16987,สร้าง Visit,201,Created,Thread Group 1-349,text,true,,703,533,732,732,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16987,0,1520
+1756369955864,16695,สร้าง Visit,201,Created,Thread Group 1-669,text,true,,703,533,732,732,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16695,0,1232
+1756369956651,15909,สร้าง Visit,201,Created,Thread Group 1-797,text,true,,703,533,730,730,https://ncds-prevention.buddy-care.org/service/api/v1/visit,15908,0,446
+1756369955543,17017,สร้าง Visit,201,Created,Thread Group 1-276,text,true,,703,533,730,730,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17017,0,1552
+1756369955666,16874,สร้าง Visit,201,Created,Thread Group 1-432,text,true,,703,533,748,748,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16874,0,1426
+1756369955567,17002,สร้าง Visit,201,Created,Thread Group 1-264,text,true,,703,533,727,727,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17002,0,1532
+1756369955742,16827,สร้าง Visit,201,Created,Thread Group 1-522,text,true,,703,533,727,727,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16827,0,2180
+1756369955671,16898,สร้าง Visit,201,Created,Thread Group 1-465,text,true,,703,533,727,727,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16898,0,2251
+1756369955814,16756,สร้าง Visit,201,Created,Thread Group 1-560,text,true,,703,533,724,724,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16756,0,2113
+1756369955588,16982,สร้าง Visit,201,Created,Thread Group 1-346,text,true,,703,533,724,724,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16982,0,2340
+1756369955536,17034,สร้าง Visit,201,Created,Thread Group 1-164,text,true,,703,533,724,724,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17034,0,2394
+1756369955661,16910,สร้าง Visit,201,Created,Thread Group 1-441,text,true,,703,533,723,723,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16910,0,2272
+1756369955666,16905,สร้าง Visit,201,Created,Thread Group 1-448,text,true,,703,533,722,722,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16905,0,2268
+1756369955406,17165,สร้าง Visit,201,Created,Thread Group 1-115,text,true,,703,533,721,721,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17165,0,2521
+1756369955764,16808,สร้าง Visit,201,Created,Thread Group 1-539,text,true,,703,533,720,720,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16808,0,2176
+1756369955548,17024,สร้าง Visit,201,Created,Thread Group 1-235,text,true,,703,533,719,719,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17024,0,2384
+1756369955649,16923,สร้าง Visit,201,Created,Thread Group 1-433,text,true,,703,533,718,718,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16923,0,2294
+1756369955859,16713,สร้าง Visit,201,Created,Thread Group 1-586,text,true,,703,533,716,716,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16713,0,2087
+1756369955497,17076,สร้าง Visit,201,Created,Thread Group 1-155,text,true,,703,533,716,716,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17076,0,2446
+1756369955538,17035,สร้าง Visit,201,Created,Thread Group 1-299,text,true,,703,533,716,716,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17035,0,2409
+1756369955408,17165,สร้าง Visit,201,Created,Thread Group 1-116,text,true,,703,533,715,715,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17165,0,2529
+1756369955536,17037,สร้าง Visit,201,Created,Thread Group 1-241,text,true,,703,533,714,714,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17037,0,2400
+1756369955743,16831,สร้าง Visit,201,Created,Thread Group 1-504,text,true,,703,533,712,712,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16831,0,2195
+1756369955416,17158,สร้าง Visit,201,Created,Thread Group 1-132,text,true,,703,533,712,712,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17158,0,2524
+1756369955526,17048,สร้าง Visit,201,Created,Thread Group 1-184,text,true,,703,533,712,712,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17048,0,2417
+1756369955755,16820,สร้าง Visit,201,Created,Thread Group 1-499,text,true,,703,533,709,709,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16820,0,2197
+1756369955526,17049,สร้าง Visit,201,Created,Thread Group 1-227,text,true,,703,533,709,709,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17049,0,2430
+1756369955816,16760,สร้าง Visit,201,Created,Thread Group 1-563,text,true,,703,533,708,708,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16760,0,2130
+1756369955674,16902,สร้าง Visit,201,Created,Thread Group 1-466,text,true,,703,533,706,706,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16902,0,2288
+1756369955525,17052,สร้าง Visit,201,Created,Thread Group 1-192,text,true,,703,533,706,706,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17051,0,2424
+1756369955660,16917,สร้าง Visit,201,Created,Thread Group 1-449,text,true,,703,533,704,704,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16917,0,2289
+1756369955665,16912,สร้าง Visit,201,Created,Thread Group 1-456,text,true,,703,533,704,704,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16912,0,2293
+1756369955661,16917,สร้าง Visit,201,Created,Thread Group 1-442,text,true,,703,533,703,703,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16917,0,2296
+1756369955574,17004,สร้าง Visit,201,Created,Thread Group 1-314,text,true,,703,533,701,701,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17004,0,2384
+1756369955741,16837,สร้าง Visit,201,Created,Thread Group 1-529,text,true,,703,533,701,701,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16837,0,2211
+1756369955704,16874,สร้าง Visit,201,Created,Thread Group 1-490,text,true,,703,533,701,701,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16874,0,2257
+1756369955538,17041,สร้าง Visit,201,Created,Thread Group 1-304,text,true,,703,533,701,701,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17041,0,2421
+1756369955668,16911,สร้าง Visit,201,Created,Thread Group 1-459,text,true,,703,533,699,699,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16911,0,2294
+1756369955574,17005,สร้าง Visit,201,Created,Thread Group 1-323,text,true,,703,533,698,698,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17005,0,2388
+1756369955529,17063,สร้าง Visit,201,Created,Thread Group 1-201,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17063,0,2472
+1756369955590,16993,สร้าง Visit,201,Created,Thread Group 1-376,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16993,0,2429
+1756369955543,17050,สร้าง Visit,201,Created,Thread Group 1-307,text,true,,703,533,695,695,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17050,0,1130
+1756369955688,16896,สร้าง Visit,201,Created,Thread Group 1-483,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16896,0,2330
+1756369955660,16934,สร้าง Visit,201,Created,Thread Group 1-463,text,true,,703,533,694,694,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16934,0,2268
+1756369955865,16729,สร้าง Visit,201,Created,Thread Group 1-671,text,true,,703,533,691,691,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16729,0,2064
+1756369955590,17004,สร้าง Visit,201,Created,Thread Group 1-368,text,true,,703,533,691,691,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17004,0,916
+1756369955584,17010,สร้าง Visit,201,Created,Thread Group 1-360,text,true,,703,533,691,691,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17010,0,1077
+1756369955659,16936,สร้าง Visit,201,Created,Thread Group 1-468,text,true,,703,533,691,691,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16936,0,2272
+1756369955674,16902,สร้าง Visit,201,Created,Thread Group 1-472,text,true,,703,533,706,706,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16902,0,2275
+1756369955544,17051,สร้าง Visit,201,Created,Thread Group 1-316,text,true,,703,533,689,689,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17051,0,2388
+1756369955499,17096,สร้าง Visit,201,Created,Thread Group 1-253,text,true,,703,533,688,688,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17096,0,2433
+1756369955667,16925,สร้าง Visit,201,Created,Thread Group 1-458,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16925,0,2284
+1756369955665,16931,สร้าง Visit,201,Created,Thread Group 1-460,text,true,,703,533,686,686,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16931,0,2259
+1756369955864,16728,สร้าง Visit,201,Created,Thread Group 1-593,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16728,0,798
+1756369955534,17062,สร้าง Visit,201,Created,Thread Group 1-214,text,true,,703,533,685,685,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17062,0,2403
+1756369955609,16983,สร้าง Visit,201,Created,Thread Group 1-403,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16983,0,775
+1756369955527,17065,สร้าง Visit,201,Created,Thread Group 1-178,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17065,0,920
+1756369955546,17050,สร้าง Visit,201,Created,Thread Group 1-269,text,true,,703,533,683,683,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17050,0,2384
+1756369955837,16760,สร้าง Visit,201,Created,Thread Group 1-644,text,true,,703,533,681,681,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16760,0,2102
+1756369955533,17064,สร้าง Visit,201,Created,Thread Group 1-260,text,true,,703,533,680,680,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17064,0,2406
+1756369955594,17003,สร้าง Visit,201,Created,Thread Group 1-399,text,true,,703,533,678,678,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17003,0,2340
+1756369955498,17100,สร้าง Visit,201,Created,Thread Group 1-252,text,true,,703,533,678,678,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17099,0,2436
+1756369955662,16936,สร้าง Visit,201,Created,Thread Group 1-469,text,true,,703,533,678,678,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16936,0,2276
+1756369955633,16965,สร้าง Visit,201,Created,Thread Group 1-439,text,true,,703,533,678,678,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16965,0,2313
+1756369955754,16844,สร้าง Visit,201,Created,Thread Group 1-551,text,true,,703,533,676,676,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16844,0,2184
+1756369955811,16787,สร้าง Visit,201,Created,Thread Group 1-620,text,true,,703,533,674,674,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16787,0,635
+1756369955632,16966,สร้าง Visit,201,Created,Thread Group 1-430,text,true,,703,533,673,673,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16966,0,2315
+1756369955640,16959,สร้าง Visit,201,Created,Thread Group 1-444,text,true,,703,533,671,671,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16959,0,2312
+1756369955641,16958,สร้าง Visit,201,Created,Thread Group 1-445,text,true,,703,533,671,671,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16958,0,2301
+1756369955633,16966,สร้าง Visit,201,Created,Thread Group 1-431,text,true,,703,533,671,671,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16966,0,2321
+1756369955737,16862,สร้าง Visit,201,Created,Thread Group 1-493,text,true,,703,533,671,671,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16862,0,2216
+1756369955736,16863,สร้าง Visit,201,Created,Thread Group 1-495,text,true,,703,533,669,669,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16863,0,2219
+1756369955738,16862,สร้าง Visit,201,Created,Thread Group 1-511,text,true,,703,533,667,667,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16862,0,2212
+1756369955632,16968,สร้าง Visit,201,Created,Thread Group 1-421,text,true,,703,533,667,667,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16968,0,2319
+1756369955643,16957,สร้าง Visit,201,Created,Thread Group 1-447,text,true,,703,533,664,664,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16957,0,2321
+1756369955571,17030,สร้าง Visit,201,Created,Thread Group 1-365,text,true,,703,533,664,664,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17030,0,2382
+1756369955642,16959,สร้าง Visit,201,Created,Thread Group 1-446,text,true,,703,533,662,662,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16959,0,2350
+1756369955757,16844,สร้าง Visit,201,Created,Thread Group 1-548,text,true,,703,533,662,662,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16844,0,2238
+1756369955739,16863,สร้าง Visit,201,Created,Thread Group 1-500,text,true,,703,533,661,661,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16863,0,2258
+1756369955544,17058,สร้าง Visit,201,Created,Thread Group 1-284,text,true,,703,533,661,661,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17058,0,2453
+1756369955766,16836,สร้าง Visit,201,Created,Thread Group 1-533,text,true,,703,533,661,661,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16836,0,2229
+1756369955673,16929,สร้าง Visit,201,Created,Thread Group 1-486,text,true,,703,533,658,658,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16929,0,2320
+1756369955745,16857,สร้าง Visit,201,Created,Thread Group 1-535,text,true,,703,533,658,657,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16857,0,2249
+1756369955648,16955,สร้าง Visit,201,Created,Thread Group 1-452,text,true,,703,533,656,656,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16955,0,2348
+1756369955737,16866,สร้าง Visit,201,Created,Thread Group 1-494,text,true,,703,533,653,653,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16866,0,2260
+1756369955563,17040,สร้าง Visit,201,Created,Thread Group 1-366,text,true,,703,533,653,653,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17040,0,2435
+1756369955737,16867,สร้าง Visit,201,Created,Thread Group 1-509,text,true,,703,533,653,653,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16867,0,2262
+1756369955745,16859,สร้าง Visit,201,Created,Thread Group 1-517,text,true,,703,533,653,653,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16859,0,2255
+1756369955565,17039,สร้าง Visit,201,Created,Thread Group 1-367,text,true,,703,533,653,653,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17039,0,2443
+1756369955580,17025,สร้าง Visit,201,Created,Thread Group 1-383,text,true,,703,533,648,648,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17025,0,2419
+1756369955822,16783,สร้าง Visit,201,Created,Thread Group 1-628,text,true,,703,533,648,648,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16783,0,2186
+1756369955822,16783,สร้าง Visit,201,Created,Thread Group 1-629,text,true,,703,533,648,648,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16783,0,2187
+1756369955495,17111,สร้าง Visit,201,Created,Thread Group 1-247,text,true,,703,533,645,645,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17110,0,2507
+1756369955589,17017,สร้าง Visit,201,Created,Thread Group 1-389,text,true,,703,533,645,645,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17017,0,2421
+1756369956505,16101,สร้าง Visit,201,Created,Thread Group 1-806,text,true,,703,533,645,645,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16101,0,1507
+1756369955831,16775,สร้าง Visit,201,Created,Thread Group 1-636,text,true,,703,533,645,645,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16775,0,2180
+1756369956508,16098,สร้าง Visit,201,Created,Thread Group 1-829,text,true,,703,533,645,645,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16098,0,1503
+1756369955759,16847,สร้าง Visit,201,Created,Thread Group 1-540,text,true,,703,533,645,645,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16847,0,2254
+1756369955806,16800,สร้าง Visit,201,Created,Thread Group 1-615,text,true,,703,533,643,643,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16800,0,2201
+1756369956506,16100,สร้าง Visit,201,Created,Thread Group 1-837,text,true,,703,533,641,641,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16100,0,1504
+1756369955812,16795,สร้าง Visit,201,Created,Thread Group 1-622,text,true,,703,533,640,640,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16795,0,2201
+1756369956339,16268,สร้าง Visit,201,Created,Thread Group 1-796,text,true,,703,533,639,639,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16268,0,23
+1756369955741,16866,สร้าง Visit,201,Created,Thread Group 1-508,text,true,,703,533,639,639,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16866,0,694
+1756369955528,17079,สร้าง Visit,201,Created,Thread Group 1-255,text,true,,703,533,638,638,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17079,0,917
+1756369955552,17055,สร้าง Visit,201,Created,Thread Group 1-326,text,true,,703,533,638,638,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17055,0,921
+1756369955739,16868,สร้าง Visit,201,Created,Thread Group 1-502,text,true,,703,533,636,636,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16868,0,748
+1756369955536,17072,สร้าง Visit,201,Created,Thread Group 1-294,text,true,,703,533,635,635,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17072,0,901
+1756369956595,16013,สร้าง Visit,201,Created,Thread Group 1-764,text,true,,703,533,634,634,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16013,0,27
+1756369955543,17065,สร้าง Visit,201,Created,Thread Group 1-317,text,true,,703,533,633,633,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17065,0,904
+1756369955672,16936,สร้าง Visit,201,Created,Thread Group 1-479,text,true,,703,533,632,632,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16936,0,948
+1756369955660,16948,สร้าง Visit,201,Created,Thread Group 1-462,text,true,,703,533,630,630,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16948,0,967
+1756369955611,16997,สร้าง Visit,201,Created,Thread Group 1-413,text,true,,703,533,630,630,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16997,0,892
+1756369955847,16762,สร้าง Visit,201,Created,Thread Group 1-654,text,true,,703,533,630,630,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16762,0,720
+1756369955766,16843,สร้าง Visit,201,Created,Thread Group 1-566,text,true,,703,533,630,630,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16843,0,662
+1756369955534,17075,สร้าง Visit,201,Created,Thread Group 1-207,text,true,,703,533,630,630,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17075,0,1020
+1756369955626,16983,สร้าง Visit,201,Created,Thread Group 1-423,text,true,,703,533,629,629,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16983,0,805
+1756369956579,16030,สร้าง Visit,201,Created,Thread Group 1-846,text,true,,703,533,629,629,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16030,0,36
+1756369956539,16070,สร้าง Visit,201,Created,Thread Group 1-798,text,true,,703,533,629,629,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16070,0,25
+1756369956081,16528,สร้าง Visit,201,Created,Thread Group 1-710,text,true,,703,533,628,628,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16528,0,137
+1756369955742,16868,สร้าง Visit,201,Created,Thread Group 1-527,text,true,,703,533,625,625,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16868,0,603
+1756369956526,16084,สร้าง Visit,201,Created,Thread Group 1-751,text,true,,703,533,625,625,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16084,0,22
+1756369955590,17020,สร้าง Visit,201,Created,Thread Group 1-390,text,true,,703,533,625,625,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17020,0,1074
+1756369955753,16857,สร้าง Visit,201,Created,Thread Group 1-542,text,true,,703,533,625,625,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16857,0,920
+1756369955673,16938,สร้าง Visit,201,Created,Thread Group 1-477,text,true,,703,533,622,622,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16938,0,953
+1756369955650,16961,สร้าง Visit,201,Created,Thread Group 1-461,text,true,,703,533,622,622,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16961,0,942
+1756369955593,17018,สร้าง Visit,201,Created,Thread Group 1-396,text,true,,703,533,622,622,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17018,0,851
+1756369956080,16531,สร้าง Visit,201,Created,Thread Group 1-855,text,true,,703,533,619,619,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16531,0,136
+1756369955739,16872,สร้าง Visit,201,Created,Thread Group 1-503,text,true,,703,533,619,619,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16872,0,700
+1756369955672,16939,สร้าง Visit,201,Created,Thread Group 1-478,text,true,,703,533,619,619,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16939,0,957
+1756369956511,16101,สร้าง Visit,201,Created,Thread Group 1-805,text,true,,703,533,616,616,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16101,0,26
+1756369955767,16845,สร้าง Visit,201,Created,Thread Group 1-573,text,true,,703,533,616,616,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16845,0,426
+1756369955666,16946,สร้าง Visit,201,Created,Thread Group 1-471,text,true,,703,533,614,614,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16946,0,958
+1756369955593,17020,สร้าง Visit,201,Created,Thread Group 1-397,text,true,,703,533,614,614,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17020,0,870
+1756369956513,16100,สร้าง Visit,201,Created,Thread Group 1-791,text,true,,703,533,614,614,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16100,0,26
+1756369955533,17080,สร้าง Visit,201,Created,Thread Group 1-213,text,true,,703,533,614,614,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17080,0,745
+1756369955519,17094,สร้าง Visit,201,Created,Thread Group 1-287,text,true,,703,533,614,614,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17094,0,795
+1756369956281,16332,สร้าง Visit,201,Created,Thread Group 1-838,text,true,,703,533,614,614,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16332,0,27
+1756369955804,16809,สร้าง Visit,201,Created,Thread Group 1-612,text,true,,703,533,613,613,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16809,0,610
+1756369955639,16974,สร้าง Visit,201,Created,Thread Group 1-438,text,true,,703,533,612,612,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16974,0,741
+1756369955401,17212,สร้าง Visit,201,Created,Thread Group 1-30,text,true,,703,533,609,609,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17212,0,811
+1756369956525,16089,สร้าง Visit,201,Created,Thread Group 1-830,text,true,,703,533,609,609,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16089,0,26
+1756369955796,16818,สร้าง Visit,201,Created,Thread Group 1-605,text,true,,703,533,607,607,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16818,0,394
+1756369955743,16871,สร้าง Visit,201,Created,Thread Group 1-534,text,true,,703,533,606,606,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16871,0,665
+1756369955533,17081,สร้าง Visit,201,Created,Thread Group 1-212,text,true,,703,533,606,606,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17081,0,1072
+1756369955620,16994,สร้าง Visit,201,Created,Thread Group 1-420,text,true,,703,533,606,606,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16994,0,758
+1756369955854,16760,สร้าง Visit,201,Created,Thread Group 1-661,text,true,,703,533,606,606,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16760,0,790
+1756369955614,17001,สร้าง Visit,201,Created,Thread Group 1-414,text,true,,703,533,601,601,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17001,0,850
+1756369955535,17080,สร้าง Visit,201,Created,Thread Group 1-215,text,true,,703,533,601,601,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17080,0,930
+1756369955612,17003,สร้าง Visit,201,Created,Thread Group 1-412,text,true,,703,533,601,601,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17003,0,880
+1756369955846,16769,สร้าง Visit,201,Created,Thread Group 1-653,text,true,,703,533,601,601,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16769,0,506
+1756369955811,16805,สร้าง Visit,201,Created,Thread Group 1-621,text,true,,703,533,600,600,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16804,0,551
+1756369955590,17026,สร้าง Visit,201,Created,Thread Group 1-382,text,true,,703,533,599,599,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17026,0,886
+1756369955534,17082,สร้าง Visit,201,Created,Thread Group 1-261,text,true,,703,533,597,597,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17082,0,952
+1756369955553,17063,สร้าง Visit,201,Created,Thread Group 1-327,text,true,,703,533,596,596,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17063,0,798
+1756369955760,16856,สร้าง Visit,201,Created,Thread Group 1-556,text,true,,703,533,596,596,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16856,0,815
+1756369956540,16076,สร้าง Visit,201,Created,Thread Group 1-767,text,true,,703,533,596,596,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16076,0,25
+1756369955824,16792,สร้าง Visit,201,Created,Thread Group 1-631,text,true,,703,533,596,596,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16792,0,842
+1756369955614,17003,สร้าง Visit,201,Created,Thread Group 1-415,text,true,,703,533,595,595,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17003,0,604
+1756369955846,16771,สร้าง Visit,201,Created,Thread Group 1-652,text,true,,703,533,593,593,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16771,0,739
+1756369955548,17069,สร้าง Visit,201,Created,Thread Group 1-319,text,true,,703,533,593,593,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17069,0,867
+1756369956306,16311,สร้าง Visit,201,Created,Thread Group 1-741,text,true,,703,533,592,592,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16311,0,24
+1756369955592,17025,สร้าง Visit,201,Created,Thread Group 1-398,text,true,,703,533,592,592,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17025,0,898
+1756369955542,17075,สร้าง Visit,201,Created,Thread Group 1-262,text,true,,703,533,591,591,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17075,0,946
+1756369955589,17003,สร้าง Visit,201,Created,Thread Group 1-391,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17003,0,2336
+1756369955514,17078,สร้าง Visit,201,Created,Thread Group 1-210,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17078,0,852
+1756369955758,16834,สร้าง Visit,201,Created,Thread Group 1-513,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16834,0,629
+1756369955595,16997,สร้าง Visit,201,Created,Thread Group 1-377,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16996,0,1467
+1756369955588,17003,สร้าง Visit,201,Created,Thread Group 1-355,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17003,0,2343
+1756369955738,16883,สร้าง Visit,201,Created,Thread Group 1-510,text,true,,703,533,584,584,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16883,0,2257
+1756369955521,17101,สร้าง Visit,201,Created,Thread Group 1-295,text,true,,703,533,582,582,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17101,0,1069
+1756369955834,16789,สร้าง Visit,201,Created,Thread Group 1-639,text,true,,703,533,579,579,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16789,0,490
+1756369955590,17034,สร้าง Visit,201,Created,Thread Group 1-388,text,true,,703,533,577,577,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17034,0,880
+1756369955761,16830,สร้าง Visit,201,Created,Thread Group 1-567,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16830,0,2161
+1756369955419,17172,สร้าง Visit,201,Created,Thread Group 1-91,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17172,0,799
+1756369955894,16697,สร้าง Visit,201,Created,Thread Group 1-624,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16697,0,490
+1756369955545,17046,สร้าง Visit,201,Created,Thread Group 1-305,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17046,0,1131
+1756369955627,16964,สร้าง Visit,201,Created,Thread Group 1-410,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16964,0,843
+1756369955816,16775,สร้าง Visit,201,Created,Thread Group 1-562,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16775,0,524
+1756369955526,17065,สร้าง Visit,201,Created,Thread Group 1-216,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17065,0,755
+1756369955766,16825,สร้าง Visit,201,Created,Thread Group 1-552,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16825,0,596
+1756369955576,17015,สร้าง Visit,201,Created,Thread Group 1-345,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17015,0,1035
+1756369955895,16695,สร้าง Visit,201,Created,Thread Group 1-592,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16695,0,420
+1756369955757,16833,สร้าง Visit,201,Created,Thread Group 1-512,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16833,0,825
+1756369955610,16980,สร้าง Visit,201,Created,Thread Group 1-401,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16980,0,806
+1756369955417,17173,สร้าง Visit,201,Created,Thread Group 1-101,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17173,0,985
+1756369955661,16929,สร้าง Visit,201,Created,Thread Group 1-443,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16929,0,965
+1756369955494,17096,สร้าง Visit,201,Created,Thread Group 1-147,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17096,0,1090
+1756369956529,16061,สร้าง Visit,201,Created,Thread Group 1-648,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16061,0,23
+1756369955414,17174,สร้าง Visit,201,Created,Thread Group 1-44,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17174,0,1082
+1756369955525,17064,สร้าง Visit,201,Created,Thread Group 1-186,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17064,0,832
+1756369955755,16834,สร้าง Visit,201,Created,Thread Group 1-537,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16834,0,823
+1756369955768,16821,สร้าง Visit,201,Created,Thread Group 1-531,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16821,0,876
+1756369955743,16846,สร้าง Visit,201,Created,Thread Group 1-521,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16846,0,931
+1756369955645,16944,สร้าง Visit,201,Created,Thread Group 1-417,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16944,0,984
+1756369955525,17064,สร้าง Visit,201,Created,Thread Group 1-249,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17064,0,1036
+1756369955767,16822,สร้าง Visit,201,Created,Thread Group 1-546,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16822,0,752
+1756369955536,17053,สร้าง Visit,201,Created,Thread Group 1-176,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17053,0,976
+1756369955611,16978,สร้าง Visit,201,Created,Thread Group 1-408,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16978,0,1027
+1756369955398,17189,สร้าง Visit,201,Created,Thread Group 1-67,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17189,0,1234
+1756369956646,15942,สร้าง Visit,201,Created,Thread Group 1-827,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,15942,0,417
+1756369955524,17064,สร้าง Visit,201,Created,Thread Group 1-250,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17064,0,910
+1756369955525,17063,สร้าง Visit,201,Created,Thread Group 1-195,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17063,0,688
+1756369955636,16952,สร้าง Visit,201,Created,Thread Group 1-416,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16952,0,906
+1756369956631,15957,สร้าง Visit,201,Created,Thread Group 1-683,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,15957,0,27
+1756369955598,16990,สร้าง Visit,201,Created,Thread Group 1-384,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16990,0,778
+1756369955628,16959,สร้าง Visit,201,Created,Thread Group 1-427,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16959,0,950
+1756369956612,15975,สร้าง Visit,201,Created,Thread Group 1-667,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,15975,0,29
+1756369955662,16925,สร้าง Visit,201,Created,Thread Group 1-409,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16925,0,1423
+1756369955580,17007,สร้าง Visit,201,Created,Thread Group 1-347,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17007,0,2415
+1756369955593,16994,สร้าง Visit,201,Created,Thread Group 1-378,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16994,0,968
+1756369956577,16010,สร้าง Visit,201,Created,Thread Group 1-682,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16010,0,30
+1756369955661,16925,สร้าง Visit,201,Created,Thread Group 1-440,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16925,0,758
+1756369955646,16940,สร้าง Visit,201,Created,Thread Group 1-418,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16940,0,1039
+1756369955588,16998,สร้าง Visit,201,Created,Thread Group 1-354,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16998,0,1045
+1756369955753,16833,สร้าง Visit,201,Created,Thread Group 1-523,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16833,0,854
+1756369955610,16976,สร้าง Visit,201,Created,Thread Group 1-402,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16976,0,854
+1756369955702,16883,สร้าง Visit,201,Created,Thread Group 1-491,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16883,0,852
+1756369955605,16980,สร้าง Visit,201,Created,Thread Group 1-395,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16980,0,703
+1756369955554,17031,สร้าง Visit,201,Created,Thread Group 1-218,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17031,0,2468
+1756369955707,16878,สร้าง Visit,201,Created,Thread Group 1-497,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16878,0,2311
+1756369955536,17049,สร้าง Visit,201,Created,Thread Group 1-169,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17049,0,2481
+1756369955703,16882,สร้าง Visit,201,Created,Thread Group 1-505,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16882,0,2313
+1756369955452,17131,สร้าง Visit,201,Created,Thread Group 1-11,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17131,0,2569
+1756369955536,17048,สร้าง Visit,201,Created,Thread Group 1-146,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17048,0,2488
+1756369955673,16911,สร้าง Visit,201,Created,Thread Group 1-467,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16911,0,2351
+1756369955417,17166,สร้าง Visit,201,Created,Thread Group 1-77,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17166,0,2605
+1756369955571,17013,สร้าง Visit,201,Created,Thread Group 1-329,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17013,0,2448
+1756369955409,17175,สร้าง Visit,201,Created,Thread Group 1-124,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17175,0,2612
+1756369955588,16995,สร้าง Visit,201,Created,Thread Group 1-371,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16995,0,2427
+1756369955759,16824,สร้าง Visit,201,Created,Thread Group 1-515,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16824,0,2261
+1756369955497,17086,สร้าง Visit,201,Created,Thread Group 1-154,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17086,0,2520
+1756369955566,17017,สร้าง Visit,201,Created,Thread Group 1-291,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17017,0,2446
+1756369955548,17035,สร้าง Visit,201,Created,Thread Group 1-298,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17035,0,2469
+1756369955557,17026,สร้าง Visit,201,Created,Thread Group 1-203,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17026,0,2464
+1756369955737,16846,สร้าง Visit,201,Created,Thread Group 1-528,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16846,0,2270
+1756369955705,16877,สร้าง Visit,201,Created,Thread Group 1-496,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16877,0,2310
+1756369955546,17036,สร้าง Visit,201,Created,Thread Group 1-226,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17036,0,2466
+1756369955741,16841,สร้าง Visit,201,Created,Thread Group 1-507,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16841,0,2260
+1756369955533,17049,สร้าง Visit,201,Created,Thread Group 1-251,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17049,0,2466
+1756369955534,17048,สร้าง Visit,201,Created,Thread Group 1-258,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17048,0,2472
+1756369955548,17034,สร้าง Visit,201,Created,Thread Group 1-297,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17034,0,2458
+1756369955574,17008,สร้าง Visit,201,Created,Thread Group 1-322,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17008,0,2430
+1756369955526,17056,สร้าง Visit,201,Created,Thread Group 1-242,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17056,0,2479
+1756369955585,16997,สร้าง Visit,201,Created,Thread Group 1-370,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16997,0,2417
+1756369955533,17048,สร้าง Visit,201,Created,Thread Group 1-257,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17048,0,2470
+1756369955521,17060,สร้าง Visit,201,Created,Thread Group 1-200,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17060,0,2480
+1756369955574,17007,สร้าง Visit,201,Created,Thread Group 1-328,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17007,0,2426
+1756369955544,17037,สร้าง Visit,201,Created,Thread Group 1-148,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17037,0,2453
+1756369955415,17165,สร้าง Visit,201,Created,Thread Group 1-27,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17165,0,2587
+1756369955581,17000,สร้าง Visit,201,Created,Thread Group 1-369,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17000,0,2382
+1756369955408,17172,สร้าง Visit,201,Created,Thread Group 1-66,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17172,0,2556
+1756369955659,16921,สร้าง Visit,201,Created,Thread Group 1-451,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16921,0,2301
+1756369955753,16827,สร้าง Visit,201,Created,Thread Group 1-520,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16827,0,2208
+1756369955662,16918,สร้าง Visit,201,Created,Thread Group 1-424,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16918,0,2330
+1756369955891,16689,สร้าง Visit,201,Created,Thread Group 1-619,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16689,0,2107
+1756369955757,16823,สร้าง Visit,201,Created,Thread Group 1-489,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16823,0,2247
+1756369955575,17005,สร้าง Visit,201,Created,Thread Group 1-339,text,true,,703,533,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17005,0,2386
+1756369955752,16828,สร้าง Visit,201,Created,Thread Group 1-530,text,true,,703,533,698,698,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16827,0,2203
+1756369955609,16978,สร้าง Visit,201,Created,Thread Group 1-393,text,true,,703,533,686,686,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16978,0,794
+1756369955635,17040,สร้าง Visit,201,Created,Thread Group 1-437,text,true,,703,533,472,472,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17040,0,2320
+1756369955631,17044,สร้าง Visit,201,Created,Thread Group 1-428,text,true,,703,533,472,472,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17044,0,2328
+1756369955665,17030,สร้าง Visit,201,Created,Thread Group 1-457,text,true,,703,533,470,470,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17030,0,969
+1756369955515,17181,สร้าง Visit,201,Created,Thread Group 1-185,text,true,,703,533,469,469,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17181,0,2411
+1756369955648,17053,สร้าง Visit,201,Created,Thread Group 1-454,text,true,,703,533,468,468,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17053,0,2281
+1756369955542,17160,สร้าง Visit,201,Created,Thread Group 1-311,text,true,,703,533,467,467,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17160,0,2384
+1756369955805,16900,สร้าง Visit,201,Created,Thread Group 1-613,text,true,,703,533,466,466,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16900,0,2130
+1756369955805,16900,สร้าง Visit,201,Created,Thread Group 1-614,text,true,,703,533,465,465,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16900,0,525
+1756369955572,17262,สร้าง Visit,201,Created,Thread Group 1-281,text,true,,703,533,464,464,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17262,0,2448
+1756369955735,17146,สร้าง Visit,201,Created,Thread Group 1-543,text,true,,703,533,463,463,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17146,0,2220
+1756369955740,17141,สร้าง Visit,201,Created,Thread Group 1-524,text,true,,703,533,463,463,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17141,0,545
+1756369955520,17364,สร้าง Visit,201,Created,Thread Group 1-292,text,true,,703,533,461,461,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17364,0,2421
+1756369955536,17396,สร้าง Visit,201,Created,Thread Group 1-170,text,true,,703,533,460,460,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17396,0,2483
+1756369956533,16399,สร้าง Visit,201,Created,Thread Group 1-689,text,true,,703,533,460,460,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16399,0,1489
+1756369955587,17347,สร้าง Visit,201,Created,Thread Group 1-352,text,true,,703,533,458,458,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17347,0,1502
+1756369955768,17176,สร้าง Visit,201,Created,Thread Group 1-574,text,true,,703,533,457,457,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17176,0,555
+1756369955543,17405,สร้าง Visit,201,Created,Thread Group 1-306,text,true,,703,533,456,456,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17405,0,2462
+1756369955524,17424,สร้าง Visit,201,Created,Thread Group 1-194,text,true,,703,533,456,456,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17424,0,930
+1756369955564,17384,สร้าง Visit,201,Created,Thread Group 1-356,text,true,,703,533,456,456,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17384,0,2439
+1756369955710,17238,สร้าง Visit,201,Created,Thread Group 1-492,text,true,,703,533,456,456,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17238,0,2246
+1756369955798,17150,สร้าง Visit,201,Created,Thread Group 1-607,text,true,,703,533,456,456,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17150,0,560
+1756369955536,17412,สร้าง Visit,201,Created,Thread Group 1-234,text,true,,703,533,456,456,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17412,0,942
+1756369955894,17055,สร้าง Visit,201,Created,Thread Group 1-616,text,true,,703,533,452,452,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17054,0,714
+1756369956510,16439,สร้าง Visit,201,Created,Thread Group 1-742,text,true,,703,533,450,450,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16439,0,1499
+1756369955534,17444,สร้าง Visit,201,Created,Thread Group 1-303,text,true,,703,533,448,448,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17444,0,1103
+1756369955518,17465,สร้าง Visit,201,Created,Thread Group 1-286,text,true,,703,533,447,447,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17465,0,1565
+1756369955418,17566,สร้าง Visit,201,Created,Thread Group 1-85,text,true,,703,533,446,446,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17566,0,2604
+1756369955831,17173,สร้าง Visit,201,Created,Thread Group 1-637,text,true,,703,533,445,445,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17173,0,813
+1756369955551,17454,สร้าง Visit,201,Created,Thread Group 1-325,text,true,,703,533,445,445,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17454,0,2461
+1756369956518,16488,สร้าง Visit,201,Created,Thread Group 1-690,text,true,,703,533,443,443,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16488,0,22
+1756369955865,17163,สร้าง Visit,201,Created,Thread Group 1-670,text,true,,703,533,442,442,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17163,0,1231
+1756369955551,17502,สร้าง Visit,201,Created,Thread Group 1-193,text,true,,703,533,441,441,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17502,0,1543
+1756369955620,17453,สร้าง Visit,201,Created,Thread Group 1-422,text,true,,703,533,440,440,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17453,0,869
+1756369955676,17398,สร้าง Visit,201,Created,Thread Group 1-475,text,true,,703,533,440,440,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17398,0,2284
+1756369955573,17510,สร้าง Visit,201,Created,Thread Group 1-290,text,true,,703,533,438,438,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17510,0,2376
+1756369955838,17249,สร้าง Visit,201,Created,Thread Group 1-646,text,true,,703,533,437,437,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17249,0,623
+1756369955573,17539,สร้าง Visit,201,Created,Thread Group 1-259,text,true,,703,533,436,436,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17539,0,2442
+1756369956512,16648,สร้าง Visit,201,Created,Thread Group 1-774,text,true,,703,533,435,435,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16648,0,25
+1756369955662,17498,สร้าง Visit,201,Created,Thread Group 1-425,text,true,,703,533,435,435,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17498,0,2263
+1756369955610,17550,สร้าง Visit,201,Created,Thread Group 1-400,text,true,,703,533,435,435,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17550,0,883
+1756369955662,17502,สร้าง Visit,201,Created,Thread Group 1-435,text,true,,703,533,432,432,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17502,0,2284
+1756369955663,17502,สร้าง Visit,201,Created,Thread Group 1-434,text,true,,703,533,431,431,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17502,0,2265
+1756369955764,17401,สร้าง Visit,201,Created,Thread Group 1-516,text,true,,703,533,431,431,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17401,0,2172
+1756369955581,17584,สร้าง Visit,201,Created,Thread Group 1-362,text,true,,703,533,431,431,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17584,0,2376
+1756369955535,17631,สร้าง Visit,201,Created,Thread Group 1-248,text,true,,703,533,428,428,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17631,0,2458
+1756369955765,17401,สร้าง Visit,201,Created,Thread Group 1-541,text,true,,703,533,428,428,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17401,0,1333
+1756369955430,17736,สร้าง Visit,201,Created,Thread Group 1-140,text,true,,703,533,428,428,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17736,0,959
+1756369955520,17684,สร้าง Visit,201,Created,Thread Group 1-208,text,true,,703,533,425,425,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17684,0,2407
+1756369955417,17787,สร้าง Visit,201,Created,Thread Group 1-131,text,true,,703,533,424,424,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17787,0,2545
+1756369955823,17382,สร้าง Visit,201,Created,Thread Group 1-630,text,true,,703,533,424,424,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17382,0,627
+1756369956629,16607,สร้าง Visit,201,Created,Thread Group 1-867,text,true,,703,533,422,422,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16607,0,21
+1756369955837,17399,สร้าง Visit,201,Created,Thread Group 1-645,text,true,,703,533,422,422,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17399,0,1261
+1756369955575,17662,สร้าง Visit,201,Created,Thread Group 1-337,text,true,,703,533,420,420,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17662,0,2439
+1756369955500,17747,สร้าง Visit,201,Created,Thread Group 1-162,text,true,,703,533,419,419,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17747,0,1017
+1756369956081,17177,สร้าง Visit,201,Created,Thread Group 1-734,text,true,,703,533,418,418,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17177,0,140
+1756369955767,17558,สร้าง Visit,201,Created,Thread Group 1-572,text,true,,703,533,417,417,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17558,0,870
+1756369955589,17738,สร้าง Visit,201,Created,Thread Group 1-380,text,true,,703,533,416,416,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17738,0,966
+1756369956082,17246,สร้าง Visit,201,Created,Thread Group 1-656,text,true,,703,533,415,415,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17246,0,138
+1756369955756,17574,สร้าง Visit,201,Created,Thread Group 1-550,text,true,,703,533,414,414,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17574,0,2185
+1756369955534,17798,สร้าง Visit,201,Created,Thread Group 1-171,text,true,,703,533,413,413,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17798,0,2428
+1756369955635,17717,สร้าง Visit,201,Created,Thread Group 1-436,text,true,,703,533,412,412,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17717,0,2306
+1756369955587,17765,สร้าง Visit,201,Created,Thread Group 1-338,text,true,,703,533,412,412,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17765,0,2347
+1756369956563,16790,สร้าง Visit,201,Created,Thread Group 1-642,text,true,,703,533,411,411,https://ncds-prevention.buddy-care.org/service/api/v1/visit,16790,0,1458
+1756369955519,17834,สร้าง Visit,201,Created,Thread Group 1-209,text,true,,703,533,411,411,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17834,0,2425
+1756369955500,17889,สร้าง Visit,201,Created,Thread Group 1-163,text,true,,703,533,408,408,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17889,0,1595
+1756369955659,17730,สร้าง Visit,201,Created,Thread Group 1-455,text,true,,703,533,408,408,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17730,0,1431
+1756369955660,17729,สร้าง Visit,201,Created,Thread Group 1-470,text,true,,703,533,408,408,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17729,0,2272
+1756369955813,17630,สร้าง Visit,201,Created,Thread Group 1-623,text,true,,703,533,405,405,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17630,0,684
+1756369955535,17908,สร้าง Visit,201,Created,Thread Group 1-204,text,true,,703,533,405,405,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17908,0,2457
+1756369956498,17216,สร้าง Visit,201,Created,Thread Group 1-704,text,true,,703,533,403,403,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17216,0,1862
+1756369955547,18343,สร้าง Visit,201,Created,Thread Group 1-318,text,true,,703,533,402,402,https://ncds-prevention.buddy-care.org/service/api/v1/visit,18343,0,2887
+1756369956497,17448,สร้าง Visit,201,Created,Thread Group 1-807,text,true,,703,533,401,401,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17448,0,1887
+1756369955601,18426,สร้าง Visit,201,Created,Thread Group 1-392,text,true,,703,533,400,400,https://ncds-prevention.buddy-care.org/service/api/v1/visit,18426,0,2832
+1756369955535,18612,สร้าง Visit,201,Created,Thread Group 1-232,text,true,,703,533,399,399,https://ncds-prevention.buddy-care.org/service/api/v1/visit,18612,0,17030
+1756369955403,18744,สร้าง Visit,201,Created,Thread Group 1-149,text,true,,703,533,398,398,https://ncds-prevention.buddy-care.org/service/api/v1/visit,18744,0,3085
+1756369955874,18284,สร้าง Visit,201,Created,Thread Group 1-684,text,true,,703,533,397,397,https://ncds-prevention.buddy-care.org/service/api/v1/visit,18284,0,16650
+1756369956497,17662,สร้าง Visit,201,Created,Thread Group 1-719,text,true,,703,533,396,396,https://ncds-prevention.buddy-care.org/service/api/v1/visit,17662,0,1892
+1756369955898,54841,สร้าง Visit,201,Created,Thread Group 1-618,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54841,0,16557
+1756369956079,54660,สร้าง Visit,201,Created,Thread Group 1-732,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54660,0,2415
+1756369955415,55324,สร้าง Visit,201,Created,Thread Group 1-138,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55324,0,3011
+1756369955546,55193,สร้าง Visit,201,Created,Thread Group 1-310,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55193,0,2852
+1756369955677,55062,สร้าง Visit,201,Created,Thread Group 1-476,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55062,0,2751
+1756369955795,54945,สร้าง Visit,201,Created,Thread Group 1-604,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54945,0,16758
+1756369955499,55240,สร้าง Visit,201,Created,Thread Group 1-254,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55240,0,2949
+1756369955402,55337,สร้าง Visit,201,Created,Thread Group 1-9,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55337,0,3087
+1756369956494,54246,สร้าง Visit,201,Created,Thread Group 1-727,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54246,0,1904
+1756369955579,55161,สร้าง Visit,201,Created,Thread Group 1-331,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55161,0,2852
+1756369955542,55198,สร้าง Visit,201,Created,Thread Group 1-277,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55198,0,2950
+1756369955429,55310,สร้าง Visit,201,Created,Thread Group 1-12,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55310,0,2930
+1756369955398,55341,สร้าง Visit,201,Created,Thread Group 1-1,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55341,0,3057
+1756369955456,55284,สร้าง Visit,201,Created,Thread Group 1-189,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55284,0,2979
+1756369955449,55290,สร้าง Visit,201,Created,Thread Group 1-20,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55290,0,2999
+1756369955566,55174,สร้าง Visit,201,Created,Thread Group 1-348,text,true,,703,533,395,395,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55174,0,17014
+1756369955573,55168,สร้าง Visit,201,Created,Thread Group 1-313,text,true,,703,533,391,391,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55168,0,16966
+1756369955854,54887,สร้าง Visit,201,Created,Thread Group 1-660,text,true,,703,533,390,390,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54887,0,16708
+1756369956039,54702,สร้าง Visit,201,Created,Thread Group 1-702,text,true,,703,533,390,390,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54702,0,6989
+1756369955754,54987,สร้าง Visit,201,Created,Thread Group 1-549,text,true,,703,533,389,389,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54987,0,2740
+1756369956595,54146,สร้าง Visit,201,Created,Thread Group 1-865,text,true,,703,533,389,389,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54146,0,23
+1756369955403,55339,สร้าง Visit,201,Created,Thread Group 1-143,text,true,,703,533,385,385,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55339,0,3053
+1756369955405,55336,สร้าง Visit,201,Created,Thread Group 1-14,text,true,,703,533,385,385,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55336,0,17124
+1756369955576,55166,สร้าง Visit,201,Created,Thread Group 1-282,text,true,,703,533,385,385,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55166,0,16875
+1756369955572,55170,สร้าง Visit,201,Created,Thread Group 1-373,text,true,,703,533,385,385,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55170,0,17010
+1756369956077,54665,สร้าง Visit,201,Created,Thread Group 1-844,text,true,,703,533,384,384,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54665,0,2414
+1756369955404,55337,สร้าง Visit,201,Created,Thread Group 1-60,text,true,,703,533,384,384,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55337,0,17142
+1756369955562,55180,สร้าง Visit,201,Created,Thread Group 1-357,text,true,,703,533,382,382,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55180,0,17032
+1756369955399,55343,สร้าง Visit,201,Created,Thread Group 1-87,text,true,,703,533,380,379,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55343,0,17157
+1756369956041,54702,สร้าง Visit,201,Created,Thread Group 1-708,text,true,,703,533,379,379,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54702,0,16484
+1756369955564,55179,สร้าง Visit,201,Created,Thread Group 1-256,text,true,,703,533,379,379,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55179,0,2890
+1756369956079,54664,สร้าง Visit,201,Created,Thread Group 1-854,text,true,,703,533,379,379,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54664,0,2411
+1756369956078,54665,สร้าง Visit,201,Created,Thread Group 1-812,text,true,,703,533,379,379,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54665,0,2411
+1756369955403,55340,สร้าง Visit,201,Created,Thread Group 1-166,text,true,,703,533,378,378,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55340,0,3006
+1756369955564,55179,สร้าง Visit,201,Created,Thread Group 1-288,text,true,,703,533,377,377,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55179,0,2835
+1756369955500,55244,สร้าง Visit,201,Created,Thread Group 1-161,text,true,,703,533,376,376,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55244,0,2895
+1756369956786,53958,สร้าง Visit,201,Created,Thread Group 1-980,text,true,,703,533,375,375,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53958,0,15844
+1756369955397,55346,สร้าง Visit,201,Created,Thread Group 1-82,text,true,,703,533,373,373,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55346,0,17132
+1756369955428,55315,สร้าง Visit,201,Created,Thread Group 1-72,text,true,,703,533,373,373,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55315,0,17114
+1756369955544,55200,สร้าง Visit,201,Created,Thread Group 1-343,text,true,,703,533,373,373,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55200,0,16914
+1756369956756,53988,สร้าง Visit,201,Created,Thread Group 1-641,text,true,,703,533,372,372,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53988,0,15868
+1756369956730,54014,สร้าง Visit,201,Created,Thread Group 1-967,text,true,,703,533,372,372,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54014,0,15898
+1756369956771,53974,สร้าง Visit,201,Created,Thread Group 1-755,text,true,,703,533,372,372,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53974,0,15854
+1756369955472,55273,สร้าง Visit,201,Created,Thread Group 1-198,text,true,,703,533,371,371,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55273,0,17093
+1756369956787,53958,สร้าง Visit,201,Created,Thread Group 1-991,text,true,,703,533,370,370,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53958,0,15843
+1756369955561,55184,สร้าง Visit,201,Created,Thread Group 1-312,text,true,,703,533,370,370,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55184,0,16999
+1756369955404,55340,สร้าง Visit,201,Created,Thread Group 1-73,text,true,,703,533,367,367,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55340,0,17118
+1756369955406,55338,สร้าง Visit,201,Created,Thread Group 1-55,text,true,,703,533,365,365,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55338,0,17119
+1756369955884,54861,สร้าง Visit,201,Created,Thread Group 1-610,text,true,,703,533,365,365,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54861,0,16639
+1756369955397,55347,สร้าง Visit,201,Created,Thread Group 1-43,text,true,,703,533,365,365,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55347,0,17136
+1756369955461,55284,สร้าง Visit,201,Created,Thread Group 1-196,text,true,,703,533,365,365,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55284,0,17075
+1756369955588,55158,สร้าง Visit,201,Created,Thread Group 1-361,text,true,,703,533,365,365,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55158,0,2914
+1756369955883,54863,สร้าง Visit,201,Created,Thread Group 1-687,text,true,,703,533,364,364,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54863,0,2604
+1756369955399,55346,สร้าง Visit,201,Created,Thread Group 1-56,text,true,,703,533,364,364,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55346,0,3087
+1756369955884,54862,สร้าง Visit,201,Created,Thread Group 1-609,text,true,,703,533,364,364,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54862,0,16644
+1756369955525,55221,สร้าง Visit,201,Created,Thread Group 1-302,text,true,,703,533,361,361,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55221,0,2960
+1756369955416,55329,สร้าง Visit,201,Created,Thread Group 1-3,text,true,,703,533,361,361,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55329,0,17105
+1756369955877,54869,สร้าง Visit,201,Created,Thread Group 1-569,text,true,,703,533,359,359,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54869,0,16684
+1756369955404,55341,สร้าง Visit,201,Created,Thread Group 1-81,text,true,,703,533,358,358,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55341,0,17047
+1756369955455,55291,สร้าง Visit,201,Created,Thread Group 1-188,text,true,,703,533,358,358,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55291,0,2986
+1756369955563,55184,สร้าง Visit,201,Created,Thread Group 1-351,text,true,,703,533,357,357,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55184,0,16982
+1756369955790,54957,สร้าง Visit,201,Created,Thread Group 1-599,text,true,,703,533,357,357,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54957,0,16767
+1756369955418,55328,สร้าง Visit,201,Created,Thread Group 1-50,text,true,,703,533,357,357,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55328,0,3065
+1756369955414,55332,สร้าง Visit,201,Created,Thread Group 1-61,text,true,,703,533,357,357,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55332,0,3030
+1756369955458,55289,สร้าง Visit,201,Created,Thread Group 1-139,text,true,,703,533,353,353,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55289,0,2938
+1756369955693,55054,สร้าง Visit,201,Created,Thread Group 1-501,text,true,,703,533,353,352,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55054,0,16762
+1756369955449,55298,สร้าง Visit,201,Created,Thread Group 1-181,text,true,,703,533,352,352,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55298,0,17128
+1756369955867,54880,สร้าง Visit,201,Created,Thread Group 1-677,text,true,,703,533,352,352,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54880,0,2541
+1756369955418,55329,สร้าง Visit,201,Created,Thread Group 1-99,text,true,,703,533,352,352,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55329,0,17114
+1756369955399,55348,สร้าง Visit,201,Created,Thread Group 1-112,text,true,,703,533,352,352,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55348,0,3096
+1756369955676,55072,สร้าง Visit,201,Created,Thread Group 1-473,text,true,,703,533,351,351,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55072,0,16780
+1756369955573,55175,สร้าง Visit,201,Created,Thread Group 1-374,text,true,,703,533,347,347,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55175,0,17005
+1756369955398,55349,สร้าง Visit,201,Created,Thread Group 1-86,text,true,,703,533,346,346,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55349,0,3052
+1756369956770,53978,สร้าง Visit,201,Created,Thread Group 1-983,text,true,,703,533,346,346,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53978,0,15861
+1756369955536,55212,สร้าง Visit,201,Created,Thread Group 1-233,text,true,,703,533,346,346,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55212,0,17002
+1756369955560,55188,สร้าง Visit,201,Created,Thread Group 1-280,text,true,,703,533,345,345,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55188,0,17008
+1756369955514,55234,สร้าง Visit,201,Created,Thread Group 1-263,text,true,,703,533,345,345,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55234,0,2976
+1756369955886,54863,สร้าง Visit,201,Created,Thread Group 1-611,text,true,,703,533,343,343,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54863,0,16655
+1756369956767,53982,สร้าง Visit,201,Created,Thread Group 1-973,text,true,,703,533,343,343,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53982,0,15862
+1756369955564,55185,สร้าง Visit,201,Created,Thread Group 1-341,text,true,,703,533,341,341,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55185,0,16978
+1756369955557,55192,สร้าง Visit,201,Created,Thread Group 1-272,text,true,,703,533,339,339,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55192,0,2832
+1756369955867,54882,สร้าง Visit,201,Created,Thread Group 1-678,text,true,,703,533,339,339,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54882,0,2567
+1756369955399,55350,สร้าง Visit,201,Created,Thread Group 1-135,text,true,,703,533,339,338,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55350,0,3011
+1756369956025,54724,สร้าง Visit,201,Created,Thread Group 1-703,text,true,,703,533,338,338,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54724,0,2473
+1756369955563,55186,สร้าง Visit,201,Created,Thread Group 1-240,text,true,,703,533,338,338,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55186,0,16993
+1756369956018,54731,สร้าง Visit,201,Created,Thread Group 1-579,text,true,,703,533,338,338,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54731,0,6011
+1756369955400,55350,สร้าง Visit,201,Created,Thread Group 1-110,text,true,,703,533,337,337,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55349,0,3088
+1756369955486,55264,สร้าง Visit,201,Created,Thread Group 1-221,text,true,,703,533,335,335,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55264,0,17090
+1756369955444,55306,สร้าง Visit,201,Created,Thread Group 1-173,text,true,,703,533,334,334,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55306,0,2950
+1756369955429,55320,สร้าง Visit,201,Created,Thread Group 1-36,text,true,,703,533,334,334,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55320,0,2970
+1756369955399,55351,สร้าง Visit,201,Created,Thread Group 1-97,text,true,,703,533,334,334,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55351,0,3026
+1756369956810,53940,สร้าง Visit,201,Created,Thread Group 1-754,text,true,,703,533,332,332,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53940,0,15819
+1756369955669,55081,สร้าง Visit,201,Created,Thread Group 1-464,text,true,,703,533,332,332,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55081,0,2817
+1756369955574,55176,สร้าง Visit,201,Created,Thread Group 1-375,text,true,,703,533,332,332,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55176,0,16960
+1756369955402,55347,สร้าง Visit,201,Created,Thread Group 1-46,text,true,,703,533,331,331,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55347,0,17216
+1756369955690,55060,สร้าง Visit,201,Created,Thread Group 1-484,text,true,,703,533,329,329,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55060,0,16878
+1756369955563,55187,สร้าง Visit,201,Created,Thread Group 1-245,text,true,,703,533,329,329,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55187,0,17019
+1756369955406,55345,สร้าง Visit,201,Created,Thread Group 1-121,text,true,,703,533,328,328,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55344,0,17158
+1756369955415,55336,สร้าง Visit,201,Created,Thread Group 1-145,text,true,,703,533,327,327,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55336,0,2993
+1756369955884,54867,สร้าง Visit,201,Created,Thread Group 1-576,text,true,,703,533,327,327,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54867,0,16565
+1756369955399,55352,สร้าง Visit,201,Created,Thread Group 1-126,text,true,,703,533,326,326,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55352,0,17186
+1756369955401,55349,สร้าง Visit,201,Created,Thread Group 1-57,text,true,,703,533,324,324,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55349,0,17053
+1756369955866,54885,สร้าง Visit,201,Created,Thread Group 1-676,text,true,,703,533,322,322,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54885,0,16702
+1756369955417,55333,สร้าง Visit,201,Created,Thread Group 1-76,text,true,,703,533,322,322,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55333,0,17137
+1756369955409,55342,สร้าง Visit,201,Created,Thread Group 1-137,text,true,,703,533,320,320,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55342,0,17145
+1756369955428,55322,สร้าง Visit,201,Created,Thread Group 1-31,text,true,,703,533,320,320,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55322,0,17126
+1756369955417,55333,สร้าง Visit,201,Created,Thread Group 1-58,text,true,,703,533,320,320,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55333,0,17133
+1756369956502,54249,สร้าง Visit,201,Created,Thread Group 1-740,text,true,,703,533,318,318,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54249,0,16033
+1756369955402,55349,สร้าง Visit,201,Created,Thread Group 1-150,text,true,,703,533,318,318,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55349,0,17181
+1756369955456,55296,สร้าง Visit,201,Created,Thread Group 1-190,text,true,,703,533,318,318,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55296,0,3036
+1756369955888,54864,สร้าง Visit,201,Created,Thread Group 1-617,text,true,,703,533,316,316,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54864,0,16638
+1756369955742,55010,สร้าง Visit,201,Created,Thread Group 1-525,text,true,,703,533,315,315,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55010,0,16715
+1756369955449,55302,สร้าง Visit,201,Created,Thread Group 1-21,text,true,,703,533,314,314,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55302,0,17119
+1756369955574,55178,สร้าง Visit,201,Created,Thread Group 1-296,text,true,,703,533,311,311,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55178,0,16979
+1756369955402,55349,สร้าง Visit,201,Created,Thread Group 1-24,text,true,,703,533,311,311,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55349,0,17188
+1756369955493,55259,สร้าง Visit,201,Created,Thread Group 1-238,text,true,,703,533,311,311,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55259,0,17074
+1756369955876,54876,สร้าง Visit,201,Created,Thread Group 1-601,text,true,,703,533,310,310,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54876,0,16683
+1756369955762,54990,สร้าง Visit,201,Created,Thread Group 1-514,text,true,,703,533,310,310,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54990,0,2738
+1756369955787,54965,สร้าง Visit,201,Created,Thread Group 1-596,text,true,,703,533,310,310,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54965,0,2643
+1756369955598,55155,สร้าง Visit,201,Created,Thread Group 1-385,text,true,,703,533,308,308,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55155,0,2906
+1756369955789,54964,สร้าง Visit,201,Created,Thread Group 1-597,text,true,,703,533,307,307,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54964,0,16777
+1756369955409,55344,สร้าง Visit,201,Created,Thread Group 1-130,text,true,,703,533,304,304,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55344,0,17149
+1756369955416,55336,สร้าง Visit,201,Created,Thread Group 1-26,text,true,,703,533,304,304,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55336,0,2990
+1756369955876,54877,สร้าง Visit,201,Created,Thread Group 1-686,text,true,,703,533,304,304,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54877,0,16697
+1756369955494,55259,สร้าง Visit,201,Created,Thread Group 1-244,text,true,,703,533,302,302,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55259,0,17057
+1756369956147,54606,สร้าง Visit,201,Created,Thread Group 1-724,text,true,,703,533,302,302,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54606,0,6881
+1756369955401,55351,สร้าง Visit,201,Created,Thread Group 1-54,text,true,,703,533,302,302,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55351,0,17192
+1756369956024,54729,สร้าง Visit,201,Created,Thread Group 1-701,text,true,,703,533,301,301,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54729,0,7004
+1756369955558,55195,สร้าง Visit,201,Created,Thread Group 1-177,text,true,,703,533,301,301,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55195,0,17009
+1756369956721,54033,สร้าง Visit,201,Created,Thread Group 1-957,text,true,,703,533,300,300,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54033,0,15905
+1756369955557,55197,สร้าง Visit,201,Created,Thread Group 1-224,text,true,,703,533,300,300,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55197,0,16971
+1756369955399,55355,สร้าง Visit,201,Created,Thread Group 1-142,text,true,,703,533,298,298,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55355,0,17119
+1756369956796,53958,สร้าง Visit,201,Created,Thread Group 1-998,text,true,,703,533,298,298,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53958,0,15876
+1756369955415,55338,สร้าง Visit,201,Created,Thread Group 1-75,text,true,,703,533,298,298,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55338,0,3033
+1756369956667,54087,สร้าง Visit,201,Created,Thread Group 1-853,text,true,,703,533,298,298,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54087,0,1710
+1756369955787,54967,สร้าง Visit,201,Created,Thread Group 1-554,text,true,,703,533,297,297,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54967,0,16756
+1756369955491,55263,สร้าง Visit,201,Created,Thread Group 1-237,text,true,,703,533,295,295,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55263,0,17072
+1756369955742,55012,สร้าง Visit,201,Created,Thread Group 1-526,text,true,,703,533,293,293,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55012,0,2687
+1756369955399,55356,สร้าง Visit,201,Created,Thread Group 1-128,text,true,,703,533,291,291,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55356,0,17194
+1756369955629,55126,สร้าง Visit,201,Created,Thread Group 1-426,text,true,,703,533,291,291,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55126,0,2768
+1756369956498,54257,สร้าง Visit,201,Created,Thread Group 1-781,text,true,,703,533,291,291,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54257,0,1865
+1756369955414,55340,สร้าง Visit,201,Created,Thread Group 1-47,text,true,,703,533,291,291,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55340,0,17041
+1756369955546,55209,สร้าง Visit,201,Created,Thread Group 1-202,text,true,,703,533,291,291,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55209,0,2859
+1756369955788,54967,สร้าง Visit,201,Created,Thread Group 1-598,text,true,,703,533,290,290,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54967,0,16786
+1756369955453,55302,สร้าง Visit,201,Created,Thread Group 1-183,text,true,,703,533,290,290,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55302,0,17070
+1756369955493,55263,สร้าง Visit,201,Created,Thread Group 1-239,text,true,,703,533,290,290,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55263,0,17066
+1756369955693,55063,สร้าง Visit,201,Created,Thread Group 1-480,text,true,,703,533,290,290,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55063,0,16871
+1756369955446,55310,สร้าง Visit,201,Created,Thread Group 1-175,text,true,,703,533,290,290,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55310,0,17173
+1756369955877,54879,สร้าง Visit,201,Created,Thread Group 1-571,text,true,,703,533,290,290,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54879,0,16676
+1756369955490,55266,สร้าง Visit,201,Created,Thread Group 1-230,text,true,,703,533,287,287,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55266,0,17082
+1756369955551,55205,สร้าง Visit,201,Created,Thread Group 1-273,text,true,,703,533,287,287,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55205,0,17008
+1756369955472,55284,สร้าง Visit,201,Created,Thread Group 1-197,text,true,,703,533,286,286,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55284,0,17093
+1756369955492,55264,สร้าง Visit,201,Created,Thread Group 1-228,text,true,,703,533,286,286,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55264,0,17068
+1756369955420,55335,สร้าง Visit,201,Created,Thread Group 1-7,text,true,,703,533,286,286,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55335,0,17128
+1756369955607,55149,สร้าง Visit,201,Created,Thread Group 1-406,text,true,,703,533,286,286,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55149,0,2887
+1756369955693,55063,สร้าง Visit,201,Created,Thread Group 1-481,text,true,,703,533,286,286,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55063,0,16872
+1756369955533,55223,สร้าง Visit,201,Created,Thread Group 1-211,text,true,,703,533,283,283,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55223,0,17025
+1756369955429,55328,สร้าง Visit,201,Created,Thread Group 1-103,text,true,,703,533,283,283,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55328,0,17023
+1756369955562,55195,สร้าง Visit,201,Created,Thread Group 1-332,text,true,,703,533,280,280,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55195,0,17017
+1756369955873,54884,สร้าง Visit,201,Created,Thread Group 1-568,text,true,,703,533,278,278,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54884,0,16580
+1756369955489,55268,สร้าง Visit,201,Created,Thread Group 1-229,text,true,,703,533,278,278,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55268,0,17062
+1756369955874,54883,สร้าง Visit,201,Created,Thread Group 1-685,text,true,,703,533,279,279,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54883,0,16658
+1756369955881,54876,สร้าง Visit,201,Created,Thread Group 1-570,text,true,,703,533,278,278,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54876,0,16666
+1756369955710,55047,สร้าง Visit,201,Created,Thread Group 1-487,text,true,,703,533,278,278,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55047,0,2715
+1756369955415,55341,สร้าง Visit,201,Created,Thread Group 1-13,text,true,,703,533,275,275,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55341,0,17171
+1756369955532,55225,สร้าง Visit,201,Created,Thread Group 1-271,text,true,,703,533,275,275,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55225,0,2922
+1756369955563,55194,สร้าง Visit,201,Created,Thread Group 1-270,text,true,,703,533,275,275,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55194,0,17027
+1756369955759,54998,สร้าง Visit,201,Created,Thread Group 1-564,text,true,,703,533,274,274,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54998,0,2650
+1756369955885,54872,สร้าง Visit,201,Created,Thread Group 1-695,text,true,,703,533,274,274,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54870,0,6147
+1756369955418,55339,สร้าง Visit,201,Created,Thread Group 1-106,text,true,,703,533,274,274,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55339,0,2977
+1756369955533,55224,สร้าง Visit,201,Created,Thread Group 1-279,text,true,,703,533,274,274,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55224,0,2962
+1756369955416,55340,สร้าง Visit,201,Created,Thread Group 1-74,text,true,,703,533,274,274,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55340,0,17116
+1756369955404,55353,สร้าง Visit,201,Created,Thread Group 1-22,text,true,,703,533,272,272,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55353,0,17049
+1756369955403,55355,สร้าง Visit,201,Created,Thread Group 1-152,text,true,,703,533,272,272,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55352,0,17150
+1756369956819,53939,สร้าง Visit,201,Created,Thread Group 1-650,text,true,,703,533,272,272,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53939,0,16807
+1756369955407,55348,สร้าง Visit,201,Created,Thread Group 1-168,text,true,,703,533,270,270,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55348,0,17047
+1756369956718,54040,สร้าง Visit,201,Created,Thread Group 1-706,text,true,,703,533,270,270,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54040,0,16896
+1756369955756,55002,สร้าง Visit,201,Created,Thread Group 1-559,text,true,,703,533,269,269,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55002,0,2692
+1756369955399,55358,สร้าง Visit,201,Created,Thread Group 1-15,text,true,,703,533,268,268,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55358,0,3008
+1756369956690,54068,สร้าง Visit,201,Created,Thread Group 1-680,text,true,,703,533,268,268,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54068,0,16924
+1756369956082,54676,สร้าง Visit,201,Created,Thread Group 1-790,text,true,,703,533,267,267,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54676,0,2403
+1756369955573,55185,สร้าง Visit,201,Created,Thread Group 1-315,text,true,,703,533,267,267,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55185,0,6456
+1756369955540,55218,สร้าง Visit,201,Created,Thread Group 1-301,text,true,,703,533,266,266,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55218,0,2946
+1756369956080,54679,สร้าง Visit,201,Created,Thread Group 1-780,text,true,,703,533,265,265,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54679,0,2420
+1756369955400,55359,สร้าง Visit,201,Created,Thread Group 1-141,text,true,,703,533,265,265,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55359,0,17189
+1756369955493,55266,สร้าง Visit,201,Created,Thread Group 1-153,text,true,,703,533,263,263,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55266,0,17066
+1756369955420,55338,สร้าง Visit,201,Created,Thread Group 1-71,text,true,,703,533,261,261,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55338,0,17164
+1756369955544,55215,สร้าง Visit,201,Created,Thread Group 1-300,text,true,,703,533,259,259,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55215,0,794
+1756369955495,55264,สร้าง Visit,201,Created,Thread Group 1-246,text,true,,703,533,258,258,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55264,0,2955
+1756369956681,54078,สร้าง Visit,201,Created,Thread Group 1-864,text,true,,703,533,258,258,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54078,0,15938
+1756369955399,55360,สร้าง Visit,201,Created,Thread Group 1-119,text,true,,703,533,258,258,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55360,0,17193
+1756369955514,55246,สร้าง Visit,201,Created,Thread Group 1-278,text,true,,703,533,258,258,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55246,0,960
+1756369956075,54685,สร้าง Visit,201,Created,Thread Group 1-861,text,true,,703,533,256,256,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54685,0,2423
+1756369955849,54911,สร้าง Visit,201,Created,Thread Group 1-655,text,true,,703,533,254,254,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54911,0,16676
+1756369955409,55351,สร้าง Visit,201,Created,Thread Group 1-92,text,true,,703,533,253,253,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55351,0,17127
+1756369956074,54686,สร้าง Visit,201,Created,Thread Group 1-868,text,true,,703,533,253,253,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54686,0,2423
+1756369955398,55361,สร้าง Visit,201,Created,Thread Group 1-63,text,true,,703,533,253,253,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55361,0,17139
+1756369955403,55356,สร้าง Visit,201,Created,Thread Group 1-79,text,true,,703,533,252,252,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55356,0,3086
+1756369955406,55353,สร้าง Visit,201,Created,Thread Group 1-8,text,true,,703,533,252,252,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55353,0,17051
+1756369955404,55355,สร้าง Visit,201,Created,Thread Group 1-39,text,true,,703,533,251,251,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55355,0,17049
+1756369955419,55341,สร้าง Visit,201,Created,Thread Group 1-122,text,true,,703,533,251,251,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55336,0,17036
+1756369955405,55355,สร้าง Visit,201,Created,Thread Group 1-48,text,true,,703,533,251,251,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55355,0,17145
+1756369956718,54043,สร้าง Visit,201,Created,Thread Group 1-948,text,true,,703,533,251,251,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54043,0,15908
+1756369955403,55358,สร้าง Visit,201,Created,Thread Group 1-165,text,true,,703,533,248,248,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55358,0,17137
+1756369955446,55315,สร้าง Visit,201,Created,Thread Group 1-174,text,true,,703,533,248,248,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55315,0,3053
+1756369955872,54889,สร้าง Visit,201,Created,Thread Group 1-679,text,true,,703,533,248,248,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54889,0,16579
+1756369955871,54890,สร้าง Visit,201,Created,Thread Group 1-594,text,true,,703,533,248,248,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54890,0,16585
+1756369955399,55362,สร้าง Visit,201,Created,Thread Group 1-134,text,true,,703,533,248,248,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55362,0,17048
+1756369955563,55199,สร้าง Visit,201,Created,Thread Group 1-268,text,true,,703,533,246,246,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55199,0,17025
+1756369955428,55333,สร้าง Visit,201,Created,Thread Group 1-51,text,true,,703,533,245,245,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55333,0,17137
+1756369955400,55362,สร้าง Visit,201,Created,Thread Group 1-144,text,true,,703,533,244,244,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55362,0,17164
+1756369955573,55189,สร้าง Visit,201,Created,Thread Group 1-217,text,true,,703,533,243,243,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55189,0,16988
+1756369955398,55364,สร้าง Visit,201,Created,Thread Group 1-118,text,true,,703,533,242,242,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55364,0,3097
+1756369955561,55201,สร้าง Visit,201,Created,Thread Group 1-333,text,true,,703,533,241,241,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55201,0,17030
+1756369955399,55362,สร้าง Visit,201,Created,Thread Group 1-88,text,true,,703,533,240,240,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55362,0,17179
+1756369955418,55343,สร้าง Visit,201,Created,Thread Group 1-4,text,true,,703,533,240,240,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55343,0,17035
+1756369955405,55358,สร้าง Visit,201,Created,Thread Group 1-111,text,true,,703,533,239,239,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55357,0,3078
+1756369955743,55020,สร้าง Visit,201,Created,Thread Group 1-532,text,true,,703,533,238,238,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55020,0,2740
+1756369955405,55357,สร้าง Visit,201,Created,Thread Group 1-29,text,true,,703,533,238,238,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55357,0,2983
+1756369956019,54744,สร้าง Visit,201,Created,Thread Group 1-632,text,true,,703,533,237,237,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54744,0,16507
+1756369955405,55357,สร้าง Visit,201,Created,Thread Group 1-70,text,true,,703,533,236,236,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55357,0,17137
+1756369955545,55218,สร้าง Visit,201,Created,Thread Group 1-340,text,true,,703,533,236,236,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55218,0,2868
+1756369955449,55314,สร้าง Visit,201,Created,Thread Group 1-182,text,true,,703,533,236,236,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55314,0,17120
+1756369955885,54878,สร้าง Visit,201,Created,Thread Group 1-693,text,true,,703,533,236,236,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54878,0,16561
+1756369955417,55346,สร้าง Visit,201,Created,Thread Group 1-107,text,true,,703,533,236,236,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55346,0,17105
+1756369955417,55345,สร้าง Visit,201,Created,Thread Group 1-10,text,true,,703,533,236,236,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55345,0,2971
+1756369955430,55332,สร้าง Visit,201,Created,Thread Group 1-49,text,true,,703,533,233,233,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55332,0,17026
+1756369955884,54879,สร้าง Visit,201,Created,Thread Group 1-578,text,true,,703,533,233,233,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54879,0,16563
+1756369956767,53996,สร้าง Visit,201,Created,Thread Group 1-972,text,true,,703,533,233,232,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53996,0,16862
+1756369955857,54907,สร้าง Visit,201,Created,Thread Group 1-663,text,true,,703,533,232,232,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54907,0,16713
+1756369956730,54034,สร้าง Visit,201,Created,Thread Group 1-966,text,true,,703,533,232,232,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54034,0,15898
+1756369956767,53997,สร้าง Visit,201,Created,Thread Group 1-974,text,true,,703,533,232,232,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53997,0,15862
+1756369955573,55191,สร้าง Visit,201,Created,Thread Group 1-225,text,true,,703,533,231,231,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55191,0,2929
+1756369955760,55004,สร้าง Visit,201,Created,Thread Group 1-536,text,true,,703,533,228,228,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55004,0,2743
+1756369956768,53996,สร้าง Visit,201,Created,Thread Group 1-988,text,true,,703,533,227,227,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53996,0,16861
+1756369955397,55366,สร้าง Visit,201,Created,Thread Group 1-95,text,true,,703,533,226,226,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55366,0,17130
+1756369955403,55360,สร้าง Visit,201,Created,Thread Group 1-25,text,true,,703,533,226,226,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55360,0,3024
+1756369955399,55365,สร้าง Visit,201,Created,Thread Group 1-133,text,true,,703,533,226,226,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55365,0,17178
+1756369955402,55361,สร้าง Visit,201,Created,Thread Group 1-6,text,true,,703,533,225,225,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55361,0,17168
+1756369955883,54881,สร้าง Visit,201,Created,Thread Group 1-603,text,true,,703,533,225,225,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54881,0,16645
+1756369955397,55367,สร้าง Visit,201,Created,Thread Group 1-16,text,true,,703,533,224,224,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55367,0,3099
+1756369955415,55349,สร้าง Visit,201,Created,Thread Group 1-2,text,true,,703,533,224,224,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55349,0,17133
+1756369955563,55202,สร้าง Visit,201,Created,Thread Group 1-359,text,true,,703,533,223,223,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55202,0,16966
+1756369955490,55275,สร้าง Visit,201,Created,Thread Group 1-231,text,true,,703,533,222,222,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55275,0,17068
+1756369956822,53943,สร้าง Visit,201,Created,Thread Group 1-776,text,true,,703,533,220,220,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53943,0,16808
+1756369956501,54264,สร้าง Visit,201,Created,Thread Group 1-765,text,true,,703,533,219,219,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54264,0,1868
+1756369955430,55334,สร้าง Visit,201,Created,Thread Group 1-53,text,true,,703,533,219,219,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55334,0,17135
+1756369955404,55360,สร้าง Visit,201,Created,Thread Group 1-40,text,true,,703,533,218,218,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55360,0,17053
+1756369955884,54881,สร้าง Visit,201,Created,Thread Group 1-577,text,true,,703,533,218,218,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54881,0,16564
+1756369956849,53917,สร้าง Visit,201,Created,Thread Group 1-699,text,true,,703,533,217,217,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53917,0,16778
+1756369955564,55202,สร้าง Visit,201,Created,Thread Group 1-364,text,true,,703,533,216,216,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55202,0,16977
+1756369955405,55360,สร้าง Visit,201,Created,Thread Group 1-33,text,true,,703,533,216,216,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55360,0,17121
+1756369955882,54884,สร้าง Visit,201,Created,Thread Group 1-692,text,true,,703,533,216,216,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54884,0,16707
+1756369955860,54906,สร้าง Visit,201,Created,Thread Group 1-668,text,true,,703,533,214,214,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54906,0,16696
+1756369955402,55364,สร้าง Visit,201,Created,Thread Group 1-158,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55364,0,7627
+1756369955397,55368,สร้าง Visit,201,Created,Thread Group 1-42,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55368,0,17158
+1756369955437,55329,สร้าง Visit,201,Created,Thread Group 1-159,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55329,0,17149
+1756369955429,55336,สร้าง Visit,201,Created,Thread Group 1-23,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55336,0,17023
+1756369955398,55369,สร้าง Visit,201,Created,Thread Group 1-157,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55369,0,3053
+1756369955400,55367,สร้าง Visit,201,Created,Thread Group 1-151,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55367,0,17184
+1756369955587,55180,สร้าง Visit,201,Created,Thread Group 1-363,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55180,0,16869
+1756369955399,55367,สร้าง Visit,201,Created,Thread Group 1-64,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55367,0,17186
+1756369955458,55309,สร้าง Visit,201,Created,Thread Group 1-191,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55309,0,17071
+1756369955607,55160,สร้าง Visit,201,Created,Thread Group 1-411,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55160,0,16848
+1756369956729,54038,สร้าง Visit,201,Created,Thread Group 1-959,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54038,0,16919
+1756369955533,55235,สร้าง Visit,201,Created,Thread Group 1-308,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55235,0,2953
+1756369956730,54038,สร้าง Visit,201,Created,Thread Group 1-964,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54038,0,15898
+1756369955687,55081,สร้าง Visit,201,Created,Thread Group 1-482,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55081,0,2818
+1756369955885,54883,สร้าง Visit,201,Created,Thread Group 1-608,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54883,0,6144
+1756369956015,54753,สร้าง Visit,201,Created,Thread Group 1-626,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54753,0,6014
+1756369955557,55211,สร้าง Visit,201,Created,Thread Group 1-289,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55211,0,2834
+1756369955404,55363,สร้าง Visit,201,Created,Thread Group 1-68,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55363,0,17156
+1756369955535,55233,สร้าง Visit,201,Created,Thread Group 1-243,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55233,0,2890
+1756369955874,54894,สร้าง Visit,201,Created,Thread Group 1-600,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54894,0,16650
+1756369955577,55191,สร้าง Visit,201,Created,Thread Group 1-219,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55191,0,2915
+1756369955598,55170,สร้าง Visit,201,Created,Thread Group 1-379,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55170,0,2849
+1756369955400,55368,สร้าง Visit,201,Created,Thread Group 1-117,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55368,0,17134
+1756369955572,55197,สร้าง Visit,201,Created,Thread Group 1-266,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55197,0,16968
+1756369955399,55370,สร้าง Visit,201,Created,Thread Group 1-167,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55370,0,17180
+1756369955403,55365,สร้าง Visit,201,Created,Thread Group 1-78,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55365,0,3093
+1756369955417,55351,สร้าง Visit,201,Created,Thread Group 1-52,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55351,0,17116
+1756369955526,55243,สร้าง Visit,201,Created,Thread Group 1-187,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55243,0,16999
+1756369955398,55370,สร้าง Visit,201,Created,Thread Group 1-84,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55370,0,17124
+1756369956727,54042,สร้าง Visit,201,Created,Thread Group 1-707,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54042,0,15895
+1756369956794,53975,สร้าง Visit,201,Created,Thread Group 1-753,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53975,0,16837
+1756369955575,55194,สร้าง Visit,201,Created,Thread Group 1-344,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55194,0,16982
+1756369955418,55351,สร้าง Visit,201,Created,Thread Group 1-113,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55351,0,17137
+1756369955420,55348,สร้าง Visit,201,Created,Thread Group 1-5,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55348,0,17130
+1756369955402,55366,สร้าง Visit,201,Created,Thread Group 1-17,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55366,0,3090
+1756369955587,55182,สร้าง Visit,201,Created,Thread Group 1-336,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55182,0,2909
+1756369955564,55205,สร้าง Visit,201,Created,Thread Group 1-342,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55205,0,16976
+1756369955418,55351,สร้าง Visit,201,Created,Thread Group 1-114,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55351,0,17115
+1756369955417,55353,สร้าง Visit,201,Created,Thread Group 1-93,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55353,0,17114
+1756369956682,54088,สร้าง Visit,201,Created,Thread Group 1-673,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54088,0,15938
+1756369955566,55202,สร้าง Visit,201,Created,Thread Group 1-275,text,true,,703,533,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55202,0,16961
+1756369955430,55340,สร้าง Visit,201,Created,Thread Group 1-172,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55340,0,17157
+1756369955400,55370,สร้าง Visit,201,Created,Thread Group 1-104,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55370,0,17184
+1756369955576,55194,สร้าง Visit,201,Created,Thread Group 1-265,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55194,0,16969
+1756369955488,55283,สร้าง Visit,201,Created,Thread Group 1-222,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55283,0,17085
+1756369955693,55078,สร้าง Visit,201,Created,Thread Group 1-488,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55078,0,16865
+1756369955486,55285,สร้าง Visit,201,Created,Thread Group 1-220,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55285,0,17067
+1756369955885,54886,สร้าง Visit,201,Created,Thread Group 1-694,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54886,0,16565
+1756369955405,55365,สร้าง Visit,201,Created,Thread Group 1-32,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55365,0,17169
+1756369955417,55354,สร้าง Visit,201,Created,Thread Group 1-108,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55354,0,17105
+1756369955405,55366,สร้าง Visit,201,Created,Thread Group 1-62,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55366,0,17116
+1756369955535,55237,สร้าง Visit,201,Created,Thread Group 1-309,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55237,0,2965
+1756369955408,55364,สร้าง Visit,201,Created,Thread Group 1-123,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55364,0,3047
+1756369955398,55373,สร้าง Visit,201,Created,Thread Group 1-65,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55373,0,17132
+1756369956074,54698,สร้าง Visit,201,Created,Thread Group 1-813,text,true,,703,533,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54698,0,2426
+1756369956797,53975,สร้าง Visit,201,Created,Thread Group 1-996,text,true,,703,533,207,207,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53975,0,15835
+1756369955403,55370,สร้าง Visit,201,Created,Thread Group 1-160,text,true,,703,533,181,181,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55370,0,3048
+1756369955471,55303,สร้าง Visit,201,Created,Thread Group 1-199,text,true,,703,533,181,181,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55302,0,17066
+1756369955533,55241,สร้าง Visit,201,Created,Thread Group 1-206,text,true,,703,533,181,181,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55241,0,2959
+1756369955491,55283,สร้าง Visit,201,Created,Thread Group 1-236,text,true,,703,533,181,181,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55283,0,17071
+1756369955488,55286,สร้าง Visit,201,Created,Thread Group 1-223,text,true,,703,533,181,181,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55286,0,17084
+1756369955529,55245,สร้าง Visit,201,Created,Thread Group 1-205,text,true,,703,533,181,181,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55245,0,2967
+1756369955562,55213,สร้าง Visit,201,Created,Thread Group 1-335,text,true,,703,533,181,181,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55213,0,17020
+1756369956023,54752,สร้าง Visit,201,Created,Thread Group 1-700,text,true,,703,533,181,181,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54752,0,7005
+1756369955398,55377,สร้าง Visit,201,Created,Thread Group 1-136,text,true,,703,533,181,181,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55377,0,17139
+1756369955571,55204,สร้าง Visit,201,Created,Thread Group 1-358,text,true,,703,533,181,181,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55204,0,16974
+1756369956724,54051,สร้าง Visit,201,Created,Thread Group 1-958,text,true,,703,533,179,179,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54051,0,16906
+1756369956498,54277,สร้าง Visit,201,Created,Thread Group 1-749,text,true,,703,533,176,176,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54277,0,1864
+1756369955418,55357,สร้าง Visit,201,Created,Thread Group 1-34,text,true,,703,533,173,173,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55357,0,17143
+1756369956682,54094,สร้าง Visit,201,Created,Thread Group 1-759,text,true,,703,533,173,173,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54094,0,15945
+1756369955562,55214,สร้าง Visit,201,Created,Thread Group 1-334,text,true,,703,533,173,173,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55214,0,16987
+1756369955877,54899,สร้าง Visit,201,Created,Thread Group 1-602,text,true,,703,533,173,173,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54899,0,16686
+1756369955763,55013,สร้าง Visit,201,Created,Thread Group 1-544,text,true,,703,533,173,173,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55013,0,16773
+1756369956016,54760,สร้าง Visit,201,Created,Thread Group 1-627,text,true,,703,533,173,173,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54760,0,6013
+1756369955606,55170,สร้าง Visit,201,Created,Thread Group 1-404,text,true,,703,533,173,173,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55170,0,16852
+1756369955562,55215,สร้าง Visit,201,Created,Thread Group 1-321,text,true,,703,533,173,173,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55215,0,2942
+1756369956557,54220,สร้าง Visit,201,Created,Thread Group 1-688,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54220,0,1799
+1756369955417,55359,สร้าง Visit,201,Created,Thread Group 1-37,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55359,0,2945
+1756369955398,55378,สร้าง Visit,201,Created,Thread Group 1-94,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55378,0,3056
+1756369955400,55377,สร้าง Visit,201,Created,Thread Group 1-127,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55377,0,17170
+1756369955399,55377,สร้าง Visit,201,Created,Thread Group 1-89,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55377,0,17147
+1756369955519,55259,สร้าง Visit,201,Created,Thread Group 1-293,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55259,0,16938
+1756369955409,55369,สร้าง Visit,201,Created,Thread Group 1-90,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55369,0,17144
+1756369955603,55176,สร้าง Visit,201,Created,Thread Group 1-387,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55176,0,2899
+1756369955404,55374,สร้าง Visit,201,Created,Thread Group 1-80,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55374,0,7623
+1756369955885,54894,สร้าง Visit,201,Created,Thread Group 1-585,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54894,0,2616
+1756369955873,54906,สร้าง Visit,201,Created,Thread Group 1-595,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54906,0,16674
+1756369955448,55331,สร้าง Visit,201,Created,Thread Group 1-180,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55331,0,17127
+1756369955551,55229,สร้าง Visit,201,Created,Thread Group 1-324,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55229,0,2948
+1756369955576,55204,สร้าง Visit,201,Created,Thread Group 1-330,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55204,0,2928
+1756369955399,55381,สร้าง Visit,201,Created,Thread Group 1-120,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55381,0,17059
+1756369955417,55363,สร้าง Visit,201,Created,Thread Group 1-98,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55363,0,17122
+1756369955429,55350,สร้าง Visit,201,Created,Thread Group 1-35,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55350,0,17101
+1756369955398,55382,สร้าง Visit,201,Created,Thread Group 1-102,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55382,0,3090
+1756369955411,55369,สร้าง Visit,201,Created,Thread Group 1-18,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55369,0,3001
+1756369955399,55382,สร้าง Visit,201,Created,Thread Group 1-83,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55382,0,3032
+1756369955400,55381,สร้าง Visit,201,Created,Thread Group 1-109,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55381,0,3086
+1756369956819,53962,สร้าง Visit,201,Created,Thread Group 1-752,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53962,0,15811
+1756369955459,55321,สร้าง Visit,201,Created,Thread Group 1-69,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55321,0,16997
+1756369955401,55379,สร้าง Visit,201,Created,Thread Group 1-41,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55379,0,17152
+1756369956788,53994,สร้าง Visit,201,Created,Thread Group 1-989,text,true,,703,533,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53994,0,16852
+1756369956768,54014,สร้าง Visit,201,Created,Thread Group 1-975,text,true,,703,533,143,143,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54014,0,16876
+1756369955660,55123,สร้าง Visit,201,Created,Thread Group 1-450,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55123,0,2793
+1756369955749,55034,สร้าง Visit,201,Created,Thread Group 1-498,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55034,0,2745
+1756369955429,55354,สร้าง Visit,201,Created,Thread Group 1-19,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55354,0,17132
+1756369955603,55181,สร้าง Visit,201,Created,Thread Group 1-394,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55181,0,2883
+1756369955405,55379,สร้าง Visit,201,Created,Thread Group 1-100,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55379,0,3098
+1756369955415,55369,สร้าง Visit,201,Created,Thread Group 1-129,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55369,0,3008
+1756369955600,55185,สร้าง Visit,201,Created,Thread Group 1-386,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55185,0,2901
+1756369956768,54017,สร้าง Visit,201,Created,Thread Group 1-793,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54017,0,15859
+1756369956812,53973,สร้าง Visit,201,Created,Thread Group 1-698,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53973,0,16825
+1756369956745,54040,สร้าง Visit,201,Created,Thread Group 1-697,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54040,0,16902
+1756369956792,53993,สร้าง Visit,201,Created,Thread Group 1-729,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53993,0,16849
+1756369955418,55366,สร้าง Visit,201,Created,Thread Group 1-28,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55366,0,3083
+1756369956759,54027,สร้าง Visit,201,Created,Thread Group 1-795,text,true,,703,533,133,133,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54027,0,16886
+1756369956730,54056,สร้าง Visit,201,Created,Thread Group 1-965,text,true,,703,533,132,132,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54056,0,16916
+1756369956746,54040,สร้าง Visit,201,Created,Thread Group 1-714,text,true,,703,533,132,132,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54040,0,16879
+1756369956727,54059,สร้าง Visit,201,Created,Thread Group 1-777,text,true,,703,533,132,132,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54059,0,16902
+1756369955882,54905,สร้าง Visit,201,Created,Thread Group 1-584,text,true,,703,533,132,132,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54905,0,16686
+1756369956852,53935,สร้าง Visit,201,Created,Thread Group 1-731,text,true,,703,533,129,129,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53935,0,16783
+1756369956767,54021,สร้าง Visit,201,Created,Thread Group 1-691,text,true,,703,533,114,114,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54021,0,16877
+1756369956801,53987,สร้าง Visit,201,Created,Thread Group 1-696,text,true,,703,533,114,114,https://ncds-prevention.buddy-care.org/service/api/v1/visit,53987,0,16823
+1756369955663,55688,สร้าง Visit,201,Created,Thread Group 1-419,text,true,,703,533,19,19,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55688,0,16900
+1756369955572,55786,สร้าง Visit,201,Created,Thread Group 1-372,text,true,,703,533,18,18,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55786,0,16976
+1756369956804,54558,สร้าง Visit,201,Created,Thread Group 1-997,text,true,,703,533,17,17,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54558,0,16822
+1756369956728,54635,สร้าง Visit,201,Created,Thread Group 1-778,text,true,,703,533,17,17,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54635,0,16897
+1756369956768,54595,สร้าง Visit,201,Created,Thread Group 1-981,text,true,,703,533,17,17,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54595,0,16859
+1756369955400,55963,สร้าง Visit,201,Created,Thread Group 1-96,text,true,,703,533,14,14,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55963,0,17163
+1756369956786,54582,สร้าง Visit,201,Created,Thread Group 1-982,text,true,,703,533,13,13,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54582,0,16840
+1756369956800,54569,สร้าง Visit,201,Created,Thread Group 1-794,text,true,,703,533,13,13,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54569,0,16825
+1756369955406,55967,สร้าง Visit,201,Created,Thread Group 1-38,text,true,,703,533,11,11,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55967,0,17051
+1756369957054,54321,สร้าง Visit,201,Created,Thread Group 1-817,text,true,,703,533,10,10,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54321,0,16578
+1756369956785,54594,สร้าง Visit,201,Created,Thread Group 1-990,text,true,,703,533,9,9,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54594,0,16855
+1756369956828,54551,สร้าง Visit,201,Created,Thread Group 1-819,text,true,,703,533,9,9,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54551,0,16802
+1756369956851,54528,สร้าง Visit,201,Created,Thread Group 1-872,text,true,,703,533,9,9,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54528,0,16776
+1756369956826,54554,สร้าง Visit,201,Created,Thread Group 1-999,text,true,,703,533,9,9,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54554,0,16802
+1756369955567,55813,สร้าง Visit,201,Created,Thread Group 1-320,text,true,,703,533,9,9,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55813,0,16969
+1756369955563,55818,สร้าง Visit,201,Created,Thread Group 1-350,text,true,,703,533,4,4,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55818,0,16967
+1756369955407,55993,สร้าง Visit,201,Created,Thread Group 1-125,text,true,,703,533,3,3,https://ncds-prevention.buddy-care.org/service/api/v1/visit,55993,0,17125
+1756369955398,56035,สร้าง Visit,201,Created,Thread Group 1-59,text,true,,703,533,2,2,https://ncds-prevention.buddy-care.org/service/api/v1/visit,56035,0,17152
+1756369956713,54729,สร้าง Visit,201,Created,Thread Group 1-681,text,true,,703,533,1,1,https://ncds-prevention.buddy-care.org/service/api/v1/visit,54729,0,16901

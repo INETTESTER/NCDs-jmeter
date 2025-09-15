@@ -6,8 +6,8 @@
 ##########################################################################
                      API="8_createdvisit" 
                      google_sheet="https://docs.google.com/spreadsheets/d/1Rku2eIQ99P14P5827glysU3Ys88oxQt8W9O_nnlrA7g/edit?gid=1610289956#gid=1610289956" 
-                     id="5"                 #เปลี่ยน id ทุกครั้งที่ยิง
-                     user="1000";              #จำนวนผู้ใช้งาน
+                     id="100"                 #เปลี่ยน id ทุกครั้งที่ยิง
+                     user="1";              #จำนวนผู้ใช้งาน
                      duration="1";          #หน่วยวินาที
                      status="normal"        #พิมพ์คำว่า "normal" เพื่อยิงโหลดเเละ upload report ไปที่ sheet
                                             #พิมพ์คำว่า "report" upload report ล่าสุดไปที่ sheet
@@ -67,7 +67,6 @@ fi
 
 if [ "$status" = "normal" ]; then
     jmeter -n -t ./main/script.jmx \
-
     -Juser=$user \
     -Jrampup=$duration \
     -l report/$folder_report/$filenamex/results.jtl \

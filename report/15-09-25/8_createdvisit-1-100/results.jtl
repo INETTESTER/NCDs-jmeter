@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1757921080859,473,สร้าง Visit,201,Created,Thread Group 1-1,text,true,,701,533,1,1,https://ncds-prevention.buddy-care.org/service/api/v1/visit,468,0,352

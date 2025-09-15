@@ -1,0 +1,34 @@
+{
+  "สร้างแบบประเมินสุขภาพ" : {
+    "transaction" : "สร้างแบบประเมินสุขภาพ",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2853.4369999999963,
+    "medianResTime" : 2866.0,
+    "minResTime" : 246.0,
+    "maxResTime" : 4667.0,
+    "pct1ResTime" : 4229.0,
+    "pct2ResTime" : 4339.0,
+    "pct3ResTime" : 4553.99,
+    "throughput" : 208.76826722338205,
+    "receivedKBytesPerSec" : 147.60568893528185,
+    "sentKBytesPerSec" : 1406.5354253653445
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2853.4369999999963,
+    "medianResTime" : 2866.0,
+    "minResTime" : 246.0,
+    "maxResTime" : 4667.0,
+    "pct1ResTime" : 4229.0,
+    "pct2ResTime" : 4339.0,
+    "pct3ResTime" : 4553.99,
+    "throughput" : 208.76826722338205,
+    "receivedKBytesPerSec" : 147.60568893528185,
+    "sentKBytesPerSec" : 1406.5354253653445
+  }
+}

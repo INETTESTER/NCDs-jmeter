@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 2000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2486.952499999998,
+    "medianResTime" : 2662.5,
+    "minResTime" : 25.0,
+    "maxResTime" : 6384.0,
+    "pct1ResTime" : 5480.8,
+    "pct2ResTime" : 5773.5999999999985,
+    "pct3ResTime" : 6039.99,
+    "throughput" : 297.70765108663295,
+    "receivedKBytesPerSec" : 1336.1956683536766,
+    "sentKBytesPerSec" : 146.81871464721644
+  },
+  "Dashboard แสดงภาพรวมสุขภาพแต่ละแบบประเมิน" : {
+    "transaction" : "Dashboard แสดงภาพรวมสุขภาพแต่ละแบบประเมิน",
+    "sampleCount" : 2000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2486.952499999998,
+    "medianResTime" : 2662.5,
+    "minResTime" : 25.0,
+    "maxResTime" : 6384.0,
+    "pct1ResTime" : 5480.8,
+    "pct2ResTime" : 5773.5999999999985,
+    "pct3ResTime" : 6039.99,
+    "throughput" : 297.70765108663295,
+    "receivedKBytesPerSec" : 1336.1956683536766,
+    "sentKBytesPerSec" : 146.81871464721644
+  }
+}
