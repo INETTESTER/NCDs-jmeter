@@ -1,0 +1,34 @@
+{
+  "ดึงข้อมูล Visit ทั้งหน่วยบริการ" : {
+    "transaction" : "ดึงข้อมูล Visit ทั้งหน่วยบริการ",
+    "sampleCount" : 2500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4134.266800000003,
+    "medianResTime" : 4596.5,
+    "minResTime" : 520.0,
+    "maxResTime" : 6970.0,
+    "pct1ResTime" : 5898.9,
+    "pct2ResTime" : 6301.9,
+    "pct3ResTime" : 6545.949999999999,
+    "throughput" : 355.1640858076431,
+    "receivedKBytesPerSec" : 2009.5905402045746,
+    "sentKBytesPerSec" : 156.77164725102998
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 2500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4134.266800000003,
+    "medianResTime" : 4596.5,
+    "minResTime" : 520.0,
+    "maxResTime" : 6970.0,
+    "pct1ResTime" : 5898.9,
+    "pct2ResTime" : 6301.9,
+    "pct3ResTime" : 6545.949999999999,
+    "throughput" : 355.1640858076431,
+    "receivedKBytesPerSec" : 2009.5905402045746,
+    "sentKBytesPerSec" : 156.77164725102998
+  }
+}

@@ -218,7 +218,7 @@
           <stringProp name="TestPlan.comments">7_patientlist</stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="สร้าง Visit" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="สร้าง Visit" enabled="false">
           <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
             <collectionProp name="Arguments.arguments">
@@ -393,14 +393,14 @@
           <stringProp name="TestPlan.comments">11_Dashboard</stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="สร้างนัดหมายการอบรม" enabled="false">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="สร้างนัดหมายการอบรม" enabled="true">
           <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
             <collectionProp name="Arguments.arguments">
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
-    &quot;patient_id&quot;: &quot;ad2c9578-2cdc-49e3-80b0-98b133ca86f0&quot;,&#xd;
+    &quot;patient_id&quot;: &quot;a8b95723-c5f2-4bf3-9006-508ed8da1ac6&quot;,&#xd;
     &quot;appointment_type&quot;: &quot;recurring&quot;,&#xd;
     &quot;recurring&quot;: {&#xd;
         &quot;start_time&quot;: &quot;15:00&quot;,&#xd;

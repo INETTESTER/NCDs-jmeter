@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 17840.01900000001,
+    "medianResTime" : 19849.5,
+    "minResTime" : 324.0,
+    "maxResTime" : 29773.0,
+    "pct1ResTime" : 24841.7,
+    "pct2ResTime" : 25685.3,
+    "pct3ResTime" : 29358.670000000002,
+    "throughput" : 33.525546466407405,
+    "receivedKBytesPerSec" : 22.950593821241785,
+    "sentKBytesPerSec" : 17.45030885409682
+  },
+  "สร้าง Visit" : {
+    "transaction" : "สร้าง Visit",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 17840.01900000001,
+    "medianResTime" : 19849.5,
+    "minResTime" : 324.0,
+    "maxResTime" : 29773.0,
+    "pct1ResTime" : 24841.7,
+    "pct2ResTime" : 25685.3,
+    "pct3ResTime" : 29358.670000000002,
+    "throughput" : 33.525546466407405,
+    "receivedKBytesPerSec" : 22.950593821241785,
+    "sentKBytesPerSec" : 17.45030885409682
+  }
+}
