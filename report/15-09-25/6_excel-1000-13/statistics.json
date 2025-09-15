@@ -1,0 +1,34 @@
+{
+  "เพิ่มทะเบียนบุคคลด้วย Excel" : {
+    "transaction" : "เพิ่มทะเบียนบุคคลด้วย Excel",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 9548.213000000003,
+    "medianResTime" : 11319.5,
+    "minResTime" : 102.0,
+    "maxResTime" : 19485.0,
+    "pct1ResTime" : 17578.0,
+    "pct2ResTime" : 17993.55,
+    "pct3ResTime" : 18879.95,
+    "throughput" : 50.88022794342119,
+    "receivedKBytesPerSec" : 34.234840872087105,
+    "sentKBytesPerSec" : 21412.72217368284
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 9548.213000000003,
+    "medianResTime" : 11319.5,
+    "minResTime" : 102.0,
+    "maxResTime" : 19485.0,
+    "pct1ResTime" : 17578.0,
+    "pct2ResTime" : 17993.55,
+    "pct3ResTime" : 18879.95,
+    "throughput" : 50.88022794342119,
+    "receivedKBytesPerSec" : 34.234840872087105,
+    "sentKBytesPerSec" : 21412.72217368284
+  }
+}

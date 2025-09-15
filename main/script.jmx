@@ -156,7 +156,7 @@
           <stringProp name="TestPlan.comments">5_healthresult</stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="เพิ่มทะเบียนบุคคลด้วย Excel" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="เพิ่มทะเบียนบุคคลด้วย Excel" enabled="false">
           <elementProp name="HTTPsampler.Files" elementType="HTTPFileArgs">
             <collectionProp name="HTTPFileArgs.files">
               <elementProp name="C:\Users\Administrator\Desktop\NCDs-jmeter\ncds_person_template (9).xlsx" elementType="HTTPFileArg">
@@ -218,14 +218,14 @@
           <stringProp name="TestPlan.comments">7_patientlist</stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="สร้าง Visit" enabled="false">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="สร้าง Visit" enabled="true">
           <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
             <collectionProp name="Arguments.arguments">
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
-  &quot;patient_id&quot;: &quot;be900336-0445-4733-b503-8f275608e3f3&quot;&#xd;
+  &quot;patient_id&quot;: &quot;a8b95723-c5f2-4bf3-9006-508ed8da1ac6&quot;&#xd;
 }</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
