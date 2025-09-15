@@ -1,0 +1,34 @@
+{
+  "ดึงข้อมูล Visit รายบุคคล" : {
+    "transaction" : "ดึงข้อมูล Visit รายบุคคล",
+    "sampleCount" : 1500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 923.0039999999988,
+    "medianResTime" : 126.5,
+    "minResTime" : 25.0,
+    "maxResTime" : 3090.0,
+    "pct1ResTime" : 2464.000000000002,
+    "pct2ResTime" : 2769.8,
+    "pct3ResTime" : 3033.99,
+    "throughput" : 346.1005999077065,
+    "receivedKBytesPerSec" : 397.8128965736041,
+    "sentKBytesPerSec" : 165.27655601061377
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1500,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 923.0039999999988,
+    "medianResTime" : 126.5,
+    "minResTime" : 25.0,
+    "maxResTime" : 3090.0,
+    "pct1ResTime" : 2464.000000000002,
+    "pct2ResTime" : 2769.8,
+    "pct3ResTime" : 3033.99,
+    "throughput" : 346.1005999077065,
+    "receivedKBytesPerSec" : 397.8128965736041,
+    "sentKBytesPerSec" : 165.27655601061377
+  }
+}

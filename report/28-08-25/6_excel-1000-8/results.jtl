@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1756371343481,539,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-621,text,true,,691,431723,839,839,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,534,0,313
+1756371343528,510,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-692,text,true,,691,431717,867,867,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,510,0,265
+1756371343522,516,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-679,text,true,,691,431705,867,867,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,516,0,266
+1756371343476,562,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-616,text,true,,691,431717,867,867,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,562,0,310
+1756371342940,1110,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-5,text,true,,691,431720,875,875,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1110,0,854
+1756371343755,303,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-740,text,true,,691,431723,874,874,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,303,0,32
+1756371343795,271,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-879,text,true,,691,431705,874,874,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,271,0,89
+1756371343016,1227,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-187,text,true,,691,431720,894,894,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1227,0,1079
+1756371342934,1311,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-69,text,true,,691,431717,893,893,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1311,0,1122
+1756371343462,803,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-653,text,true,,691,431723,923,923,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,803,0,608
+1756371342945,1322,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-123,text,true,,691,431717,924,924,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1322,0,1152
+1756371342941,1326,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-159,text,true,,691,431714,924,924,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1326,0,1127
+1756371343921,355,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-708,text,true,,691,431726,935,935,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,354,0,201
+1756371343796,501,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-885,text,true,,691,431720,939,939,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,501,0,183
+1756371343921,377,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-718,text,true,,691,431723,942,942,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,377,0,193
+1756371344004,294,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-916,text,true,,691,431708,946,946,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,294,0,19
+1756371343937,376,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-957,text,true,,691,431699,966,966,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,376,0,104
+1756371343458,856,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-637,text,true,,691,431711,965,965,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,856,0,546
+1756371343796,535,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-887,text,true,,691,431702,964,964,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,535,0,240
+1756371343003,1328,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-184,text,true,,691,431708,964,964,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1328,0,1132
+1756371342946,1389,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-101,text,true,,691,431699,962,962,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1389,0,1111
+1756371343794,561,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-959,text,true,,691,431729,962,962,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,561,0,239
+1756371343542,813,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-700,text,true,,691,431723,962,962,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,813,0,528
+1756371343475,883,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-601,text,true,,691,431723,962,962,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,883,0,531
+1756371343348,1010,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-538,text,true,,691,431726,962,962,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1010,0,723
+1756371342930,1444,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-54,text,true,,691,431729,961,961,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1444,0,1131
+1756371343800,575,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-908,text,true,,691,431711,961,961,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,575,0,247
+1756371343922,455,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-732,text,true,,691,431726,961,961,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,455,0,219
+1756371343026,1354,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-202,text,true,,691,431699,960,960,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1354,0,1201
+1756371343479,905,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-643,text,true,,691,431708,959,959,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,905,0,431
+1756371343476,908,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-611,text,true,,691,431729,959,959,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,908,0,685
+1756371342934,1455,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-82,text,true,,691,431699,957,957,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1455,0,1286
+1756371343433,963,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-570,text,true,,691,431702,956,956,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,963,0,805
+1756371343477,921,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-617,text,true,,691,431699,955,955,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,920,0,446
+1756371343105,1330,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-295,text,true,,691,431714,955,955,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1330,0,1119
+1756371343270,1165,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-485,text,true,,691,431711,955,955,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1165,0,958
+1756371342934,1501,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-15,text,true,,691,431720,955,955,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1501,0,1287
+1756371343282,1154,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-495,text,true,,691,431720,953,953,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1154,0,945
+1756371342934,1502,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-32,text,true,,691,431705,953,953,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1502,0,1288
+1756371343417,1020,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-599,text,true,,691,431699,952,951,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1020,0,767
+1756371343284,1153,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-501,text,true,,691,431726,952,951,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1153,0,952
+1756371342933,1504,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-23,text,true,,691,431702,952,951,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1504,0,1305
+1756371342939,1499,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-96,text,true,,691,431711,948,948,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1499,0,1278
+1756371342956,1480,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-136,text,true,,691,431720,954,954,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1480,0,1276
+1756371342946,1493,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-33,text,true,,691,431699,946,946,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1493,0,1263
+1756371343258,1193,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-477,text,true,,691,431708,946,946,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1193,0,947
+1756371343026,1427,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-228,text,true,,691,431699,945,945,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1427,0,1186
+1756371343288,1165,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-508,text,true,,691,431711,944,944,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1165,0,915
+1756371342961,1507,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-174,text,true,,691,431714,944,944,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1507,0,1236
+1756371343546,932,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-702,text,true,,691,431702,944,944,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,932,0,216
+1756371343922,556,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-719,text,true,,691,431708,944,944,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,556,0,264
+1756371343432,1046,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-613,text,true,,691,431714,944,944,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1046,0,764
+1756371343414,1071,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-596,text,true,,691,431720,941,941,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1071,0,763
+1756371342934,1551,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-35,text,true,,691,431720,941,941,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1551,0,1362
+1756371343263,1223,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-476,text,true,,691,431714,941,941,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1223,0,1044
+1756371343484,1002,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-608,text,true,,691,431705,941,941,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1002,0,808
+1756371342946,1545,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-137,text,true,,691,431711,937,937,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1545,0,1359
+1756371343520,1000,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-663,text,true,,691,431723,937,937,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1000,0,422
+1756371343546,974,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-710,text,true,,691,431699,937,937,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,974,0,525
+1756371342956,1565,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-48,text,true,,691,431702,937,937,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1565,0,1116
+1756371342957,1564,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-29,text,true,,691,431723,936,936,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1564,0,1349
+1756371343532,989,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-693,text,true,,691,431711,935,935,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,989,0,413
+1756371343952,569,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-733,text,true,,691,431723,935,935,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,568,0,105
+1756371343527,995,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-686,text,true,,691,431714,933,933,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,995,0,423
+1756371342940,1587,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-8,text,true,,691,431711,931,931,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1587,0,1304
+1756371342945,1587,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-124,text,true,,691,431705,930,930,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1587,0,1400
+1756371343922,625,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-725,text,true,,691,431699,929,929,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,625,0,72
+1756371342956,1594,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-65,text,true,,691,431717,928,928,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1594,0,1370
+1756371343236,1316,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-436,text,true,,691,431702,927,927,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1316,0,1078
+1756371342928,1624,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-77,text,true,,691,431717,927,927,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1624,0,1396
+1756371342933,1629,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-57,text,true,,691,431702,925,925,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1629,0,1126
+1756371343267,1296,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-478,text,true,,691,431711,924,924,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1296,0,1048
+1756371343282,1281,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-494,text,true,,691,431714,924,924,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1281,0,1029
+1756371343415,1169,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-576,text,true,,691,431726,922,922,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1169,0,630
+1756371343286,1298,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-502,text,true,,691,431717,922,922,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1298,0,972
+1756371343795,789,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-829,text,true,,691,431723,922,922,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,789,0,80
+1756371342963,1622,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-182,text,true,,691,431708,922,922,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1622,0,1286
+1756371343477,1111,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-625,text,true,,691,431708,919,919,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1111,0,249
+1756371343109,1486,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-261,text,true,,691,431726,918,918,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1486,0,1225
+1756371343649,946,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-624,text,true,,691,431705,918,918,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,946,0,148
+1756371342938,1670,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-50,text,true,,691,431714,917,917,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1669,0,1124
+1756371343921,687,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-724,text,true,,691,431708,917,917,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,687,0,519
+1756371342945,1682,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-62,text,true,,691,431720,916,916,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1682,0,1487
+1756371343284,1352,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-500,text,true,,691,431711,914,914,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1352,0,1156
+1756371342955,1682,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-55,text,true,,691,431705,912,912,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1682,0,1486
+1756371343458,1182,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-594,text,true,,691,431729,911,911,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1182,0,992
+1756371343481,1183,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-661,text,true,,691,431711,910,910,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1183,0,974
+1756371343477,1187,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-626,text,true,,691,431702,910,910,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1187,0,812
+1756371343288,1376,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-466,text,true,,691,431723,910,910,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1376,0,1166
+1756371343094,1571,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-302,text,true,,691,431726,910,910,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1571,0,1340
+1756371343286,1404,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-450,text,true,,691,431699,912,912,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1404,0,970
+1756371343480,1210,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-646,text,true,,691,431705,912,912,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1210,0,976
+1756371343460,1231,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-584,text,true,,691,431705,910,910,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1231,0,563
+1756371343481,1211,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-623,text,true,,691,431720,909,909,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1211,0,973
+1756371343475,1217,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-610,text,true,,691,431699,909,909,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1217,0,470
+1756371343478,1214,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-627,text,true,,691,431729,908,908,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1214,0,516
+1756371343287,1406,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-457,text,true,,691,431723,907,907,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1406,0,744
+1756371343483,1210,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-632,text,true,,691,431729,905,905,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1210,0,517
+1756371343412,1281,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-571,text,true,,691,431714,905,905,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1281,0,775
+1756371343283,1410,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-459,text,true,,691,431699,905,905,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1410,0,668
+1756371342938,1755,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-18,text,true,,691,431711,903,903,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1755,0,1111
+1756371342929,1770,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-91,text,true,,691,431729,902,902,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1770,0,1425
+1756371343474,1228,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-603,text,true,,691,431702,901,901,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1228,0,593
+1756371342962,1740,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-154,text,true,,691,431714,901,901,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1740,0,1058
+1756371343957,754,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-843,text,true,,691,431729,902,902,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,754,0,380
+1756371343476,1236,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-585,text,true,,691,431723,902,902,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1235,0,850
+1756371342938,1776,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-20,text,true,,691,431720,902,902,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1776,0,989
+1756371343108,1607,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-252,text,true,,691,431717,902,902,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1606,0,1344
+1756371343488,1227,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-676,text,true,,691,431705,901,901,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1227,0,445
+1756371342969,1747,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-183,text,true,,691,431720,899,899,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1747,0,1466
+1756371342934,1850,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-87,text,true,,691,431723,902,902,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1850,0,1274
+1756371343649,1176,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-609,text,true,,691,431726,898,898,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1176,0,635
+1756371343465,1363,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-593,text,true,,691,431705,897,897,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1363,0,1091
+1756371343541,1288,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-701,text,true,,691,431711,897,897,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1288,0,401
+1756371343795,1034,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-956,text,true,,691,431708,895,895,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1034,0,762
+1756371343803,1027,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-894,text,true,,691,431714,895,895,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1027,0,223
+1756371343951,913,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-735,text,true,,691,431708,895,895,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,913,0,615
+1756371343971,893,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-703,text,true,,691,431717,895,895,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,893,0,28
+1756371343284,1580,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-449,text,true,,691,431720,895,895,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1580,0,1258
+1756371343547,1317,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-711,text,true,,691,431726,895,895,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1317,0,396
+1756371343464,1400,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-647,text,true,,691,431714,894,894,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1400,0,534
+1756371343456,1409,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-578,text,true,,691,431717,893,893,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1409,0,578
+1756371343795,1070,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-847,text,true,,691,431723,892,892,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1070,0,764
+1756371342947,1917,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-152,text,true,,691,431708,894,894,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1917,0,1537
+1756371343536,1335,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-694,text,true,,691,431699,885,885,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1335,0,322
+1756371343535,1337,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-695,text,true,,691,431726,884,884,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1336,0,293
+1756371343490,1387,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-709,text,true,,691,431708,883,883,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1387,0,445
+1756371343537,1342,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-678,text,true,,691,431723,882,882,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1342,0,389
+1756371343458,1422,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-630,text,true,,691,431726,882,882,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1422,0,1091
+1756371342938,1958,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-38,text,true,,691,431717,875,875,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1958,0,1730
+1756371343474,1424,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-579,text,true,,691,431714,874,874,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1424,0,947
+1756371343463,1436,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-586,text,true,,691,431717,873,873,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1436,0,1009
+1756371343477,1422,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-618,text,true,,691,431702,873,873,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1422,0,1027
+1756371343467,1436,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-587,text,true,,691,431723,871,871,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1436,0,1038
+1756371343800,1103,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-911,text,true,,691,431726,871,871,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1103,0,248
+1756371342976,1927,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-196,text,true,,691,431699,871,871,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1927,0,1690
+1756371343097,1809,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-274,text,true,,691,431699,869,869,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1809,0,1323
+1756371343104,1807,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-281,text,true,,691,431723,868,868,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1807,0,1447
+1756371343922,989,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-726,text,true,,691,431705,868,868,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,989,0,469
+1756371343015,1910,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-209,text,true,,691,431717,867,867,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1910,0,1531
+1756371342940,2014,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-51,text,true,,691,431705,865,865,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2014,0,1517
+1756371343016,1974,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-213,text,true,,691,431729,860,860,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1974,0,1669
+1756371344072,918,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-909,text,true,,691,431717,860,860,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,918,0,609
+1756371342959,2031,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-27,text,true,,691,431726,860,860,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2031,0,1579
+1756371342945,2046,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-146,text,true,,691,431720,860,860,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2046,0,1743
+1756371343433,1558,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-614,text,true,,691,431708,857,857,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1558,0,1265
+1756371343023,1971,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-221,text,true,,691,431726,856,856,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1971,0,1661
+1756371343431,1564,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-607,text,true,,691,431699,855,855,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1564,0,1267
+1756371343798,1198,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-893,text,true,,691,431729,854,854,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1198,0,758
+1756371343801,1210,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-919,text,true,,691,431723,852,852,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1210,0,899
+1756371343800,1211,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-902,text,true,,691,431708,852,852,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1211,0,903
+1756371343525,1487,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-685,text,true,,691,431702,850,850,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1487,0,238
+1756371343796,1216,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-886,text,true,,691,431726,850,850,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1216,0,900
+1756371343481,1532,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-660,text,true,,691,431717,849,849,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1532,0,454
+1756371342945,2091,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-139,text,true,,691,431729,846,846,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2091,0,1638
+1756371343460,1576,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-638,text,true,,691,431702,845,845,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1576,0,1221
+1756371343459,1578,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-636,text,true,,691,431714,844,844,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1578,0,1060
+1756371343795,1243,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-884,text,true,,691,431711,843,843,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1243,0,761
+1756371344072,991,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-892,text,true,,691,431726,842,842,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,991,0,557
+1756371343461,1602,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-669,text,true,,691,431708,842,842,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1602,0,1053
+1756371342955,2109,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-163,text,true,,691,431729,841,841,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2109,0,1680
+1756371343288,1776,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-465,text,true,,691,431717,839,839,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1776,0,1180
+1756371343474,1591,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-600,text,true,,691,431705,838,838,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1591,0,1155
+1756371343474,1591,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-592,text,true,,691,431711,837,837,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1591,0,1104
+1756371342955,2110,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-151,text,true,,691,431705,837,837,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2110,0,1593
+1756371343488,1578,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-595,text,true,,691,431723,837,837,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1578,0,978
+1756371343485,1581,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-668,text,true,,691,431720,834,834,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1581,0,446
+1756371343109,1957,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-253,text,true,,691,431714,834,834,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1957,0,1432
+1756371343285,1782,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-493,text,true,,691,431723,832,832,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1782,0,1266
+1756371343464,1603,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-628,text,true,,691,431699,832,832,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1603,0,1245
+1756371343479,1634,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-662,text,true,,691,431699,830,830,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1634,0,1208
+1756371343475,1638,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-671,text,true,,691,431720,830,830,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1638,0,1024
+1756371343434,1679,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-620,text,true,,691,431717,830,830,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1679,0,1072
+1756371343474,1639,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-670,text,true,,691,431726,829,829,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1639,0,1235
+1756371342934,2180,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-30,text,true,,691,431714,828,828,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2180,0,1737
+1756371343475,1639,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-639,text,true,,691,431720,827,827,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1639,0,1037
+1756371343799,1315,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-903,text,true,,691,431708,825,825,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1315,0,907
+1756371343459,1655,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-645,text,true,,691,431708,825,825,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1655,0,1080
+1756371343106,2009,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-308,text,true,,691,431729,825,825,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2008,0,1600
+1756371343480,1635,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-654,text,true,,691,431717,822,822,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1635,0,997
+1756371343462,1653,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-652,text,true,,691,431720,822,822,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1653,0,1071
+1756371343415,1700,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-597,text,true,,691,431714,822,822,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1700,0,1093
+1756371343475,1641,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-655,text,true,,691,431699,820,820,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1640,0,1039
+1756371343001,2115,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-205,text,true,,691,431699,820,820,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2115,0,1592
+1756371343432,1684,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-615,text,true,,691,431708,820,820,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1684,0,1093
+1756371343479,1637,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-677,text,true,,691,431729,819,819,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1637,0,973
+1756371343480,1636,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-622,text,true,,691,431729,817,817,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1636,0,1010
+1756371343799,1317,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-901,text,true,,691,431705,816,816,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1317,0,764
+1756371342966,2154,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-53,text,true,,691,431726,812,812,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2154,0,1741
+1756371343474,1647,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-602,text,true,,691,431723,811,811,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1647,0,1091
+1756371342933,2190,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-75,text,true,,691,431717,810,810,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2190,0,1787
+1756371344005,1121,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-910,text,true,,691,431723,810,810,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1121,0,709
+1756371344064,1061,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-942,text,true,,691,431726,810,810,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1061,0,647
+1756371342934,2190,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-19,text,true,,691,431705,810,810,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2190,0,1565
+1756371343455,1668,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-577,text,true,,691,431726,810,810,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1668,0,1065
+1756371342935,2189,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-68,text,true,,691,431729,810,810,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2189,0,1658
+1756371343921,1252,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-717,text,true,,691,431699,804,804,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1251,0,795
+1756371343923,1253,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-734,text,true,,691,431708,803,803,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1253,0,791
+1756371343976,1203,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-927,text,true,,691,431714,803,803,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1203,0,735
+1756371344072,1108,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-900,text,true,,691,431714,801,801,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1108,0,642
+1756371343432,1749,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-604,text,true,,691,431720,801,801,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1748,0,581
+1756371343798,1386,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-895,text,true,,691,431714,799,799,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1386,0,229
+1756371343289,1970,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-451,text,true,,691,431702,798,798,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1970,0,1497
+1756371342971,2295,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-190,text,true,,691,431705,797,797,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2295,0,1354
+1756371345283,14,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-882,text,false,,4174,0,796,796,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,14
+1756371345282,16,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-888,text,false,,4174,0,795,795,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,16
+1756371345276,21,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-891,text,false,,4174,0,796,796,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,21
+1756371345279,18,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-801,text,false,,4174,0,793,793,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,18
+1756371345277,18,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-915,text,false,,4174,0,792,792,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,18
+1756371345283,15,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-833,text,false,,4174,0,791,791,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,15
+1756371345283,14,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-810,text,false,,4174,0,794,794,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,14
+1756371345278,22,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-889,text,false,,4174,0,789,789,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,22
+1756371345226,73,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-944,text,false,,4174,0,789,789,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,73
+1756371342955,2347,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-156,text,true,,691,431729,787,787,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2347,0,1473
+1756371343801,1503,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-924,text,true,,691,431714,786,786,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1503,0,248
+1756371343456,1852,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-605,text,true,,691,431717,785,785,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1852,0,1252
+1756371345284,28,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-881,text,false,,4174,0,784,784,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,28
+1756371345303,18,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-921,text,false,,4174,0,783,783,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,18
+1756371345305,18,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-875,text,false,,4174,0,782,782,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,18
+1756371343923,1410,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-741,text,true,,691,431720,781,781,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1410,0,464
+1756371342957,2376,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-167,text,true,,691,431708,781,781,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2376,0,1450
+1756371343458,1885,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-629,text,true,,691,431711,779,779,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1885,0,945
+1756371345336,14,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-665,text,false,,4174,0,778,778,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,14
+1756371345339,11,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-873,text,false,,4174,0,778,778,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,11
+1756371345334,19,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-872,text,false,,4174,0,776,776,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,19
+1756371343204,2150,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-423,text,true,,691,431726,775,775,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2150,0,1210
+1756371345351,16,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-865,text,false,,4174,0,774,774,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,16
+1756371345351,16,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,Thread Group 1-866,text,false,,4195,0,773,773,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,16
+1756371345357,12,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-672,text,false,,4174,0,772,772,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,11
+1756371345355,15,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-864,text,false,,4174,0,771,771,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,15
+1756371345370,10,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-856,text,false,,4174,0,770,770,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,10
+1756371345370,13,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-857,text,false,,4174,0,769,769,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,13
+1756371345370,13,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-673,text,false,,4174,0,769,769,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,13
+1756371345369,15,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-619,text,false,,4174,0,767,767,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,15
+1756371345305,87,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,Thread Group 1-920,text,false,,4195,0,766,766,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,86
+1756371345302,91,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,Thread Group 1-883,text,false,,4195,0,765,765,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,91
+1756371345373,22,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,Thread Group 1-987,text,false,,4195,0,764,764,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,22
+1756371345373,22,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-675,text,false,,4174,0,763,763,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,22
+1756371345371,24,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-674,text,false,,4174,0,763,763,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,24
+1756371345384,16,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-994,text,false,,4174,0,761,761,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,16
+1756371344072,1333,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-918,text,true,,691,431723,760,760,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1333,0,320
+1756371342935,2473,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-31,text,true,,691,431705,759,759,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2473,0,1599
+1756371345353,54,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-859,text,false,,4174,0,759,759,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,54
+1756371345353,55,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-667,text,false,,4174,0,757,757,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,54
+1756371345398,12,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-850,text,false,,4174,0,756,756,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,11
+1756371345352,58,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-659,text,false,,4174,0,755,755,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,58
+1756371343418,1993,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-598,text,true,,691,431699,754,754,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1993,0,1111
+1756371344071,1343,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-933,text,true,,691,431720,753,753,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1343,0,319
+1756371345401,16,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-682,text,false,,4174,0,752,752,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,16
+1756371345401,17,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-841,text,false,,4174,0,751,751,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,17
+1756371343916,1504,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-716,text,true,,691,431729,750,750,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1504,0,867
+1756371345418,16,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-680,text,false,,4174,0,749,749,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,16
+1756371345423,16,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-689,text,false,,4174,0,748,748,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,16
+1756371345427,13,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-940,text,false,,4174,0,747,747,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,13
+1756371345429,11,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-950,text,false,,4174,0,746,746,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,11
+1756371344704,738,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-775,text,true,,691,431717,745,745,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,738,0,96
+1756371343464,1982,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-631,text,true,,691,431723,744,744,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1982,0,947
+1756371345424,22,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-808,text,false,,4174,0,744,744,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,22
+1756371345418,15,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-688,text,false,,4174,0,742,742,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,15
+1756371343108,2339,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-286,text,true,,691,431717,742,742,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2339,0,1322
+1756371345425,23,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-848,text,false,,4174,0,740,740,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,23
+1756371345420,13,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-683,text,false,,4174,0,739,739,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,13
+1756371345423,26,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-849,text,false,,4174,0,739,739,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,26
+1756371343794,1656,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-958,text,true,,691,431726,737,737,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1656,0,250
+1756371343432,2020,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-612,text,true,,691,431705,736,736,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2020,0,1269
+1756371345424,28,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-690,text,false,,4174,0,736,736,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,28
+1756371345421,37,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-896,text,false,,4174,0,734,734,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,36
+1756371343915,1549,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-687,text,true,,691,431729,733,733,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1549,0,472
+1756371345438,37,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-750,text,false,,4174,0,732,732,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,37
+1756371345442,36,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-948,text,false,,4174,0,731,731,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,36
+1756371345441,37,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-757,text,false,,4174,0,730,730,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,37
+1756371345437,48,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-790,text,false,,4174,0,729,729,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,48
+1756371345442,43,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-932,text,false,,4174,0,728,728,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,43
+1756371345441,47,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-759,text,false,,4174,0,727,727,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,47
+1756371343287,2207,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-503,text,true,,691,431723,726,726,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2207,0,1228
+1756371345438,59,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-773,text,false,,4174,0,725,725,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,59
+1756371344708,796,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-785,text,true,,691,431714,724,724,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,796,0,85
+1756371343043,2516,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-244,text,true,,691,431717,723,723,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2516,0,1745
+1756371344712,847,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-824,text,true,,691,431720,723,723,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,847,0,116
+1756371344704,858,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-805,text,true,,691,431699,721,721,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,858,0,95
+1756371344703,859,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-949,text,true,,691,431708,721,721,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,859,0,95
+1756371344703,861,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-941,text,true,,691,431705,719,719,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,861,0,95
+1756371345483,81,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-633,text,false,,4174,0,719,719,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,81
+1756371345488,77,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-981,text,false,,4174,0,717,717,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,77
+1756371345481,87,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-707,text,false,,4174,0,716,716,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,87
+1756371344842,729,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-946,text,true,,691,431726,715,715,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,729,0,32
+1756371343524,2050,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-684,text,true,,691,431720,714,714,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2050,0,542
+1756371345483,87,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-648,text,false,,4174,0,714,714,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,87
+1756371343474,2106,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-644,text,true,,691,431729,712,712,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2106,0,1038
+1756371344838,745,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-822,text,true,,691,431705,711,711,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,745,0,31
+1756371344816,767,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-837,text,true,,691,431708,711,711,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,767,0,20
+1756371344844,739,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-967,text,true,,691,431714,711,711,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,739,0,30
+1756371345492,91,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-747,text,false,,4174,0,710,710,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,91
+1756371345481,105,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-706,text,false,,4174,0,707,707,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,105
+1756371342946,2641,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-3,text,true,,691,431720,706,706,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2641,0,1941
+1756371345491,98,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-714,text,false,,4174,0,705,705,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,98
+1756371344063,1526,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-772,text,true,,691,431708,705,705,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1526,0,335
+1756371342955,2635,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-79,text,true,,691,431714,703,703,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2635,0,1830
+1756371344715,876,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-831,text,true,,691,431702,702,702,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,876,0,88
+1756371345438,155,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-781,text,false,,4174,0,701,701,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,155
+1756371345437,159,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-765,text,false,,4174,0,700,700,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,159
+1756371345490,107,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-764,text,false,,4174,0,699,699,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,107
+1756371344779,821,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-844,text,true,,691,431702,698,698,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,821,0,104
+1756371345436,170,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-743,text,false,,4174,0,697,697,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,170
+1756371345441,166,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-756,text,false,,4174,0,696,696,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,166
+1756371344065,1544,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-926,text,true,,691,431720,695,695,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1544,0,321
+1756371345436,173,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-742,text,false,,4174,0,695,695,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,173
+1756371342935,2676,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-72,text,true,,691,431702,693,693,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2676,0,1867
+1756371345425,188,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-696,text,false,,4174,0,692,692,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,188
+1756371345437,183,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-782,text,false,,4174,0,691,691,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,183
+1756371345431,168,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-751,text,false,,4174,0,690,690,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,168
+1756371344822,803,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-966,text,true,,691,431711,689,689,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,803,0,45
+1756371343291,2334,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-510,text,true,,691,431705,689,689,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2334,0,1592
+1756371344709,924,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-813,text,true,,691,431723,687,687,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,924,0,90
+1756371345490,144,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-774,text,false,,4174,0,686,686,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,144
+1756371345441,171,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-758,text,false,,4174,0,692,692,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,171
+1756371345485,156,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-731,text,false,,4174,0,684,684,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,155
+1756371345435,195,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-748,text,false,,4174,0,683,683,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,195
+1756371345483,160,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-728,text,false,,4174,0,682,682,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,160
+1756371345482,166,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-713,text,false,,4174,0,681,681,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,166
+1756371344702,948,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-791,text,true,,691,431699,680,680,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,947,0,88
+1756371344851,809,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-845,text,true,,691,431720,679,679,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,809,0,38
+1756371345484,196,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-656,text,false,,4174,0,678,678,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,196
+1756371345484,198,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-657,text,false,,4174,0,677,677,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,198
+1756371345481,208,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-705,text,false,,4174,0,676,676,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,207
+1756371343001,2689,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-204,text,true,,691,431723,675,675,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2689,0,1878
+1756371345485,204,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-730,text,false,,4174,0,675,675,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,204
+1756371344712,979,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-820,text,true,,691,431726,673,673,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,979,0,120
+1756371343457,2234,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-606,text,true,,691,431708,672,672,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2234,0,1078
+1756371343290,2401,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-458,text,true,,691,431729,672,672,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2401,0,1517
+1756371343289,2403,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-443,text,true,,691,431714,670,670,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2403,0,1497
+1756371345479,215,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-697,text,false,,4174,0,669,669,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,215
+1756371344863,832,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-904,text,true,,691,431705,669,669,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,832,0,35
+1756371345484,213,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-650,text,false,,4174,0,667,667,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,213
+1756371344713,989,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-787,text,true,,691,431699,666,666,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,989,0,157
+1756371345481,220,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-712,text,false,,4174,0,666,666,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,220
+1756371345493,209,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-753,text,false,,4174,0,665,665,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,209
+1756371345495,212,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-762,text,false,,4174,0,663,663,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,211
+1756371345480,227,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-704,text,false,,4174,0,662,662,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,227
+1756371345494,214,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-754,text,false,,4174,0,661,661,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,214
+1756371345482,233,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-722,text,false,,4174,0,660,660,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,233
+1756371345479,236,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-809,text,false,,4174,0,660,660,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,236
+1756371345479,237,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-699,text,false,,4174,0,658,658,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,237
+1756371345494,222,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-755,text,false,,4174,0,657,657,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,222
+1756371345495,229,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-769,text,false,,4174,0,656,656,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,229
+1756371344703,1026,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-789,text,true,,691,431699,655,655,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1025,0,87
+1756371345482,168,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-721,text,false,,4174,0,680,680,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,168
+1756371344705,1034,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-806,text,true,,691,431711,653,653,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1034,0,99
+1756371342958,2781,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-155,text,true,,691,431702,653,653,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2780,0,2053
+1756371345484,260,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-634,text,false,,4174,0,651,651,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,259
+1756371345478,266,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-681,text,false,,4174,0,651,651,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,266
+1756371345484,262,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-649,text,false,,4174,0,649,649,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,262
+1756371345482,213,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-720,text,false,,4174,0,648,648,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,213
+1756371345475,274,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-691,text,false,,4174,0,647,647,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,274
+1756371345485,265,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-736,text,false,,4174,0,646,646,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,265
+1756371345483,268,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-635,text,false,,4174,0,645,645,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,268
+1756371345480,271,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-698,text,false,,4174,0,644,644,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,271
+1756371345495,257,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-763,text,false,,4174,0,643,643,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,257
+1756371345482,270,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-723,text,false,,4174,0,642,642,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,270
+1756371345490,263,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-744,text,false,,4174,0,641,641,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,263
+1756371345491,266,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-738,text,false,,4174,0,640,640,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,266
+1756371345485,274,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-729,text,false,,4174,0,639,639,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,274
+1756371344863,929,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-846,text,true,,691,431711,638,638,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,929,0,36
+1756371344711,1082,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-812,text,true,,691,431726,637,637,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1082,0,93
+1756371344788,1006,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-964,text,true,,691,431711,636,636,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1006,0,46
+1756371344908,886,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-988,text,true,,691,431720,635,635,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,886,0,22
+1756371342933,2862,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-25,text,true,,691,431723,634,634,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2862,0,2020
+1756371344704,1104,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-799,text,true,,691,431702,633,633,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1104,0,104
+1756371342963,2845,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-180,text,true,,691,431699,633,633,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2845,0,1843
+1756371344716,1092,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-839,text,true,,691,431705,633,633,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1092,0,116
+1756371344709,1100,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-814,text,true,,691,431726,633,633,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1100,0,104
+1756371344818,991,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-828,text,true,,691,431717,631,631,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,991,0,18
+1756371344714,1095,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-836,text,true,,691,431699,631,631,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1095,0,163
+1756371342933,2877,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-125,text,true,,691,431723,630,630,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2877,0,1950
+1756371344063,1750,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-798,text,true,,691,431708,629,629,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1750,0,775
+1756371345758,61,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-786,text,false,,4174,0,628,628,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,61
+1756371345783,40,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-842,text,false,,4174,0,626,626,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,40
+1756371343291,2533,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-509,text,true,,691,431699,625,625,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2533,0,1612
+1756371344862,963,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-975,text,true,,691,431717,624,624,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,963,0,38
+1756371345784,42,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-907,text,false,,4174,0,623,623,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,42
+1756371345784,42,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-832,text,false,,4174,0,623,623,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,42
+1756371345789,39,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-970,text,false,,4174,0,621,621,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,39
+1756371345786,42,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-963,text,false,,4174,0,620,620,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,42
+1756371345785,44,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-1000,text,false,,4174,0,619,619,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,44
+1756371345785,44,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-922,text,false,,4174,0,619,619,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,44
+1756371345789,41,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-971,text,false,,4174,0,619,619,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,41
+1756371345788,42,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-969,text,false,,4174,0,619,619,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,42
+1756371345786,45,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-961,text,false,,4174,0,617,617,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,45
+1756371345792,41,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-976,text,false,,4174,0,614,614,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,41
+1756371345785,50,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-899,text,false,,4174,0,613,613,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,50
+1756371345787,48,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-968,text,false,,4174,0,613,613,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,48
+1756371345798,38,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-979,text,false,,4174,0,611,611,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,38
+1756371344704,1132,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-788,text,true,,691,431702,610,610,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1132,0,307
+1756371345800,37,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-985,text,false,,4174,0,609,609,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,37
+1756371344844,993,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-823,text,true,,691,431726,609,609,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,993,0,27
+1756371343109,2728,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-241,text,true,,691,431726,609,609,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2728,0,1779
+1756371345799,38,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-978,text,false,,4174,0,608,608,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,38
+1756371343319,2519,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-525,text,true,,691,431714,605,605,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2519,0,1770
+1756371345806,32,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-992,text,false,,4174,0,605,605,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,31
+1756371345483,222,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-642,text,false,,4174,0,604,604,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,222
+1756371345805,33,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-986,text,false,,4174,0,602,602,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,33
+1756371342945,2893,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-37,text,true,,691,431699,602,602,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2893,0,2120
+1756371345479,277,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-945,text,false,,4174,0,601,601,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,277
+1756371342923,2916,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-100,text,true,,691,431726,600,600,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2916,0,2163
+1756371344704,1135,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-797,text,true,,691,431729,599,599,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1135,0,123
+1756371343276,2563,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-479,text,true,,691,431720,599,599,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2563,0,1614
+1756371342956,2883,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-94,text,true,,691,431705,599,599,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2883,0,1928
+1756371342926,2838,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-98,text,true,,691,431699,596,596,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2838,0,1990
+1756371342983,2857,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-197,text,true,,691,431720,596,596,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2857,0,2085
+1756371345772,69,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-803,text,false,,4174,0,595,595,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,69
+1756371344849,997,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-974,text,true,,691,431729,593,593,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,930,0,27
+1756371344706,1169,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-804,text,true,,691,431705,591,591,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1169,0,287
+1756371344891,985,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-852,text,true,,691,431720,590,590,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,985,0,23
+1756371343110,2766,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-254,text,true,,691,431717,590,590,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2766,0,1779
+1756371342948,2936,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-108,text,true,,691,431708,586,586,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2936,0,1965
+1756371345758,154,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-777,text,false,,4174,0,585,585,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,154
+1756371345774,156,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-840,text,false,,4174,0,584,584,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,156
+1756371345774,156,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-835,text,false,,4174,0,583,583,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,156
+1756371345780,151,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-826,text,false,,4174,0,582,582,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,151
+1756371345775,156,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-816,text,false,,4174,0,582,582,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,156
+1756371345776,160,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-818,text,false,,4174,0,580,580,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,159
+1756371345773,161,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-834,text,false,,4174,0,579,579,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,161
+1756371345782,155,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-819,text,false,,4174,0,579,579,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,155
+1756371345763,176,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-794,text,false,,4174,0,577,577,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,175
+1756371344705,1242,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-807,text,true,,691,431729,576,576,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1242,0,305
+1756371345759,198,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-795,text,false,,4174,0,575,575,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,198
+1756371345804,154,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-984,text,false,,4174,0,574,574,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,154
+1756371345918,40,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-995,text,false,,4174,0,574,574,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,40
+1756371343922,2037,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-727,text,true,,691,431720,572,572,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2037,0,999
+1756371343323,2639,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-504,text,true,,691,431699,571,571,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2639,0,1945
+1756371345779,156,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-825,text,false,,4174,0,570,570,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,156
+1756371345764,209,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-792,text,false,,4174,0,569,569,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,209
+1756371345792,189,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-977,text,false,,4174,0,568,568,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,189
+1756371343321,2672,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-524,text,true,,691,431729,567,567,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2672,0,1811
+1756371343323,2671,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-505,text,true,,691,431717,566,566,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2671,0,1945
+1756371343293,2727,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-448,text,true,,691,431720,565,565,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2727,0,1612
+1756371342940,3109,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-158,text,true,,691,431711,564,564,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3109,0,2073
+1756371344891,1159,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-983,text,true,,691,431714,564,564,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1159,0,77
+1756371344848,1234,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-821,text,true,,691,431699,562,562,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1234,0,79
+1756371342950,3144,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-149,text,true,,691,431729,561,561,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3144,0,2162
+1756371342939,3157,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-41,text,true,,691,431726,560,560,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3157,0,1981
+1756371342935,3165,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-85,text,true,,691,431720,559,559,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3165,0,2103
+1756371342940,3172,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-63,text,true,,691,431708,558,558,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3172,0,2097
+1756371344884,1229,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-830,text,true,,691,431711,557,557,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1229,0,23
+1756371342956,3159,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-14,text,true,,691,431708,556,556,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3159,0,2107
+1756371343292,2826,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-511,text,true,,691,431708,555,555,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2826,0,1719
+1756371344847,1277,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-973,text,true,,691,431699,554,554,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1277,0,23
+1756371343292,2846,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-467,text,true,,691,431714,553,553,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2846,0,1610
+1756371343326,2813,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-532,text,true,,691,431705,553,553,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2812,0,1985
+1756371342956,3183,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-70,text,true,,691,431717,553,553,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3183,0,2355
+1756371343327,2812,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-534,text,true,,691,431708,550,550,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2812,0,1996
+1756371342957,3186,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-145,text,true,,691,431729,549,549,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3186,0,2056
+1756371342958,3199,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-172,text,true,,691,431699,548,548,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3198,0,2365
+1756371344712,1467,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-815,text,true,,691,431708,547,547,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1467,0,183
+1756371343294,2926,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-472,text,true,,691,431723,546,546,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2926,0,1720
+1756371342938,3310,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-129,text,true,,691,431702,545,545,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3310,0,2101
+1756371343327,2965,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-533,text,true,,691,431717,544,544,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,2965,0,1998
+1756371345316,1012,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-914,text,false,,4174,0,543,543,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,1012
+1756371345319,1012,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,Thread Group 1-880,text,false,,4195,0,542,542,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,1012
+1756371345344,1011,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-867,text,false,,4174,0,541,541,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,1011
+1756371345344,1014,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-874,text,false,,4174,0,540,540,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,1014
+1756371345348,1011,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-666,text,false,,4174,0,540,540,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,1011
+1756371345341,1024,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-640,text,false,,4174,0,538,538,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,1024
+1756371345351,1026,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-658,text,false,,4174,0,537,537,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,1026
+1756371343025,3382,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-223,text,true,,691,431708,536,536,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3382,0,2087
+1756371343296,3112,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-516,text,true,,691,431711,535,535,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3112,0,1769
+1756371342936,3473,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-119,text,true,,691,431708,534,534,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3473,0,2153
+1756371343317,3114,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-498,text,true,,691,431711,533,533,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3114,0,1746
+1756371344918,1555,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-854,text,true,,691,431711,532,532,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,1555,0,134
+1756371345364,1199,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-858,text,false,,4174,0,531,531,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,1199
+1756371345639,1013,เพิ่มทะเบียนบุคคลด้วย Excel,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Couldn't kickstart handshaking,Thread Group 1-778,text,false,,4174,0,530,530,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,0,0,1013
+1756371343003,3705,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-170,text,true,,691,431720,529,529,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3705,0,2257
+1756371342940,3855,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-60,text,true,,691,431708,528,528,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3855,0,2264
+1756371342948,3891,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-144,text,true,,691,431702,527,527,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3891,0,2185
+1756371342939,4094,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-107,text,true,,691,431714,526,526,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,4094,0,2321
+1756371342934,4100,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-49,text,true,,691,431708,525,525,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,4100,0,2325
+1756371343324,3722,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-506,text,true,,691,431717,524,524,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3722,0,1936
+1756371343269,3796,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-484,text,true,,691,431705,523,523,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3796,0,1915
+1756371343323,3759,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-526,text,true,,691,431702,522,522,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,3759,0,1861
+1756371342935,4212,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-43,text,true,,691,431726,521,521,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,4212,0,2327
+1756371342928,4446,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-109,text,true,,691,431723,520,520,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,4446,0,2381
+1756371343325,4076,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-491,text,true,,691,431717,519,519,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,4076,0,1986
+1756371343323,4490,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-527,text,true,,691,431726,518,518,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,4490,0,1863
+1756371342934,4880,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-126,text,true,,691,431714,517,517,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,4880,0,2225
+1756371343271,4565,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-486,text,true,,691,431702,516,516,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,4565,0,1912
+1756371343307,4607,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-499,text,true,,691,431729,515,515,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,4607,0,1826
+1756371343331,5495,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-515,text,true,,691,431699,514,514,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,5495,0,2051
+1756371342956,5931,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-80,text,true,,691,431711,513,513,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,5931,0,2354
+1756371343331,5587,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-514,text,true,,691,431708,512,512,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,5587,0,2051
+1756371342953,5965,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-166,text,true,,691,431726,512,512,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,5965,0,2358
+1756371342934,6016,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-76,text,true,,691,431714,510,510,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6016,0,2379
+1756371343325,5860,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-507,text,true,,691,431702,509,509,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,5860,0,1999
+1756371342954,6320,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-118,text,true,,691,431714,508,508,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6320,0,2456
+1756371343023,6251,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-222,text,true,,691,431702,508,508,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6251,0,2384
+1756371343108,6192,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-275,text,true,,691,431720,506,506,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6192,0,2310
+1756371343327,5973,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-535,text,true,,691,431729,506,506,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,5973,0,2087
+1756371342949,6352,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-138,text,true,,691,431729,506,506,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6352,0,2464
+1756371342958,6364,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-131,text,true,,691,431717,503,503,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6364,0,2465
+1756371343100,6350,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-292,text,true,,691,431705,502,502,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6350,0,2352
+1756371342938,6586,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-47,text,true,,691,431714,501,501,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6586,0,2513
+1756371343333,6271,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-541,text,true,,691,431705,500,500,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6271,0,2117
+1756371343332,6272,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-540,text,true,,691,431705,500,500,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6272,0,2114
+1756371343334,6301,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-543,text,true,,691,431726,498,498,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6301,0,2119
+1756371342941,6695,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-16,text,true,,691,431717,498,498,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6695,0,2513
+1756371343107,6529,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-293,text,true,,691,431720,498,498,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6529,0,2346
+1756371343330,6422,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-531,text,true,,691,431714,495,495,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6422,0,2132
+1756371343390,6363,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-568,text,true,,691,431708,494,494,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6363,0,2072
+1756371342939,6839,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-45,text,true,,691,431699,493,493,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6839,0,2523
+1756371342935,6847,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-59,text,true,,691,431720,492,492,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6847,0,2529
+1756371342950,6832,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-161,text,true,,691,431702,492,492,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6832,0,2514
+1756371343330,6452,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-512,text,true,,691,431711,492,492,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6452,0,2134
+1756371342935,6863,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-36,text,true,,691,431711,489,489,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6863,0,2529
+1756371342957,7097,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-165,text,true,,691,431705,488,488,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,7097,0,2508
+1756371342940,7114,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-84,text,true,,691,431717,488,488,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,7114,0,2527
+1756371342931,7123,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-90,text,true,,691,431717,488,488,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,7123,0,2539
+1756371343330,6724,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-513,text,true,,691,431711,488,488,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6724,0,2137
+1756371343335,6747,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-520,text,true,,691,431708,484,484,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6747,0,2143
+1756371343280,6915,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-487,text,true,,691,431729,483,483,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,6915,0,2192
+1756371342996,7822,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-188,text,true,,691,431723,482,482,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,7822,0,2513
+1756371343346,7590,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-558,text,true,,691,431705,481,481,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,7590,0,2243
+1756371343335,7601,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-521,text,true,,691,431729,481,481,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,7601,0,2257
+1756371343355,7606,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-565,text,true,,691,431711,479,479,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,7606,0,2234
+1756371343031,8148,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-231,text,true,,691,431699,478,478,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8148,0,2587
+1756371343351,7828,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-572,text,true,,691,431714,478,478,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,7828,0,2265
+1756371342934,8245,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-88,text,true,,691,431720,478,478,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8245,0,2693
+1756371342931,8272,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-127,text,true,,691,431699,475,475,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8272,0,2682
+1756371342946,8257,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-140,text,true,,691,431726,475,475,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8257,0,2670
+1756371342933,8271,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-22,text,true,,691,431714,475,475,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8271,0,2685
+1756371343103,8147,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-294,text,true,,691,431717,472,472,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8147,0,2508
+1756371343344,7991,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-556,text,true,,691,431714,471,471,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,7991,0,2295
+1756371342930,8405,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-133,text,true,,691,431720,471,471,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8405,0,2710
+1756371343367,7968,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-564,text,true,,691,431729,471,471,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,7968,0,2253
+1756371343214,8121,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-422,text,true,,691,431699,471,471,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8121,0,2408
+1756371343281,8054,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-492,text,true,,691,431705,471,471,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8054,0,2337
+1756371343410,7947,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-590,text,true,,691,431711,466,466,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,7947,0,2229
+1756371343108,8249,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-284,text,true,,691,431726,466,466,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8249,0,2532
+1756371343355,8093,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-574,text,true,,691,431702,464,464,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8093,0,2274
+1756371343347,8101,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-566,text,true,,691,431729,464,464,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8101,0,2288
+1756371343016,8492,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-207,text,true,,691,431699,462,462,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8492,0,2623
+1756371343338,8170,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-549,text,true,,691,431711,462,462,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8170,0,2298
+1756371342922,8586,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-113,text,true,,691,431708,462,462,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8586,0,2587
+1756371342954,8577,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-102,text,true,,691,431723,459,459,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8577,0,2677
+1756371342939,8592,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-143,text,true,,691,431720,459,459,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8592,0,2677
+1756371343337,8194,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-548,text,true,,691,431729,459,459,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8194,0,2297
+1756371342940,8614,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-73,text,true,,691,431729,456,456,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8614,0,2700
+1756371342930,8624,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-135,text,true,,691,431729,456,456,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8624,0,2698
+1756371343334,8220,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-542,text,true,,691,431717,456,456,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8220,0,2270
+1756371343107,8475,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-280,text,true,,691,431720,453,453,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8475,0,2400
+1756371343348,8234,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-557,text,true,,691,431717,453,453,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8234,0,2275
+1756371342934,8710,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-26,text,true,,691,431723,451,451,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8710,0,2578
+1756371342941,8921,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-39,text,true,,691,431729,450,450,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8921,0,2660
+1756371342940,8922,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-10,text,true,,691,431708,450,450,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8922,0,2526
+1756371343015,8847,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-206,text,true,,691,431705,450,450,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8847,0,2586
+1756371343348,8515,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-567,text,true,,691,431729,450,450,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8515,0,2272
+1756371343342,8520,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-551,text,true,,691,431708,450,450,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8520,0,2284
+1756371342946,8916,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-132,text,true,,691,431720,450,450,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8916,0,2628
+1756371343353,8509,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-573,text,true,,691,431726,450,450,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8509,0,2238
+1756371342938,8924,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-141,text,true,,691,431705,450,450,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8924,0,2663
+1756371342974,8909,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-191,text,true,,691,431708,442,442,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8909,0,2635
+1756371343092,8791,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-272,text,true,,691,431708,442,442,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8791,0,2428
+1756371343342,8581,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-550,text,true,,691,431723,440,440,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8581,0,2302
+1756371342933,8990,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-6,text,true,,691,431726,440,440,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8990,0,2709
+1756371343046,8877,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-246,text,true,,691,431726,440,440,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8877,0,2596
+1756371342936,9053,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-13,text,true,,691,431720,437,437,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9053,0,2704
+1756371342928,9061,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-97,text,true,,691,431702,437,437,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9061,0,2760
+1756371342941,9048,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-67,text,true,,691,431699,437,437,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9048,0,2704
+1756371343361,8760,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-552,text,true,,691,431729,434,434,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8760,0,2356
+1756371342994,9127,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-177,text,true,,691,431729,434,434,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9127,0,2699
+1756371342939,9201,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-11,text,true,,691,431729,432,432,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9201,0,2783
+1756371343094,9046,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-273,text,true,,691,431702,432,432,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9046,0,2608
+1756371342949,9191,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-153,text,true,,691,431708,432,432,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9191,0,2772
+1756371343357,8850,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-546,text,true,,691,431726,429,429,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8850,0,2367
+1756371343371,8836,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-562,text,true,,691,431705,429,429,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8836,0,2361
+1756371342958,9274,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-162,text,true,,691,431708,427,427,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9274,0,2768
+1756371342931,9301,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-121,text,true,,691,431717,427,427,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9301,0,2793
+1756371343350,8904,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-537,text,true,,691,431714,425,425,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8904,0,2376
+1756371343361,8893,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-553,text,true,,691,431726,425,425,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8893,0,2366
+1756371342941,9313,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-2,text,true,,691,431699,425,425,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9313,0,2789
+1756371342985,9270,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-169,text,true,,691,431699,425,425,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9270,0,2740
+1756371343355,8900,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-545,text,true,,691,431699,425,425,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8900,0,2370
+1756371342960,9294,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-34,text,true,,691,431708,425,425,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9294,0,2771
+1756371343337,8937,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-522,text,true,,691,431726,419,419,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8936,0,2395
+1756371342983,9290,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-171,text,true,,691,431720,419,419,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9290,0,2745
+1756371343363,8911,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-554,text,true,,691,431729,419,419,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8911,0,2386
+1756371343363,8910,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-555,text,true,,691,431717,419,419,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8910,0,2390
+1756371342983,9291,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-176,text,true,,691,431705,419,419,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9291,0,2745
+1756371343349,8926,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-536,text,true,,691,431705,414,414,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8926,0,2378
+1756371342935,9341,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-44,text,true,,691,431729,414,414,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9341,0,2788
+1756371343015,9261,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-200,text,true,,691,431720,414,414,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9261,0,2726
+1756371343342,8934,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-530,text,true,,691,431723,414,414,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8934,0,2384
+1756371343350,8939,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-539,text,true,,691,431726,410,410,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8939,0,2398
+1756371342922,9367,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-105,text,true,,691,431717,410,410,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9367,0,2826
+1756371343343,8947,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-529,text,true,,691,431726,410,410,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8946,0,2414
+1756371342984,9327,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-168,text,true,,691,431714,407,407,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9327,0,2772
+1756371343355,8956,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-544,text,true,,691,431720,407,407,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8955,0,2399
+1756371342928,9466,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-104,text,true,,691,431714,405,405,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9466,0,2869
+1756371343368,9026,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-560,text,true,,691,431714,405,405,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9026,0,2396
+1756371342947,9447,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-147,text,true,,691,431711,405,405,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9447,0,2810
+1756371343127,9267,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-304,text,true,,691,431720,405,405,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9267,0,2669
+1756371342997,9416,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-179,text,true,,691,431702,401,401,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9416,0,2783
+1756371343305,9108,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-496,text,true,,691,431726,401,401,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9108,0,2477
+1756371343128,9285,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-267,text,true,,691,431729,401,401,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9285,0,2668
+1756371342946,9525,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-52,text,true,,691,431699,398,398,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9525,0,2894
+1756371343357,9139,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-547,text,true,,691,431705,397,397,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9139,0,2395
+1756371342934,9581,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-71,text,true,,691,431702,396,396,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9581,0,2903
+1756371342939,9576,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-142,text,true,,691,431714,396,396,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9576,0,2897
+1756371344617,8031,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-997,text,true,,691,431723,394,394,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8031,0,1165
+1756371342933,9765,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-74,text,true,,691,431717,393,393,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9764,0,2949
+1756371342940,9781,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-28,text,true,,691,431717,392,392,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9781,0,2943
+1756371343306,9439,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-497,text,true,,691,431723,391,391,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9439,0,2589
+1756371343029,9716,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-230,text,true,,691,431729,391,391,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9716,0,2842
+1756371343393,9352,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-569,text,true,,691,431705,391,391,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9352,0,2481
+1756371343305,9441,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-456,text,true,,691,431702,391,391,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9441,0,2591
+1756371342945,9823,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-9,text,true,,691,431705,387,387,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9823,0,2930
+1756371342945,9823,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-148,text,true,,691,431702,387,387,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9823,0,2930
+1756371343376,9392,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-561,text,true,,691,431711,387,387,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9392,0,2516
+1756371342946,9822,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-157,text,true,,691,431705,387,387,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9822,0,2948
+1756371343253,9516,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-468,text,true,,691,431708,387,387,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9516,0,2643
+1756371343255,9531,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-471,text,true,,691,431714,382,382,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9531,0,2640
+1756371342927,9859,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-89,text,true,,691,431714,382,382,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9859,0,2959
+1756371343034,9752,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-236,text,true,,691,431699,382,382,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9752,0,2861
+1756371343127,9659,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-319,text,true,,691,431717,382,382,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9659,0,2744
+1756371342939,9847,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-93,text,true,,691,431717,382,382,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9847,0,2957
+1756371342998,9807,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-186,text,true,,691,431699,377,377,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9807,0,2904
+1756371342999,9806,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-185,text,true,,691,431723,377,377,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9806,0,2903
+1756371342930,9875,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-134,text,true,,691,431708,377,377,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9875,0,2917
+1756371342960,9845,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-21,text,true,,691,431729,377,377,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9845,0,2941
+1756371342936,9888,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-120,text,true,,691,431723,373,373,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9888,0,2936
+1756371342946,9894,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-24,text,true,,691,431705,372,372,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9894,0,2965
+1756371343016,9824,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-214,text,true,,691,431711,372,372,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9824,0,2899
+1756371343336,9504,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-523,text,true,,691,431708,372,372,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9504,0,2574
+1756371343355,9504,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-575,text,true,,691,431720,369,369,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9504,0,2558
+1756371342945,9914,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-130,text,true,,691,431702,369,369,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9914,0,2774
+1756371342934,10022,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-86,text,true,,691,431726,367,367,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10022,0,2981
+1756371342930,10047,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-117,text,true,,691,431714,366,366,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10046,0,2992
+1756371344702,8297,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-780,text,true,,691,431714,365,365,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,8297,0,1184
+1756371343402,9605,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-582,text,true,,691,431702,364,364,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9605,0,2514
+1756371342948,10059,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-106,text,true,,691,431705,364,364,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10059,0,2964
+1756371343297,9731,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-517,text,true,,691,431705,362,362,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9731,0,2625
+1756371343127,9901,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-277,text,true,,691,431717,362,362,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9901,0,2789
+1756371342938,10090,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-112,text,true,,691,431720,362,362,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10090,0,2986
+1756371342946,10082,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-7,text,true,,691,431702,362,362,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10082,0,2971
+1756371342997,10031,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-198,text,true,,691,431720,362,362,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10031,0,2925
+1756371343253,9861,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-470,text,true,,691,431723,357,357,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9861,0,2671
+1756371343016,10098,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-215,text,true,,691,431720,357,357,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10098,0,2910
+1756371343030,10099,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-229,text,true,,691,431714,355,355,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10099,0,2897
+1756371343034,10119,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-237,text,true,,691,431699,354,354,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10119,0,2889
+1756371343039,10135,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-238,text,true,,691,431720,353,353,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10135,0,2886
+1756371343137,10057,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-332,text,true,,691,431708,352,352,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10056,0,2788
+1756371342996,10214,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-199,text,true,,691,431714,351,351,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10214,0,2948
+1756371342935,10314,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-46,text,true,,691,431717,350,350,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10314,0,3009
+1756371343128,10138,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-287,text,true,,691,431708,349,349,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10138,0,2816
+1756371342931,10335,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-103,text,true,,691,431723,349,349,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10335,0,2993
+1756371343127,10139,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-325,text,true,,691,431699,349,349,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10139,0,2819
+1756371343380,9919,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-563,text,true,,691,431714,346,346,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9919,0,2557
+1756371343128,10171,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-311,text,true,,691,431726,346,346,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10171,0,2816
+1756371342935,10403,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-12,text,true,,691,431702,344,344,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10403,0,3044
+1756371343186,10152,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-365,text,true,,691,431702,344,344,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10152,0,2763
+1756371343298,10040,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-480,text,true,,691,431699,344,344,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10040,0,2683
+1756371342930,10408,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-115,text,true,,691,431723,344,344,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10408,0,3034
+1756371342930,10408,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-114,text,true,,691,431699,344,344,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10408,0,3048
+1756371342959,10379,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-42,text,true,,691,431708,344,344,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10379,0,3003
+1756371343296,10043,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-475,text,true,,691,431720,344,344,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10043,0,2686
+1756371342931,10429,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-122,text,true,,691,431699,337,337,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10429,0,3030
+1756371342939,10421,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-95,text,true,,691,431726,337,337,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10421,0,2988
+1756371343129,10246,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-271,text,true,,691,431711,335,335,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10246,0,2849
+1756371342939,10437,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-4,text,true,,691,431705,335,335,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10437,0,3007
+1756371343349,10062,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-559,text,true,,691,431723,333,333,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10062,0,2598
+1756371343129,10299,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-270,text,true,,691,431729,332,332,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10299,0,2868
+1756371342922,10547,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-92,text,true,,691,431699,331,331,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10547,0,3014
+1756371343192,10312,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-406,text,true,,691,431711,330,330,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10312,0,2826
+1756371343128,10425,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-259,text,true,,691,431705,329,329,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10425,0,2853
+1756371343130,10439,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-210,text,true,,691,431699,328,328,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10439,0,2912
+1756371343130,10485,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-318,text,true,,691,431714,327,327,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10485,0,2940
+1756371343129,10486,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-268,text,true,,691,431708,327,327,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10486,0,2869
+1756371343021,10595,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-220,text,true,,691,431699,327,327,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10595,0,2974
+1756371343253,10399,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-469,text,true,,691,431708,324,324,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10399,0,2695
+1756371343128,10524,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-282,text,true,,691,431699,324,324,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10524,0,2941
+1756371343222,10474,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-438,text,true,,691,431720,322,322,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10473,0,2852
+1756371343408,10433,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-588,text,true,,691,431723,321,321,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10433,0,2664
+1756371343185,10676,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-358,text,true,,691,431726,320,320,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10676,0,2811
+1756371343409,10494,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-591,text,true,,691,431723,319,319,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10494,0,2609
+1756371343207,10698,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-362,text,true,,691,431714,318,318,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10698,0,2864
+1756371343226,10691,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-376,text,true,,691,431708,317,317,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10691,0,2919
+1756371342934,11022,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-78,text,true,,691,431717,316,316,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11022,0,3065
+1756371343200,10756,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-336,text,true,,691,431705,316,316,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10756,0,3001
+1756371343183,10786,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-343,text,true,,691,431711,314,314,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10786,0,3017
+1756371343130,10839,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-208,text,true,,691,431717,314,314,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10839,0,2943
+1756371343223,10747,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-424,text,true,,691,431720,314,314,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10746,0,2891
+1756371343200,10799,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-337,text,true,,691,431726,311,311,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10799,0,2846
+1756371343209,10829,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-429,text,true,,691,431714,310,310,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10829,0,2994
+1756371343140,10985,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-232,text,true,,691,431729,309,309,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10985,0,3061
+1756371343248,10978,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-437,text,true,,691,431702,308,308,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10978,0,2995
+1756371342935,11305,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-111,text,true,,691,431714,307,307,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11305,0,2990
+1756371343212,11147,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-431,text,true,,691,431711,306,306,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11147,0,3011
+1756371344714,9686,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-838,text,true,,691,431720,305,305,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9686,0,1440
+1756371342929,11559,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-116,text,true,,691,431711,304,304,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11559,0,3018
+1756371343182,11328,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-349,text,true,,691,431717,303,303,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11328,0,2815
+1756371342935,11575,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-17,text,true,,691,431702,303,303,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11575,0,2992
+1756371343224,11304,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-377,text,true,,691,431729,301,301,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11304,0,2918
+1756371343138,11400,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-225,text,true,,691,431699,300,300,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11400,0,3070
+1756371343182,11388,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-342,text,true,,691,431705,299,299,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11388,0,3020
+1756371343180,11436,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-324,text,true,,691,431717,298,298,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11436,0,3024
+1756371343127,11490,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-316,text,true,,691,431708,297,297,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11490,0,3013
+1756371342941,11731,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-64,text,true,,691,431723,296,296,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11731,0,3059
+1756371343192,11490,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-291,text,true,,691,431723,295,295,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11490,0,3059
+1756371343138,11555,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-299,text,true,,691,431708,294,294,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11555,0,3111
+1756371343162,11581,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-312,text,true,,691,431717,293,293,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11581,0,3314
+1756371343215,11592,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-419,text,true,,691,431705,292,292,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11592,0,2991
+1756371343137,11704,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-248,text,true,,691,431726,291,291,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11704,0,3102
+1756371345057,9788,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-990,text,true,,691,431714,290,290,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,9788,0,2682
+1756371343294,11584,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-464,text,true,,691,431699,289,289,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11584,0,2952
+1756371343178,11736,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-371,text,true,,691,431723,288,288,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11736,0,3312
+1756371343140,11777,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-243,text,true,,691,431717,287,287,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11777,0,3073
+1756371343245,11672,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-402,text,true,,691,431720,286,286,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11672,0,3169
+1756371343242,11690,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-447,text,true,,691,431723,285,285,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11690,0,3172
+1756371343140,11792,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-321,text,true,,691,431699,285,285,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11792,0,3065
+1756371343139,11800,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-216,text,true,,691,431705,283,283,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11800,0,3064
+1756371343136,11804,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-340,text,true,,691,431723,282,282,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11804,0,3299
+1756371342970,11990,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-189,text,true,,691,431726,281,281,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11990,0,3440
+1756371343303,11682,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-490,text,true,,691,431708,280,280,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11682,0,2874
+1756371343141,11918,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-250,text,true,,691,431723,279,279,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11918,0,3231
+1756371343139,11929,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-309,text,true,,691,431717,278,278,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11929,0,3064
+1756371343182,11916,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-363,text,true,,691,431720,277,277,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11915,0,3023
+1756371343184,11914,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-327,text,true,,691,431723,276,276,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11914,0,3030
+1756371343137,11988,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-278,text,true,,691,431717,275,275,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11988,0,3075
+1756371343248,11890,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-454,text,true,,691,431720,274,274,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11890,0,2973
+1756371343194,11947,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-403,text,true,,691,431711,273,273,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11947,0,3234
+1756371343239,11902,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-432,text,true,,691,431717,273,273,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11902,0,3220
+1756371343245,11930,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-461,text,true,,691,431702,271,271,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11930,0,3161
+1756371343139,12062,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-218,text,true,,691,431711,270,270,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12062,0,3101
+1756371343136,12077,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-310,text,true,,691,431699,269,269,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12077,0,3076
+1756371343191,12026,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-399,text,true,,691,431714,268,268,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12026,0,3019
+1756371343223,12012,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-439,text,true,,691,431717,267,267,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12012,0,2776
+1756371343343,11892,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-528,text,true,,691,431723,267,267,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11892,0,2635
+1756371343140,12098,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-264,text,true,,691,431714,265,265,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12098,0,3085
+1756371343143,12141,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-211,text,true,,691,431720,264,264,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12141,0,3256
+1756371343193,12161,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-405,text,true,,691,431729,263,263,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12161,0,3021
+1756371343000,12371,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-192,text,true,,691,431708,262,262,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12371,0,2948
+1756371343191,12202,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-404,text,true,,691,431717,261,261,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12202,0,3274
+1756371345159,10254,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-930,text,true,,691,431711,260,260,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10254,0,3674
+1756371343242,12190,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-394,text,true,,691,431708,259,259,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12190,0,3178
+1756371343194,12270,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-289,text,true,,691,431723,258,258,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12270,0,3026
+1756371345205,10295,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-897,text,true,,691,431702,257,257,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10295,0,4012
+1756371343238,12299,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-433,text,true,,691,431729,256,256,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12299,0,3290
+1756371343199,12355,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-347,text,true,,691,431705,255,255,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12355,0,3201
+1756371343142,12416,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-233,text,true,,691,431705,254,254,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12416,0,3104
+1756371343231,12329,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-412,text,true,,691,431717,253,253,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12329,0,3250
+1756371343165,12545,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-374,text,true,,691,431717,252,252,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12545,0,3400
+1756371343185,12571,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-305,text,true,,691,431720,251,251,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12571,0,3367
+1756371343181,12576,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-360,text,true,,691,431714,251,251,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12576,0,3247
+1756371343131,12728,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-260,text,true,,691,431714,249,249,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12728,0,3009
+1756371343200,12661,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-414,text,true,,691,431702,248,248,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12661,0,3195
+1756371343298,12577,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-519,text,true,,691,431726,247,247,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12577,0,2860
+1756371343193,12717,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-296,text,true,,691,431705,246,246,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12717,0,3176
+1756371345031,10882,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-766,text,true,,691,431726,245,245,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10882,0,2534
+1756371345208,10712,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-938,text,true,,691,431702,244,244,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10712,0,4097
+1756371344969,10951,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-991,text,true,,691,431729,244,244,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10951,0,2071
+1756371343143,12791,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-194,text,true,,691,431714,242,242,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12791,0,3254
+1756371343092,12860,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-300,text,true,,691,431708,241,241,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12860,0,3231
+1756371342939,13018,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-66,text,true,,691,431726,240,240,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13018,0,3471
+1756371345021,10945,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-935,text,true,,691,431717,239,239,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10945,0,2420
+1756371343139,12827,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-226,text,true,,691,431711,239,239,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12827,0,3071
+1756371343197,12837,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-352,text,true,,691,431711,237,237,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12837,0,3212
+1756371343196,12839,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-415,text,true,,691,431711,236,236,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12839,0,3221
+1756371343108,12933,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-247,text,true,,691,431699,235,235,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12933,0,3301
+1756371343304,12768,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-489,text,true,,691,431726,234,234,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12768,0,2715
+1756371343179,12906,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-388,text,true,,691,431711,233,233,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12906,0,3253
+1756371343209,12876,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-393,text,true,,691,431705,233,233,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12876,0,3199
+1756371343184,12902,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-335,text,true,,691,431717,231,231,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12902,0,3350
+1756371342935,13152,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-81,text,true,,691,431705,230,230,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13152,0,3524
+1756371345325,10811,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-664,text,true,,691,431711,229,229,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10811,0,4597
+1756371343177,12959,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-364,text,true,,691,431708,229,229,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12959,0,3302
+1756371342948,13188,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-164,text,true,,691,431720,227,227,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13188,0,3453
+1756371343204,13015,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-420,text,true,,691,431714,226,226,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13015,0,3227
+1756371344990,11246,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-871,text,true,,691,431714,225,225,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11246,0,2304
+1756371343296,12940,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-481,text,true,,691,431699,225,225,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12940,0,3167
+1756371345006,11232,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-934,text,true,,691,431720,223,223,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11232,0,2239
+1756371345030,11209,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-876,text,true,,691,431711,222,222,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11209,0,2473
+1756371345442,10823,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-925,text,true,,691,431699,221,221,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,10823,0,4675
+1756371343161,13144,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-380,text,true,,691,431726,220,220,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13143,0,3566
+1756371345095,11225,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-960,text,true,,691,431726,219,219,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11225,0,3324
+1756371343141,13184,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-240,text,true,,691,431726,218,218,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13184,0,3066
+1756371343242,13120,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-425,text,true,,691,431714,217,217,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13120,0,3157
+1756371343214,13208,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-401,text,true,,691,431708,216,216,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13208,0,3181
+1756371343136,13287,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-307,text,true,,691,431726,216,216,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13287,0,3235
+1756371345095,11328,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-962,text,true,,691,431711,216,216,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11328,0,3674
+1756371344986,11437,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-999,text,true,,691,431717,215,215,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11437,0,2233
+1756371343136,13302,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-331,text,true,,691,431714,212,212,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13302,0,3005
+1756371343195,13257,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-355,text,true,,691,431699,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13257,0,3239
+1756371343188,13264,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-315,text,true,,691,431726,211,211,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13264,0,3015
+1756371343184,13276,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-368,text,true,,691,431726,209,209,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13276,0,3065
+1756371343230,13230,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-442,text,true,,691,431717,209,209,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13230,0,3226
+1756371343129,13368,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-195,text,true,,691,431708,207,207,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13368,0,2888
+1756371345106,11408,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-905,text,true,,691,431702,206,206,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11408,0,3677
+1756371345226,11288,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-817,text,true,,691,431723,206,206,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11288,0,4175
+1756371345138,11377,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-906,text,true,,691,431708,204,204,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11377,0,3711
+1756371343110,13524,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-239,text,true,,691,431699,203,203,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13524,0,3289
+1756371345179,11456,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-715,text,true,,691,431699,203,203,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11456,0,3811
+1756371343299,13336,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-483,text,true,,691,431711,201,201,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13336,0,3096
+1756371343142,13493,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-249,text,true,,691,431720,201,201,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13493,0,3076
+1756371343193,13443,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-392,text,true,,691,431723,200,200,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13443,0,3049
+1756371345106,11530,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-898,text,true,,691,431720,199,199,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11530,0,3470
+1756371344965,11671,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-860,text,true,,691,431699,198,198,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11671,0,1823
+1756371343180,13460,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-369,text,true,,691,431702,196,196,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13460,0,3298
+1756371343191,13450,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-313,text,true,,691,431729,195,195,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13450,0,3267
+1756371344986,11722,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-868,text,true,,691,431699,194,194,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11722,0,2186
+1756371343207,13501,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-395,text,true,,691,431702,194,194,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13501,0,3223
+1756371345151,11560,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-851,text,true,,691,431699,192,192,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11560,0,3644
+1756371342945,13766,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-40,text,true,,691,431729,192,192,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13766,0,3623
+1756371343110,13602,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-245,text,true,,691,431717,190,190,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13602,0,3100
+1756371344970,11742,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-861,text,true,,691,431717,190,190,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11742,0,1933
+1756371343198,13596,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-344,text,true,,691,431711,188,188,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13596,0,3234
+1756371343141,13754,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-266,text,true,,691,431717,187,187,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13754,0,3082
+1756371343163,13732,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-381,text,true,,691,431702,187,187,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13732,0,3378
+1756371342935,13961,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-61,text,true,,691,431717,187,187,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13961,0,3485
+1756371343182,13714,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-333,text,true,,691,431711,186,186,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13714,0,3353
+1756371343130,13766,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-262,text,true,,691,431708,184,184,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13766,0,2918
+1756371343160,13736,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-320,text,true,,691,431723,184,184,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13736,0,3371
+1756371343296,13600,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-474,text,true,,691,431729,182,182,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13600,0,3158
+1756371345437,11459,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-783,text,true,,691,431729,182,182,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11459,0,4703
+1756371342940,13957,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-58,text,true,,691,431729,180,180,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13957,0,3043
+1756371343237,13660,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-440,text,true,,691,431705,179,179,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13660,0,3220
+1756371343199,13734,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-413,text,true,,691,431711,177,177,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13733,0,2778
+1756371345757,11345,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-770,text,true,,691,431714,176,176,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11345,0,4932
+1756371343191,13911,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-390,text,true,,691,431708,176,176,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13911,0,3294
+1756371342954,14148,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-173,text,true,,691,431708,176,176,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14148,0,3461
+1756371345806,11297,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-993,text,true,,691,431720,173,173,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11297,0,5087
+1756371343141,13962,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-203,text,true,,691,431702,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13962,0,3253
+1756371344987,12117,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-870,text,true,,691,431729,172,172,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12116,0,2130
+1756371343209,13895,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-430,text,true,,691,431702,170,170,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13895,0,3269
+1756371343183,13923,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-348,text,true,,691,431720,169,169,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13923,0,3027
+1756371345768,11338,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-793,text,true,,691,431729,169,169,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11338,0,4988
+1756371343177,13929,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-366,text,true,,691,431726,168,168,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13929,0,3307
+1756371343301,13805,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-473,text,true,,691,431708,166,166,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13805,0,3251
+1756371343245,13862,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-462,text,true,,691,431717,165,165,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13862,0,3168
+1756371343224,13883,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-400,text,true,,691,431723,165,165,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13883,0,2916
+1756371343135,13974,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-328,text,true,,691,431708,163,163,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13974,0,3008
+1756371345137,11973,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-923,text,true,,691,431726,162,162,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11973,0,3460
+1756371343302,13808,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-488,text,true,,691,431702,161,161,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13808,0,3098
+1756371343200,13911,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-338,text,true,,691,431723,160,160,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13911,0,2796
+1756371343239,13872,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-426,text,true,,691,431714,160,160,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13872,0,3242
+1756371343205,13934,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-387,text,true,,691,431714,158,158,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13934,0,3217
+1756371343245,14181,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-446,text,true,,691,431726,157,157,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14181,0,3150
+1756371345022,12404,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-877,text,true,,691,431702,157,157,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12404,0,2444
+1756371344885,12541,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-980,text,true,,691,431723,157,157,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12541,0,2418
+1756371344989,12437,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-917,text,true,,691,431702,154,154,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12437,0,2201
+1756371343152,14274,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-288,text,true,,691,431714,154,154,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14274,0,3264
+1756371343240,14186,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-455,text,true,,691,431711,154,154,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14186,0,3174
+1756371343198,14229,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-346,text,true,,691,431711,151,151,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14229,0,3232
+1756371343207,14220,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-378,text,true,,691,431720,150,150,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14220,0,3201
+1756371343186,14242,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-326,text,true,,691,431714,149,149,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14242,0,3338
+1756371342966,14464,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-99,text,true,,691,431699,148,148,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14464,0,3455
+1756371342961,14469,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-175,text,true,,691,431702,147,147,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14469,0,3445
+1756371343195,14236,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-407,text,true,,691,431717,146,146,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14236,0,3231
+1756371342931,14500,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-128,text,true,,691,431723,145,145,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14500,0,3065
+1756371343230,14203,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-410,text,true,,691,431702,144,144,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14203,0,3229
+1756371342938,14495,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-56,text,true,,691,431711,144,144,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14495,0,3471
+1756371342926,14507,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-110,text,true,,691,431711,144,144,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14507,0,3034
+1756371343142,14292,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-256,text,true,,691,431702,142,142,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14292,0,3082
+1756371342938,14496,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-1,text,true,,691,431720,142,142,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14496,0,3548
+1756371344987,12447,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-998,text,true,,691,431705,139,139,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12447,0,2173
+1756371343217,14217,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-379,text,true,,691,431714,139,139,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14217,0,3239
+1756371345093,12342,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-953,text,true,,691,431726,137,137,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12342,0,3297
+1756371343130,14346,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-276,text,true,,691,431717,136,136,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14346,0,2917
+1756371345069,12551,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-989,text,true,,691,431717,135,135,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12551,0,2714
+1756371343167,14455,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-372,text,true,,691,431705,134,134,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14455,0,3314
+1756371343166,14456,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-297,text,true,,691,431705,134,134,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14456,0,3293
+1756371344970,12653,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-863,text,true,,691,431702,132,132,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12653,0,1929
+1756371343130,14493,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-227,text,true,,691,431705,132,132,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14493,0,2986
+1756371343180,14446,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-334,text,true,,691,431726,130,130,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14446,0,3255
+1756371345152,12475,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-929,text,true,,691,431711,129,129,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12474,0,3541
+1756371345194,12433,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-937,text,true,,691,431699,129,129,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12433,0,3952
+1756371342950,14677,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-160,text,true,,691,431714,129,129,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14677,0,3026
+1756371343017,14610,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-212,text,true,,691,431714,129,129,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14610,0,3376
+1756371343129,14498,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-269,text,true,,691,431726,125,125,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14498,0,3352
+1756371345204,12423,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-939,text,true,,691,431729,125,125,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12423,0,4047
+1756371345094,12534,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-955,text,true,,691,431717,123,123,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12534,0,3367
+1756371345646,11983,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-771,text,true,,691,431699,122,122,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,11983,0,6002
+1756371343181,14452,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-341,text,true,,691,431729,121,121,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14452,0,3246
+1756371343199,14540,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-339,text,true,,691,431723,120,120,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14539,0,3005
+1756371345227,12512,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-890,text,true,,691,431717,120,120,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12512,0,4213
+1756371343404,14338,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-583,text,true,,691,431708,118,118,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14338,0,3026
+1756371343143,14601,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-219,text,true,,691,431720,117,117,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14601,0,3263
+1756371345491,12254,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-746,text,true,,691,431723,117,117,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12254,0,6178
+1756371343135,14610,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-329,text,true,,691,431729,116,116,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14610,0,3010
+1756371343140,14609,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-224,text,true,,691,431726,114,114,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14609,0,3408
+1756371345493,12259,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-752,text,true,,691,431714,113,113,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12259,0,6136
+1756371343192,14560,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-298,text,true,,691,431720,113,113,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14560,0,3347
+1756371345179,12574,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-931,text,true,,691,431711,112,112,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12574,0,3834
+1756371343153,14600,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-258,text,true,,691,431705,111,111,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14600,0,3258
+1756371343140,14613,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-306,text,true,,691,431726,110,110,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14613,0,3106
+1756371345514,12322,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-641,text,true,,691,431729,108,108,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12322,0,5024
+1756371343179,14657,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-391,text,true,,691,431711,108,108,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14657,0,3278
+1756371343204,14633,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-385,text,true,,691,431717,106,106,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14633,0,3223
+1756371343249,14588,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-398,text,true,,691,431711,106,106,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14588,0,2994
+1756371343200,14637,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-397,text,true,,691,431702,104,104,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14637,0,3211
+1756371343247,14592,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-460,text,true,,691,431699,103,103,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14592,0,3161
+1756371343127,14712,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-285,text,true,,691,431729,103,103,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14712,0,2948
+1756371345050,12789,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-767,text,true,,691,431714,103,103,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12789,0,2573
+1756371343138,14702,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-193,text,true,,691,431723,100,100,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14702,0,3341
+1756371345090,12750,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-947,text,true,,691,431699,100,100,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12750,0,2969
+1756371344885,12993,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-853,text,true,,691,431729,98,98,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12993,0,2248
+1756371343165,14789,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-314,text,true,,691,431720,97,97,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14789,0,3313
+1756371343409,14545,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-589,text,true,,691,431711,97,97,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14545,0,2664
+1756371343167,14787,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-373,text,true,,691,431702,97,97,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14787,0,3320
+1756371345006,12948,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-869,text,true,,691,431699,97,97,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12948,0,2311
+1756371343213,14741,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-411,text,true,,691,431720,97,97,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14741,0,3000
+1756371343248,14706,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-370,text,true,,691,431729,94,94,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14706,0,3121
+1756371343166,14788,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-323,text,true,,691,431723,92,92,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14788,0,3374
+1756371343166,14790,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-382,text,true,,691,431699,90,90,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14790,0,3266
+1756371343240,14717,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-427,text,true,,691,431702,89,89,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14717,0,3173
+1756371343186,14774,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-283,text,true,,691,431705,88,88,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14774,0,2974
+1756371343126,14834,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-279,text,true,,691,431699,88,88,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14834,0,3286
+1756371343247,14714,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-444,text,true,,691,431699,88,88,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14714,0,3149
+1756371343140,14821,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-257,text,true,,691,431717,85,85,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14821,0,3078
+1756371343109,14853,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-201,text,true,,691,431702,84,84,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14853,0,3033
+1756371343138,14830,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-301,text,true,,691,431726,83,83,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14830,0,3069
+1756371343141,14893,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-265,text,true,,691,431723,82,82,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14893,0,3101
+1756371343212,14822,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-416,text,true,,691,431726,82,82,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14822,0,3207
+1756371343213,14821,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-417,text,true,,691,431711,82,82,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14821,0,2946
+1756371343238,14798,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-434,text,true,,691,431714,79,79,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14798,0,3196
+1756371343177,14859,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-357,text,true,,691,431714,79,79,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14859,0,3037
+1756371343205,14831,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-389,text,true,,691,431726,79,79,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14831,0,3016
+1756371343191,14846,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-361,text,true,,691,431714,76,76,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14846,0,3352
+1756371343198,14839,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-345,text,true,,691,431702,76,76,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14839,0,3120
+1756371343187,14925,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-330,text,true,,691,431717,74,74,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14925,0,3051
+1756371343130,14982,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-234,text,true,,691,431717,74,74,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14982,0,2912
+1756371343193,14919,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-290,text,true,,691,431711,74,74,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14919,0,3014
+1756371343246,14867,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-463,text,true,,691,431717,74,74,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14866,0,3159
+1756371343201,14911,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-421,text,true,,691,431717,74,74,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14911,0,3016
+1756371345728,12384,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-768,text,true,,691,431723,74,74,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12384,0,4858
+1756371343177,14994,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-359,text,true,,691,431711,68,68,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14994,0,2990
+1756371343109,15063,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-255,text,true,,691,431720,67,67,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15063,0,3284
+1756371343299,14873,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-482,text,true,,691,431699,67,67,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14873,0,2944
+1756371343131,15042,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-251,text,true,,691,431726,66,66,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15042,0,2983
+1756371345052,13121,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-878,text,true,,691,431720,66,66,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13121,0,2617
+1756371343237,14936,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-452,text,true,,691,431723,66,66,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14936,0,3246
+1756371343206,14967,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-384,text,true,,691,431705,65,65,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14967,0,3253
+1756371343136,15146,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-350,text,true,,691,431699,61,61,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15146,0,3031
+1756371343211,15071,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-408,text,true,,691,431723,61,61,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15071,0,3205
+1756371345137,13145,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-827,text,true,,691,431714,61,61,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13145,0,3487
+1756371342963,15319,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-181,text,true,,691,431720,61,61,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15319,0,3249
+1756371343188,15094,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-322,text,true,,691,431726,61,61,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15094,0,3185
+1756371342956,15326,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-150,text,true,,691,431717,61,61,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15326,0,3456
+1756371343208,15075,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-428,text,true,,691,431705,61,61,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15075,0,3218
+1756371345090,13193,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-965,text,true,,691,431708,61,61,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13193,0,3194
+1756371343139,15146,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-217,text,true,,691,431717,53,53,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15146,0,3063
+1756371343130,15157,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-263,text,true,,691,431708,52,52,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15157,0,2916
+1756371343203,15084,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-356,text,true,,691,431723,52,52,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15084,0,3214
+1756371343238,15049,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-453,text,true,,691,431711,52,52,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15049,0,3254
+1756371345769,12518,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-802,text,true,,691,431723,52,52,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12518,0,5072
+1756371343237,15050,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-435,text,true,,691,431720,52,52,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15050,0,3218
+1756371345491,12838,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-745,text,true,,691,431708,47,47,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12838,0,4974
+1756371345844,12485,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-800,text,true,,691,431714,47,47,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,12485,0,4912
+1756371343168,15161,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-317,text,true,,691,431699,47,47,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15161,0,3310
+1756371343185,15144,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-396,text,true,,691,431714,47,47,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15144,0,2993
+1756371343196,15133,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-354,text,true,,691,431717,47,47,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15133,0,2919
+1756371343206,15123,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-386,text,true,,691,431714,46,46,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15123,0,2940
+1756371344966,13363,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-862,text,true,,691,431717,46,46,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13363,0,1667
+1756371345092,13303,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-952,text,true,,691,431726,40,40,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13303,0,3425
+1756371344966,13429,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-855,text,true,,691,431699,40,40,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13429,0,1644
+1756371343230,15167,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-418,text,true,,691,431729,38,38,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15167,0,3304
+1756371343236,15241,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-441,text,true,,691,431729,37,37,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15241,0,3495
+1756371344970,13507,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-996,text,true,,691,431723,37,37,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13507,0,1914
+1756371343210,15267,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-409,text,true,,691,431711,37,37,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15267,0,3189
+1756371342998,15480,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-178,text,true,,691,431699,34,34,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15480,0,2978
+1756371343178,15314,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-367,text,true,,691,431711,33,33,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15314,0,3353
+1756371345270,13226,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-761,text,true,,691,431705,32,32,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13226,0,4185
+1756371343246,15529,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-445,text,true,,691,431723,31,31,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15529,0,3166
+1756371343128,15714,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-303,text,true,,691,431702,30,30,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15714,0,3285
+1756371345162,13808,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-784,text,true,,691,431705,29,29,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13808,0,3704
+1756371345754,13256,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-776,text,true,,691,431720,28,28,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13256,0,4913
+1756371343190,15846,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-351,text,true,,691,431720,27,27,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,15846,0,3293
+1756371342954,16130,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-83,text,true,,691,431726,26,26,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,16130,0,3458
+1756371345183,13970,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-936,text,true,,691,431723,25,25,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13970,0,3881
+1756371345225,14027,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-779,text,true,,691,431702,24,24,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14027,0,4149
+1756371345074,14287,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-951,text,true,,691,431723,23,23,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14287,0,2896
+1756371345089,14320,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-912,text,true,,691,431726,22,22,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14320,0,3002
+1756371345484,13937,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-651,text,true,,691,431717,21,21,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,13937,0,4742
+1756371345193,14279,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-760,text,true,,691,431708,20,20,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14279,0,3895
+1756371345156,14366,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-928,text,true,,691,431708,19,19,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14366,0,3592
+1756371343197,16332,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-353,text,true,,691,431711,19,19,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,16332,0,3221
+1756371345433,14107,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-749,text,true,,691,431702,17,17,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14107,0,4639
+1756371345097,14497,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-972,text,true,,691,431723,16,16,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14496,0,3463
+1756371345204,14402,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-913,text,true,,691,431702,15,15,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14402,0,4013
+1756371345075,14571,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-796,text,true,,691,431720,14,14,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14571,0,2843
+1756371345210,14448,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-811,text,true,,691,431708,13,13,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14448,0,4119
+1756371343401,16308,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-581,text,true,,691,431711,12,12,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,16308,0,3079
+1756371343159,16553,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-375,text,true,,691,431702,11,11,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,16553,0,3314
+1756371343129,16593,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-242,text,true,,691,431726,10,10,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,16593,0,3355
+1756371345075,14688,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-982,text,true,,691,431723,9,9,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14688,0,3045
+1756371343165,16598,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-383,text,true,,691,431705,9,9,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,16598,0,3364
+1756371345491,14314,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-739,text,true,,691,431726,7,7,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14314,0,5000
+1756371345488,14322,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-737,text,true,,691,431729,6,6,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14322,0,4920
+1756371345094,14716,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-954,text,true,,691,431720,6,6,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14716,0,3401
+1756371343297,16514,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-518,text,true,,691,431705,4,4,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,16514,0,3241
+1756371343401,16410,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-580,text,true,,691,431720,4,4,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,16410,0,3083
+1756371343141,16670,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-235,text,true,,691,431708,4,4,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,16670,0,3077
+1756371345089,14728,เพิ่มทะเบียนบุคคลด้วย Excel,200,OK,Thread Group 1-943,text,true,,691,431699,1,1,https://ncds-prevention.buddy-care.org/service/api/v1/patients/excel,14728,0,3060
